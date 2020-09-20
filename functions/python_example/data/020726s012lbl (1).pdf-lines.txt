@@ -1,0 +1,2724 @@
+1
+NOVARTIS
+2
+3
+4
+T200X-XX
+5
+XXXXXXX
+6
+06-15-05
+7
+Femara
+8
+(letrozole tablets)
+9
+2.5 mg Tablets
+10
+Rx only
+11
+Prescribing Information
+12 DESCRIPTION
+13
+Femara R (letrozole tablets) for oral administration contains 2.5 mg of letrozole, a nonsteroidal
+14
+aromatase inhibitor (inhibitor of estrogen synthesis). It is chemically described as 4,4'-(1H-
+15
+1,2,4-Triazol-1-ylmethylene)dibenzonitrile, and its structural formula is
+N
+N
+N
+16
+NC
+CN
+17
+Letrozole is a white to yellowish crystalline powder, practically odorless, freely
+18
+soluble in dichloromethane, slightly soluble in ethanol, and practically insoluble in water. It
+19
+has a molecular weight of 285.31 empirical formula C17H11N5, and a melting range of
+20 1840C-185C.
+21
+Femara R (letrozole tablets) is available as 2.5 mg tablets for oral administration.
+22
+Inactive Ingredients. Colloidal silicon dioxide, ferric oxide, hydroxypropyl
+23
+methylcellulose, lactose monohydrate, magnesium stearate, maize starch, microcrystalline
+24
+cellulose, polyethylene glycol, sodium starch glycolate, talc, and titanium dioxide.
+Page 2
+25
+CLINICAL PHARMACOLOGY
+26
+Mechanism of Action
+27
+The growth of some cancers of the breast is stimulated or maintained by estrogens. Treatment
+28
+of breast cancer thought to be hormonally responsive (i.e., estrogen and/or progesterone
+29
+receptor positive or receptor unknown) has included a variety of efforts to decrease estrogen
+30
+levels
+(ovariectomy,
+adrenalectomy,
+hypophysectomy)
+or
+inhibit
+estrogen
+effects
+31
+(antiestrogens and progestational agents). These interventions lead to decreased tumor mass
+32
+or delayed progression of tumor growth in some women.
+33
+In postmenopausal women, estrogens are mainly derived from the action of the
+34
+aromatase enzyme, which converts adrenal androgens (primarily androstenedione and
+35 testosterone) to estrone and estradiol. The suppression of estrogen biosynthesis in peripheral
+36
+tissues and in the cancer tissue itself can therefore be achieved by specifically inhibiting the
+37
+aromatase enzyme.
+38
+Letrozole is a nonsteroidal competitive inhibitor of the aromatase enzyme system; it
+39 inhibits the conversion of androgens to estrogens In adult nontumor- and tumor-bearing
+40
+female animals, letrozole is as effective as ovariectomy in reducing uterine weight, elevating
+41
+serum LH, and causing the regression of estrogen-dependent tumors. In contrast to
+42
+ovariectomy, treatment with letrozole does not lead to an increase in serum FSH. Letrozole
+43
+selectively inhibits gonadal steroidogenesis but has no significant effect on adrenal
+44
+mineralocorticoid or glucocorticoid synthesis.
+45
+Letrozole inhibits the aromatase enzyme by competitively binding to the heme of the
+46
+cytochrome P450 subunit of the enzyme, resulting in a reduction of estrogen biosynthesis in
+47
+all tissues. Treatment of women with letrozole significantly lowers serum estrone, estradiol
+48 and estrone sulfate and has not been shown to significantly affect adrenal corticosteroid
+49
+synthesis, aldosterone synthesis, or synthesis of thyroid hormones.
+50 Pharmacokinetics
+51
+Letrozole is rapidly and completely absorbed from the gastrointestinal tract and absorption is
+52 not affected by food. It is metabolized slowly to an inactive metabolite whose glucuronide
+53
+conjugate is excreted renally, representing the major clearance pathway. About 90% of
+54
+radiolabeled letrozole is recovered in urine. Letrozole's terminal elimination half-life is about
+55
+2 days and steady-state plasma concentration after daily 2.5 mg dosing is reached in 2-6
+56
+weeks. Plasma concentrations at steady-state are 1.5 to 2 times higher than predicted from the
+57 concentrations measured after a single dose, indicating a slight non-linearity in the
+58
+pharmacokinetics of letrozole upon daily administration of 2.5 mg. These steady-state levels
+59
+are maintained over extended periods, however, and continuous accumulation of letrozole
+60
+does not occur. Letrozole is weakly protein bound and has a large volume of distribution
+61
+(approximately 1.9 L/kg).
+62
+Metabolism and Excretion
+63
+Metabolism to a pharmacologically-inactive carbinol metabolite (4,4'-methanol-
+64
+bisbenzonitrile) and renal excretion of the glucuronide conjugate of this metabolite is the
+65
+major pathway of letrozole clearance. Of the radiolabel recovered in urine, at least 75% was
+Page 3
+66
+the glucuronide of the carbinol metabolite, about 9% was two unidentified metabolites, and
+67
+6% was unchanged letrozole.
+68
+In human microsomes with specific CYP isozyme activity, CYP3A4 metabolized
+69
+letrozole to the carbinol metabolite while CYP2A6 formed both this metabolite and its ketone
+70
+analog. In human liver microsomes, letrozole strongly inhibited CYP2A6 and moderately
+71
+inhibited CYP2C19.
+72
+Special Populations
+73
+Pediatric, Geriatric and Race
+74
+In the study populations (adults ranging in age from 35 to >80 years), no change in
+75
+pharmacokinetic parameters was observed with increasing age. Differences in letrozole
+76
+pharmacokinetics between adult and pediatric populations have not been studied. Differences
+77
+in letrozole pharmacokinetics due to race have not been studied.
+78
+Renal Insufficiency
+79
+In a study of volunteers with varying renal function (24-hour creatinine clearance:
+80
+9-116 mL/min), no effect of renal function on the pharmacokinetics of single doses of 2.5 mg
+81
+of Femara (letrozole tablets) was found. In addition, in a study of 347 patients with advanced
+82
+breast cancer, about half of whom received 2.5 mg Femara and half 0.5 mg Femara, renal
+83
+impairment (calculated creatinine clearance: 20-50 mL/min) did not affect steady-state plasma
+84
+letrozole concentration.
+85
+Hepatic Insufficiency
+86
+In a study of subjects with mild to moderate non-metastatic hepatic dysfunction
+87
+(e.g., cirrhosis, Child-Pugh classification A and B), the mean AUC values of the volunteers
+88
+with moderate hepatic impairment were 37% higher than in normal subjects, but still within
+89 the range seen in subjects without impaired function. In a pharmacokinetics study, subjects
+90
+with liver cirrhosis and severe hepatic impairment (Child-Pugh classification C, which
+91
+included bilirubins about 2-11 times ULN with minimal to severe ascites) had two-fold
+92
+increase in exposure (AUC) and 47% reduction in systemic clearance. Breast cancer patients
+93
+with severe hepatic impairment are thus expected to be exposed to higher levels of letrozole
+94
+than patients with normal liver function receiving similar doses of this drug (See DOSAGE
+95
+AND ADMINISTRATION, Hepatic Impairment.)
+96
+Drug/Drug Interactions
+97
+A pharmacokinetic interaction study with cimetidine showed no clinically significant effect
+98
+on letrozole pharmacokinetics. An interaction study with warfarin showed no clinically
+99
+significant effect of letrozole on warfarin pharmacokinetics. In in-vitro experiments, letrozole
+100
+showed no significant inhibition in the metabolism of diazepam. Similarly, no significant
+101
+inhibition of letrozole metabolism by diazepam was observed.
+102
+Coadministration of Femara and tamoxifen 20 mg daily resulted in a reduction of
+103
+letrozole plasma levels of 38% on average. Clinical experience in the second-line breast
+Page 4
+104
+cancer pivotal trials indicates that the therapeutic effect of Femara therapy is not impaired if
+105
+Femara is administered immediately after tamoxifen.
+106
+There is no clinical experience to date on the use of Femara in combination with other
+107
+anticancer agents.
+108
+Pharmacodynamics
+109
+In postmenopausal patients with advanced breast cancer, daily doses of 0.1 mg to 5 mg
+110
+Femara suppress plasma concentrations of estradiol, estrone, and estrone sulfate by 75%-95%
+111
+from baseline with maximal suppression achieved within two-three days. Suppression is dose-
+112
+related, with doses of 0.5 mg and higher giving many values of estrone and estrone sulfate
+113
+that were below the limit of detection in the assays. Estrogen suppression was maintained
+114
+throughout treatment in all patients treated at 0.5 mg or higher.
+115
+Letrozole is highly specific in inhibiting aromatase activity. There is no impairment
+116
+of adrenal steroidogenesis. No clinically-relevant changes were found in the plasma
+117
+concentrations of cortisol, aldosterone, 11-deoxycortisol, 17-hydroxy-progesterone, ACTH or
+118
+in plasma renin activity among postmenopausal patients treated with a daily dose of Femara
+119
+0.1 mg to 5 mg. The ACTH stimulation test performed after 6 and 12 weeks of treatment with
+120
+daily doses of 0.1, 0.25, 0.5, 1, 2.5, and 5 mg did not indicate any attenuation of aldosterone
+121
+or cortisol production. Glucocorticoid or mineralocorticoid supplementation is, therefore, not
+122
+necessary.
+123
+No changes were noted in plasma concentrations of androgens (androstenedione and
+124
+testosterone) among healthy postmenopausal women after 0.1, 0.5, and 2.5 mg single doses of
+125
+Femara or in plasma concentrations of androstenedione among postmenopausal patients
+126
+treated with daily doses of 0.1 mg to 5 mg. This indicates that the blockade of estrogen
+127
+biosynthesis does not lead to accumulation of androgenic precursors. Plasma levels of LH and
+128
+FSH were not affected by letrozole in patients, nor was thyroid function as evaluated by TSH
+129
+levels, T3 uptake, and T4 levels.
+130
+CLINICAL STUDIES
+131
+Adjuvant Treatment of Early Breast Cancer in Postmenopausal Women
+132
+A multicenter, double-blind study randomized over 8000 postmenopausal women with
+133
+resected, receptor-positive early breast cancer to one of the following arms:
+134
+A. tamoxifen for 5 years
+135
+B. Femara for 5 years
+136
+C. tamoxifen for 2 years followed by Femara for 3 years
+137
+D. Femara for 2 years followed by tamoxifen for 3 years
+138
+139
+Median treatment duration was 24 months, median follow-up duration was 26 months, 76% of
+140
+the patients have been followed for more than 2 years, and 16% of patients for 5 years or
+141
+longer.
+142
+143
+Page 5
+144
+Data in Table 2 reflect results from non-switching arms (arms A and B) together with
+145
+data truncated 30 days after the switch in the two switching arms (arms C and D) The
+146
+analysis of monotherapy VS. sequencing of endocrine treatments will be conducted when the
+147
+necessary number of events has been achieved.
+Selected baseline characteristics for the
+148
+study population are shown in Table 1.
+149
+150
+Table 1: Selected Study Population Demographics for Adjuvant Study (ITT population)
+151
+Baseline Status
+Femara
+tamoxifen
+152
+N=4003
+Ne4007
+153
+Age (median, years)
+61
+61
+154
+Age range (years)
+38-89
+39-90
+155
+Hormone receptor status (%)
+156
+ER+ and/or PgR+
+99.7
+99.7
+157
+Both unknown
+0.3
+0.3
+158
+Nodal status (%)
+159
+Node negative
+52
+52
+160
+Node positive
+41
+41
+161
+Nodal status unknown
+7
+7
+162
+Prior adjuvant chemotherapy (%)
+25
+25
+163
+164
+165
+Table 2 : Adjuvant Study Results
+166
+Femara
+tamoxifen
+Hazard Ratio
+P-Value
+N=4003
+N=4007
+(95 % CI)
+Disease-free survivall
+296
+369
+0.79 (0.68, 0.92)
+0.002
+O
+Node positive
+0.71 (0.59, 0.86)
+0.0005
+O
+Node negative
+0.92 (0.70, 1.22)
+0.572
+O
+Prior adjuvant chemotherapy
+0.70 (0.53, 0.93)
+0.013
+O
+No chemotherapy
+0.83 (0.69, 1.00)
+0.046
+Systemic disease-free survival2
+268
+321
+0.83 (0.70, 0.97)
+0.022
+Time to distant metastasis 3
+184
+249
+0.73 (0.60, 0.88)
+0.001
+O
+Node positive
+0.67; (0.54, 0.84)
+0.0005
+O
+Node negative
+0.90; (0.60, 1.34)
+0.597
+O
+Prior adjuvant chemotherapy
+0.69; (0.50, 0.95)
+0.024
+O
+No chemotherapy
+0.75; (0.60, 0.95)
+0.018
+Contralatera breast cancer
+19
+31
+0.61 (0.35, 1.08)
+0.091
+Page 6
+Overall survival
+166
+192
+0.86 (0.70, 1.06)
+0.155
+O
+Node positive
+0.81 (0.63, 1.05)
+0.113
+O
+Node negative
+0.88 (0.59, 1.30)
+0.507
+O
+Prior adjuvant chemotherapy
+0.76 (0.51, 1.14)
+0.185
+O
+No chemotherapy
+0.90 (0.71, 1.15)
+0.395
+*Definition of
+1 Disease free survival: Time from randomization to the earliest occurrence of invasive loco-regional recurrence,
+distant metastases, invasive contralateral breast cancer, or death from any cause.
+2 Systemic disease free survival: Time from randomization to invasive regional recurrence, distant metastases, or
+death from any cause
+3 Time to distant metastasis: Time from randomization to distant metastases.
+167
+Figure 1 shows the Kaplan-Meier curves for DFS.
+168
+Figure Disease-free survival (ITT population)
+169
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+Start
+12
+24
+36
+48
+60
+=4003
+3912
+2989
+1280
+907
+575 let
+=4007
+3914
+2961
+1258
+881
+549 tam
+Months
+170
+Tamoxifen
+Letrozole
+171
+172
+173
+Extended Adjuvant Treatment of Early Breast Cancer in Postmenopausal Women After
+174
+Completion of 5 Years of Adjuvant Tamoxifen Therapy.
+175
+A double-blind, randomized, placebo-controlled trial of Femara was performed in over 5100
+176
+postmenopausal women with receptor-positive or unknown primary breast cancer who were
+177
+disease-free after 5 years of adjuvant treatment with tamoxifen. Patients had to be within 3
+178
+months of completing the 5 years of tamoxifen.
+179
+The planned duration of treatment for patients in the study was 5 years, but the trial
+180
+was terminated early because of an interim analysis showing a favorable Femara effect on
+181
+time without recurrence or contralateral breast cancer. At the time of unblinding, women had
+Page 7
+182
+been followed for a median of 28 months, 30% of patients had completed 3 or more years of
+183
+follow-up and less than 1% of patients had completed 5 years of follow-up.
+184
+185
+Selected baseline characteristics for the study population are shown in Table 3.
+186
+Table 3: Selected Study Population Demographics (Modified ITT population)
+187
+Baseline Status
+Femara
+Placebo
+188
+N=2582
+N=2586
+189
+Hormone receptor status (%)
+190
+ER- and/or PgR+
+98
+98
+191
+Both unknown
+2
+2
+192
+Nodal status (%)
+193
+Node negative
+50
+50
+194
+Node positive
+46
+46
+195
+Nodal status unknown
+4
+4
+196
+Chemotherapy
+46
+46
+197
+198
+Table 4 shows the study results. Disease-free survival was measured as the time from
+199
+randomization to the earliest event of loco-regional or distant recurrence of the primary
+200
+disease or development of contralateral breast cancer or death. Data were premature for an
+201
+analysis of survival.
+202
+Table 4: Extended Adjuvant Study Results
+Femara
+Placebo
+Hazard Ratio
+P-Value
+N = 2582
+N - 2586
+(95% CI)
+-
+Disease Free Survival (DFS)
+122 (4.7%)
+193 (7.5%)
+0.62 (0.49, 0.49, 0.78) 0.78)
+0.00003
+(First event of loco-regiona recurrence,
+distant relapse, contralateral breast cancer
+or death from any cause)
+Local breast recurrence
+9
+22
+Local chest wall recurrence
+2
+8
+Regional recurrence
+7
+4
+Distant recurrence
+55
+92
+0.61 (0.44 0.84)
+0.003
+Contralateral breast cancer
+19
+29
+Deaths without recurrence or contralateral
+30
+38
+breast cancer
+DFS by stratification
+Receptor status
+- positive
+117/2527(4.6%)
+190/2530(7.5%)
+0.60(0.48,0.76)
+- unknown
+5/55(9.1%)
+3/56(5.4%)
+1.78(0.43,7.5)
+nodal status
+- positive
+77/1184(6.5%)
+123/1187(10.4%)
+0.61(0.46,0.81)
+- negative
+39/1298(3.0%)
+63/1301(4.8%)
+0.61(0.41,0.91)
+- unknown
+6/100(6.0%)
+7/98(7.1%)
+.81(0.27,2.4)
+adjuvant chemotherapy
+- yes
+58/1197(4.8%)
+88/1199(7.3%)
+0.64(0.46,0.90)
+-
+no
+64/1385(4.6%)
+105/1387(7.6%)
+0.60(0.44,0.81)
+Page 8
+Femara
+Placebo
+Hazard Ratio
+P-Value
+N - 2582
+N = 2586
+(95% CI)
+CI - confidence interval for hazard ratio. Hazard ratio of less than 1.0 indicates difference in favor of Femara (lesser
+risk of recurrence); hazard ratio greater than 1.0 indicates difference in favor of placebo (higher risk of recurrence with
+Femara)
+1 Analysis stratified by receptor status, noda status and prior adjuvant chemotherapy (stratification factors as at
+randomization) P-value based on stratified logrank test.
+203
+204
+First-Line Breast Cancer
+205
+A randomized, double-blinded, multinational trial compared Femara 2.5 mg with tamoxifen
+206
+20 mg in 916 postmenopausal patients with locally advanced (Stage IIIB or locoregiona
+207
+recurrence not amenable to treatment with surgery or radiation) or metastatic breast cancer.
+208
+Time to progression (TTP) was the primary endpoint of the trial. Selected baseline
+209
+characteristics for this study are shown in Table 5.
+210
+Table 5: Selected Study Population Demographics
+211
+Baseline Status
+Femara
+tamoxifen
+212
+Ne458
+N=458
+213
+Stage of Disease
+214
+IIIB
+6%
+7%
+215
+IV
+93%
+92%
+216
+Receptor Status
+217
+ER and PgR Positive
+38%
+41%
+218
+ER or PgR Positive
+26%
+26%
+219
+Both Unknown
+34%
+33%
+220
+ER or PgR / Other Unknown
+<1%
+O
+221
+Previous Antiestrogen Therapy
+222
+Adjuvant
+19%
+18%
+223
+None
+81%
+82%
+224
+Dominant Site of Disease
+225
+Soft Tissue
+25%
+25%
+226
+Bone
+32%
+29%
+227
+Viscera
+43%
+46%
+228
+Femara was superior to tamoxifen in TTP and rate of objective tumor response (see Table 6).
+229
+Table 6 summarizes the results of the trial, with a total median follow-up of approximately 32
+230
+months (All analyses are unadjusted and use 2-sided P-values.)
+231
+Table 6: Results
+232
+Femara
+tamoxifen
+Hazard or Odds
+233
+2.5 mg
+20 mg
+Ratio (95% CI)
+234
+N=453
+N=454
+P-value (2-sided)
+235
+Median Time
+236
+to Progression
+9.4 months
+6.0 months
+0.72 (0.62, 0.83)1
+237
+P<0.0001
+238
+Objective Response
+239
+Rate
+240
+(CR + PR)
+145 (32%)
+95 (21%)
+1.77 (1.31, 2.39)2
+Page 9
+241
+P=0.0002
+242
+(CR)
+42 (9%)
+15 (3%)
+2.99 (1.63, 5.47)2
+243
+P=0.0004
+244
+Duration of Objective
+245
+Response
+246
+Median
+18 months
+16 months
+247
+(N=145)
+(N=95)
+248
+Overall Survival
+35 months
+32 months
+249
+(N=458)
+(N=458)
+P=0.5136
+250
+1 Hazard ratio
+251
+2
+Odds ratio
+252
+3
+Overall logrank test
+253
+254
+Figure 2 shows the Kaplan-Meier curves for TTP.
+255
+Figure 2: Kaplan-Meier Estimates of Time to Progression
+256
+(Tamoxifen Study)
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+6
+12
+18
+24
+30
+36
+42
+48
+54
+60
+Months
+Femara 2.5 mg
+tamoxifen 20 mg
+257
+258
+Table 7 shows results in the subgroup of women who had received prior antiestrogen
+259
+adjuvant therapy, Table 8, results by disease site and Table 9, the results by receptor status.
+260
+261
+Table 7: Efficacy in Patients Who Received Prior
+262
+Antiestrogen Therapy
+263
+Variable
+Femara
+tamoxifen
+264
+2.5 mg
+20 mg
+265
+N=84
+N=83
+266
+Median Time to
+267
+Progression (95% CI)
+8.9 months (6.2, 12.5)
+5.9 months (3.2, 6.2)
+268
+Hazard Ratio
+269
+for TTP (95% CI)
+0.60 (0.43, 0.84)
+270
+Objective Response Rate
+271
+(CR + PR)
+22 (26%)
+7 (8%)
+Page 10
+272
+Odds Ratio for
+273
+Response (95% CI)
+3.85 (1.50, 9. 9.60)
+274
+Hazard ratio less than 1 or odds ratio greater than 1 favors Femara; hazard ratio greater than 1 or odds ratio less
+275
+than 1 favors tamoxifen.
+276
+Table 8: Efficacy by Disease Site
+277
+Femara
+tamoxifen
+278
+2.5 mg
+20 mg
+279
+Dominant Disease Site
+280
+Soft Tissue:
+N=113
+N=115
+281
+Median TTP
+12.1 months
+6.4 months
+282
+Objective Response
+283
+Rate
+50%
+34%
+284
+Bone:
+N=145
+N=131
+285
+Median TTP
+9.5 months
+6.3 months
+286
+Objective Response
+287
+Rate
+23%
+15%
+288
+Viscera:
+N=195
+N=208
+289
+Median TTP
+8.3 months
+4.6 months
+290
+Objective Response
+291
+Rate
+28%
+17%
+292
+293
+Table 9: Efficacy by Receptor Status
+294
+Variable
+Femara
+tamoxifen
+295
+2.5 mg
+20 mg
+296
+Receptor Positive
+N=294
+N=305
+297
+Median Time to
+298
+Progression (95% CI)
+9.4 months (8.9, 11.8)
+6.0 months (5.1, 8.5)
+299
+Hazard Ratio for
+300
+TTP (95% CI)
+0.69 (0.58, 0.83)
+301
+Objective Response
+302
+Rate (CR+PR)
+97 (33%)
+66 (22%)
+303
+Odds Ratio for Response
+304
+(95% CI)
+1.78 (1.20,2 2.60)
+305
+Receptor Unknown
+N=159
+N=149
+306
+Median Time to
+307
+Progression (95% CI)
+9.2 months (6.1, 12.3)
+6.0 months (4.1, 6.4)
+308
+Hazard Ratio for
+309
+TTP (95% CI)
+0.77 (0.60, 0.99)
+310
+Objective Response
+311
+Rate (CR+PR)
+48 (30%)
+29 (20%)
+312
+Odds Ratio for Response
+313
+(95% CI)
+1.79 (1.10, 3.00)
+314
+Hazard ratio less than 1 or odds ratio greater than 1 favors Femara; hazard ratio greater than 1 or odds ratio less
+315
+than 1 favors tamoxifen
+316
+Figure 3 shows the Kaplan-Meier curves for survival.
+Page 11
+317
+Figure 3: Survival by Randomized Treatment Arm
+1.0
+1.0
+0.9
+0.9
+0.8
+0.8
+0.7
+0.7
+0.6
+0.6
+0.5
+0.5
+0.4
+0.4
+0.3
+0.3
+0.2
+0.2
+0.1
+0.1
+0.0
+0.0
+0
+6
+12
+18
+24
+30
+36
+42
+48
+54
+60
+Months
+letrozole 1st
+tamoxifen 1st
+318
+319
+Legend: Randomized Femara: n=458 events 57%, median overall survival 35 months (95% CI 32 to
+320
+38 months)
+321
+Randomized tamoxifen: n=458, events 57%, median overall survival 32 months (95% CI 28 to 37
+322
+months)
+323
+Overall logrank P=0.5136 (i.e., there was no significant difference between treatment arms in overall
+324
+survival).
+325
+The median overall survival was 35 months for the Femara group and 32 months for
+326
+the tamoxifen group, with a P value 0.5136.
+327
+Study design allowed patients to crossover upon progression to the other therapy.
+328
+Approximately 50% of patients crossed over to the opposite treatment arm and almost all
+329
+patients who crossed over had done SO by 36 months. The median time to crossover was 17
+330
+months (Femara to tamoxifen) and 13 months (tamoxifen to Femara). In patients who did not
+331
+crossover to the opposite treatment arm, median survival was 35 months with Femara (n-219,
+332
+95% Cl 29 to 43 months) VS. 20 months with tamoxifen (n-229, 95% Cl 16 to 26 months).
+333
+Second-Line Breast Cancer
+334
+Femara was initially studied at doses of 0.1 mg to 5.0 mg daily in six non-comparative Phase
+335
+I/II trials in 181 postmenopausal estrogen/progesterone receptor positive or unknown
+336
+advanced breast cancer patients previously treated with at least anti-estrogen therapy Patients
+337
+had received other hormonal therapies and also may have received cytotoxic therapy. Eight
+338
+(20%) of forty patients treated with Femara 2.5 mg daily in Phase I/II trials achieved an
+339
+objective tumor response (complete or partial response).
+340
+Two large randomized controlled multinational (predominantly European) trials were
+341
+conducted in patients with advanced breast cancer who had progressed despite antiestrogen
+342
+therapy Patients were randomized to Femara 0.5 mg daily, Femara 2.5 mg daily, or a
+343
+comparator (megestrol acetate 160 mg daily in one study; and aminoglutethimide 250 mg
+Page 12
+344
+b.i.d. with corticosteroid supplementation in the other study). In each study over 60% of the
+345
+patients had received therapeutic antiestrogens, and about one-fifth of these patients had had
+346
+an objective response. The megestrol acetate controlled study was double-blind; the other
+347
+study was open label. Selected baseline characteristics for each study are shown in Table 10.
+348
+Table 10: Selected Study Population Demographics
+349
+Parameter
+megestrol acetate
+aminoglutethimide
+350
+study
+study
+351
+No. of Participants
+552
+557
+352
+Receptor Status
+353
+ER/PR Positive
+57%
+56%
+354
+ER/PR Unknown
+43%
+44%
+355
+Previous Therapy
+356
+Adjuvant Only
+33%
+38%
+357
+Therapeutic +/- Adj.
+66%
+62%
+358
+Sites of Disease
+359
+Soft Tissue
+56%
+50%
+360
+Bone
+50%
+55%
+361
+Viscera
+40%
+44%
+362
+Confirmed objective tumor response (complete response plus partial response) was the
+363
+primary endpoint of the trials. Responses were measured according to the Union
+364
+Internationale Contre le Cancer (UICC) criteria and verified by independent, blinded review.
+365
+All responses were confirmed by a second evaluation 4-12 weeks after the documentation of
+366
+the initial response.
+367
+Table 11 shows the results for the first trial, with a minimum follow-up of 15 months,
+368
+that compared Femara 0.5 mg, Femara 2.5 mg, and megestrol acetate 160 mg daily. (All
+369
+analyses are unadjusted.)
+370
+Table 11: Megestrol Acetate Study Results
+371
+Femara
+Femara
+megestrol
+372
+0.5 mg
+2.5 mg
+acetate
+373
+N=188
+N=174
+N=190
+374
+Objective
+375
+Response
+376
+(CR + PR)
+22 (11.7%)
+41 (23.6%)
+31 (16.3%)
+377
+Median Duration
+378
+of Response
+552 days
+(Not reached)
+561 days
+379
+Median Time
+380
+to Progression
+154 days
+170 days
+168 days
+381
+Median
+382
+Survival
+633 days
+730 days
+659 days
+383
+Odds Ratio
+384
+for Response
+Femara 2.5: Femara 0.5 - 2.33
+Femara 2.5: megestrol - 1.58
+385
+(95% Cl: 1.32, 4.17); P=0.004*
+(95% Cl: 0.94, 2.66); P=0.08*
+386
+Relative Risk
+387
+of Progression
+Femara 2.5: Femara 0.5 - 0.81
+Femara 2.5: megestrol - 0.77
+Page 13
+388
+(95% Cl: 0.63, 1.03); P=0.09*
+(95% Cl: 0.60, 0.98), P=0.03*
+389
+* two-sided P-value
+390
+The Kaplan-Meier Curve for progression for the megestrol acetate study is shown in
+391
+Figure 4.
+392
+Figure 4: Kaplan-Meier Estimates of Time to Progression (Megestrol Acetate Study)
+1.0
+0.9
+0.s
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+100
+200
+880
+400
+500
+$00
+700
+800
+900
+1000
+TIME TO PROGRESSION (INDAYS)
+Treatmont Group:
+Femarae
+0.5
+mg
+Femnara 2.5 mg
+MA
+393
+394
+The results for the study comparing Femara to aminoglutethimide, with a minimum
+395
+follow-up of nine months, are shown in Table 12. (Unadjusted analyses are used.)
+396
+Table 12: Aminoglutethimide Study Results
+397
+Femara
+Femara
+398
+0.5 mg
+2.5 mg
+aminoglutethimide
+399
+N=193
+N=185
+N=179
+400
+Objective
+401
+Response
+402
+(CR + PR)
+34 (17.6%)
+34 (18.4%)
+22 (12.3%)
+403
+Median
+404
+Duration of
+405
+Response
+619 days
+706 days
+450 days
+406
+Median
+407
+Time To
+408
+Progression
+103 days
+123 days
+112 days
+409
+Median
+410
+Survival
+636 days
+792 days
+592 days
+411
+Odds Ratio
+412
+for Response
+Femara 2.5:
+Femara 2.5:
+413
+Femara 0.5=1.05
+aminoglutethimide=1.6
+414
+(95% Cl: 0.62, 1.79); P=0.85*
+(95% CI: 0.90, 2.87); P=0.11*
+415
+Relative Risk
+416
+of Progression
+Femara 2.5:
+Femara 2.5:
+Page 14
+417
+Femara 0.5-0.86
+aminoglutethimide=0.74
+418
+(95% Cl: 0.68, 1.11); P=0.25*
+(95% Cl: 0.57, 0.94), P=0.02*
+419
+*two-sided P-value
+420
+The Kaplan-Meier Curve for progression for the aminoglutethimide study is shown in
+421
+Figure 5.
+422
+Figure 5 Kaplan-Meier Estimates of Time to Progression (Aminoglutethimide Study)
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+TIME TO PROGRESSION (IN DAYS)
+Treatment Group:
+Femara 0.5 mg
+Femara E 2.5 mg
+AG
+423
+424
+INDICATIONS AND USAGE
+425
+Femara R (letrozole tablets) is indicated for the adjuvant treatment of postmenopausal women
+426
+with hormone receptor positive early breast cancer (see CLINICAL STUDIES).
+427
+The effectiveness of Femara in early breast cancer is based on an analysis of disease-
+428
+free survival in patients treated for a median of 24 months and followed for a median of 26
+429
+months (see CLINICAL STUDIES) Follow up analyses will determine long-term outcomes
+430
+for both safety and efficacy.
+431
+Femara is indicated for the extended adjuvant treatment of early breast cancer in
+432
+postmenopausal women who have received 5 years of adjuvant tamoxifen therapy (see
+433
+CLINICAL STUDIES). The effectiveness of Femara in extended adjuvant treatment of early
+434
+breast cancer is based on an analysis of disease-free survival in patients treated for a median
+435
+of 24 months (see CLINICAL STUDIES). Further data will be required to determine long-
+436
+term outcome.
+437
+Femara is indicated for first-line treatment of postmenopausal women with hormone
+438
+receptor positive or hormone receptor unknown locally advanced or metastatic breast cancer.
+439
+Femara is also indicated for the treatment of advanced breast cancer in postmenopausal
+440
+women with disease progression following antiestrogen therapy.
+Page 15
+441
+CONTRAINDICATIONS
+442
+Femara (letrozole tablets) is contraindicated in patients with known hypersensitivity to
+443
+Femara or any of its excipients.
+444 WARNINGS
+445 Pregnancy
+446
+Femara may cause fetal harm when administered to pregnant women. Studies in rats at doses
+447
+equal to or greater than 0.003 mg/kg (about 1/100 the daily maximum recommended human
+448
+dose on a mg/m2 basis) administered during the period of organogenesis, have shown that
+449 letrozole is embryotoxic and fetotoxic, as indicated by intrauterine mortality, increased
+450
+resorption, increased postimplantation loss, decreased numbers of live fetuses and fetal
+451
+anomalies including absence and shortening of renal papilla, dilation of ureter, edema and
+452 incomplete ossification of frontal skull and metatarsals. Letrozole was teratogenic in rats A
+453
+0.03 mg/kg dose (about 1/10 the daily maximum recommended human dose on a mg/m2
+454
+basis) caused fetal domed head and cervical/centrum vertebral fusion.
+455
+Letrozole is embryotoxic at doses equal to or greater than 0.002 mg/kg and fetotoxic
+456
+when administered to rabbits at 0.02 mg/kg (about 1/100,000 and 1/10,000 the daily
+457
+maximum recommended human dose on a mg/m basis, respectively). Fetal anomalies
+458
+included incomplete ossification of the skull, sternebrae, and fore- a and hindlegs
+459
+There are no studies in pregnant women. Femara" (letrozole tablets) is indicated for
+460
+postmenopausal women. If there is exposure to letrozole during pregnancy, the patient should
+461
+be apprised of the potential hazard to the fetus and potentia risk for loss of the pregnancy.
+462
+PRECAUTIONS
+463
+Since fatigue and dizziness have been observed with the use of Femara (letrozole tablets)
+464
+and somnolence was uncommonly reported, caution is advised when driving or using
+465 machinery.
+466
+Laboratory Tests
+467
+No dose-related effect of Femara on any hematologic or clinical chemistry parameter was
+468
+evident. Moderate decreases in lymphocyte counts, of uncertain clinical significance, were
+469
+observed in some patients receiving Femara 2.5 mg. This depression was transient in about
+470
+half of those affected. Two patients on Femara developed thrombocytopenia; relationship to
+471
+the study drug was unclear. Patient withdrawal due to laboratory abnormalities, whether
+472
+related to study treatment or not, was infrequent.
+473
+Increases in SGOT, SGPT, and gamma GT >5 times the upper limit of normal (ULN)
+474
+and of bilirubin >1.5 times the ULN were most often associated with metastatic disease in the
+475
+liver. About 3% of study participants receiving Femara had abnormalities in liver chemistries
+476
+not associated with documented metastases; these abnormalities may have been related to
+477
+study drug therapy. In the megestrol acetate comparative study about 8% of patients treated
+478
+with megestrol acetate had abnormalities in liver chemistries that were not associated with
+Page 16
+479
+documented liver metastases; in the aminoglutethimide study about 10% of
+480
+aminoglutethimide-treated patients had abnormalities in liver chemistries not associated with
+481
+hepatic metastases.
+482
+In the adjuvant setting, an increase in total cholesterol (generally non-fasting) in
+483 patients who had baseline values of total serum cholesterol within the normal range, and then
+484
+subsequently had an increase in total serum cholesterol of 1.5 ULN was 173/3203 (5.4%) on
+485
+letrozole VS. 40/3224 (1.2%) on tamoxifen. Lipid lowering medications were used by 18% of
+486
+patients on letrozole and 12% on tamoxifen.
+487
+488
+Bone Effects
+489
+In the extended adjuvant setting, preliminary results (median duration of follow-up was 20
+490
+months) from the bone sub-study (Calcium 500 mg and Vitamin D 400 IU per day mandatory;
+491
+bisphosphonates not allowed) demonstrated that at 2 years the mean decrease compared to
+492
+baseline in hip BMD in Femara patients was 3% versus 0.4% for placebo (P-0.048). The
+493
+mean decrease from baseline BMD results for the lumbar spine at 2 years was Femara 4.6%
+494
+decrease and placebo 2.2% (P=0.069). Consideration should be given to monitoring BMD.
+495
+Drug Interactions
+496
+Clinical interaction studies with cimetidine and warfarin indicated that the coadministration of
+497
+Femara with these drugs does not result in clinically-significant drug interactions. (See
+498
+CLINICAL PHARMACOLOGY.)
+499
+Coadministration of Femara and tamoxifen 20 mg daily resulted in a reduction of
+500
+letrozole plasma levels by 38% on average. There is no clinical experience to date on the use
+501
+of Femara in combination with other anticancer agents.
+502
+Hepatic Insufficiency
+503
+Subjects with cirrhosis and severe hepatic dysfunction (see CLINICAL PHARMACOLOGY,
+504
+Special Populations) who were dosed with 2.5 mg of Femara experienced approximately
+505
+twice the exposure to Femara as healthy volunteers with normal liver function. Therefore, a
+506
+dose reduction is recommended for this patient population The effect of hepatic impairment
+507
+on Femara exposure in cancer patients with elevated bilirubin levels has not been determined.
+508
+(See DOSAGE AND ADMINISTRATION.)
+509
+Drug/Laboratory Test-Interactions
+510
+None observed.
+511
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+512
+A conventional carcinogenesis study in mice at doses of 0.6 to 60 mg/kg/day (about one to
+513
+100 times the daily maximum recommended human dose on a mg/m basis) administered by
+514
+oral gavage for up to 2 years revealed a dose-related increase in the incidence of benign
+515
+ovarian stromal tumors. The incidence of combined hepatocellular adenoma and carcinoma
+516
+showed a significant trend in females when the high dose group was excluded due to low
+517
+survival. In a separate study, plasma AUCo-12hr levels in mice at 60 mg/kg/day were 55 times
+Page 17
+518 higher than the AUC-24hr level in breast cancer patients at the recommended dose. The
+519
+carcinogenicity study in rats at oral doses of 0.1 to 10 mg/kg/day (about 0.4 to 40 times the
+520
+daily maximum recommended human dose on a mg/m basis) for up to 2 years also produced
+521
+an increase in the incidence of benign ovarian stromal tumors at 10 mg/kg/day. Ovarian
+522
+hyperplasia was observed in females at doses equal to or greater than 0.1 mg/kg/day At
+523
+10 mg/kg/day, plasma AUC-24hr levels in rats were 80 times higher than the level in breast
+524
+cancer patients at the recommended dose.
+525
+Femara was not mutagenic in in vitro tests (Ames and E.coli bacterial tests) but was
+526
+observed to be a potential clastogen in in vitro assays (CHO K1 and CCL 61 Chinese hamster
+527
+ovary cells). Letrozole was not clastogenic in vivo (micronucleus test in rats).
+528
+Studies to investigate the effect of letrozole on fertility have not been conducted;
+529
+however, repeated dosing caused sexual inactivity in females and atrophy of the reproductive
+530
+tract in males and females at doses of 0.6, 0.1 and 0.03 mg/kg in mice, rats and dogs,
+531
+respectively (about one, 0.4 and 0.4 the daily maximum recommended human dose on a
+532
+mg/m basis, respectively).
+533 Pregnancy
+534
+Pregnancy Category D (See WARNINGS).
+535
+Nursing Mothers
+536
+It is not known if letrozole is excreted in human milk. Because many drugs are excreted in
+537
+human milk, caution should be exercised when letrozole is administered to a nursing woman
+538
+(see WARNINGS and PRECAUTIONS)
+539
+Pediatric Use
+540
+The safety and effectiveness in pediatric patients have not been established.
+541
+Geriatric Use
+542
+The median age of patients in all studies of first-line and second-line treatment of metastatic
+543
+breast cancer was 64-65 years. About 1/3 of the patients were >70 years old. In the first-line
+544
+study patients >70 years of age experienced longer time to tumor progression and higher
+545
+response rates than patients <70.
+546
+For the extended adjuvant setting, more than 5100 postmenopausal women were
+547
+enrolled in the clinical study. In total, 41% of patients were aged 65 years or older at
+548
+enrollment, while 12% were 75 or older. In the extended adjuvant setting, no overall
+549
+differences in safety or efficacy were observed between these older patients and younger
+550
+patients, and other reported clinical experience has not identified differences in responses
+551
+between the elderly and younger patients, but greater sensitivity of some older individuals
+552
+cannot be ruled out.
+553
+In the adjuvant setting, more than 8000 postmenopausal women were enrolled in the
+554
+clinical study. In total, 36 % of patients were aged 65 years or older at enrollment, while 12%
+555
+were 75 or older. More adverse events were generally reported in elderly patients irrespective
+556
+of study treatment allocation. However, in comparison to tamoxifen, no overall differences
+Page 18
+557
+with regards to the safety and efficacy profiles were observed between elderly patients and
+558
+younger patients
+559
+ADVERSE REACTIONS
+560
+Femara R (letrozole tablets) was generally well tolerated across all studies in first-line and
+561
+second-line metastatic breast cancer, adjuvant treatment, as well as extended adjuvant
+562
+treatment in women who have received prior adjuvant tamoxifen treatment. Generally, the
+563
+observed adverse reactions are mild or moderate in nature.
+564
+Adjuvant Treatment of Early Breast Cancer in Postmenopausa women
+565
+The median duration of adjuvant treatment was 24 months and the median duration of follow-
+566
+up for safety was 26 months for patients receiving Femara and tamoxifen.
+567
+Certain adverse events were prospectively specified for analysis, based on the known
+568
+pharmacologic properties and side effect profiles of the two drugs.
+569
+Adverse events were analyzed irrespective of whether a symptom was present or
+570
+absent at baseline. Most adverse events reported (82%) were grade 1 or grade 2 applying the
+571
+Common Toxicity Criteria Version 2.0. Table 13 describes adverse events (grades 1-4)
+572
+irrespective of relationship to study treatment in the adjuvant BIG 1-98 trial (safety
+573
+population, during treatment or within 30 days of stopping treatment).
+574
+575
+Table 13
+Patients with adverse events (CTC grades 1-4, irrespective of
+576
+relationship to study drug) in the adjuvant study BIG 1-98
+Grades 1-4
+Grades 3-4
+Adverse event
+Letrozole
+Tamoxifen
+Letrozole
+Tamoxifen
+N=3975
+N=3988
+N=3975
+N=3988
+n (%)
+n (%)
+n (%)
+n (%)
+Hot flashes / flushes
+1338
+(33.7)
+1515
+(38.0)
+O
+-
+O
+-
+Arthralgialarthritis
+840
+(21.1)
+535
+(13.4)
+88
+(2.2)
+49
+(1.2)
+Night sweats
+561
+(14.1)
+654
+(16.4)
+0
+-
+O
+-
+Weight increase
+425
+(10.7)
+515
+(12.9)
+21
+(0.5)
+44
+(1.1)
+Nausea
+378
+(9.5)
+416
+(10.4)
+6
+(0.2)
+10
+(0.3)
+Fatigue (lethargy, malaise,
+333
+(8.4)
+345
+(8.7)
+9
+(0.2)
+9
+(0.2)
+asthenia)
+Edema
+286
+(7.2)
+287
+(7.2)
+5
+(0.1)
+2
+(<0.1)
+Myalgia
+255
+(6.4)
+243
+(6.1)
+26
+(0.7)
+17
+(0.4)
+Bone fractures
+223
+(5.6)
+158
+(4.0)
+76
+(1.9)
+45
+(1.1)
+Vaginal bleeding
+177
+(4.5)
+411
+(10.3)
+2
+(<0.1)
+7
+(0.2)
+Headache
+141
+(3.5)
+126
+(3.2)
+12
+(0.3)
+6
+(0.2)
+Vaginal irritation
+139
+(3.5)
+122
+(3.1)
+6
+(0.2)
+3
+(<0.1)
+Vomiting
+109
+(2.7)
+106
+(2.7)
+6
+(0.2)
+8
+(0.2)
+Dizziness/light-headedness
+96
+(2.4)
+110
+(2.8)
+1
+(<0.1)
+8
+(0.2)
+Osteoporosis
+79
+(2.0)
+44
+(1.1)
+6
+(0.2)
+7
+(0.2)
+Constipation
+59
+(1.5)
+95
+(2.4)
+4
+(0.1)
+1
+(<0.1)
+Endometrial proliferation
+10
+(0.3)
+71
+(1.8)
+1
+(<0.1)
+12
+(0.3)
+Page 19
+Grades 1-4
+Grades 3-4
+Adverse event
+Letrozole
+Tamoxifen
+Letrozole
+Tamoxifen
+N=3975
+N=3988
+N=3975
+Ne3988
+n (%)
+n (%)
+n (%)
+n (%)
+disorders
+Endometrial cancer
+1
+7/3089
+(0.2)
+12/3157
+(0.4)
+-
+-
+-
+-
+Other endometrial disorders
+3
+(<0.1)
+4
+(0.1)
+O
+1
+(<0.1)
+Myocardial infarction
+17
+(0.4)
+14
+(0.4)
+15
+(0.4)
+11
+(0.3)
+Cerebrovascular/TIA
+44
+(1.1)
+41
+(1.0)
+43
+(1.1)
+40
+(1.0)
+Angina
+27
+(0.7)
+24
+(0.6)
+17
+(0.4)
+7
+(0.2)
+Thromboembolic event
+44
+(1.1)
+109
+(2.7)
+29
+(0.7)
+79
+(2.0)
+Other cardiovascular
+261
+(6.6)
+248
+(6.2)
+97
+(2.4)
+71
+(1.8)
+Second malignancies 2
+76/4003
+(1.9)
+96/4007
+(2.4)
+-
+-
+-
+-
+1
+Based on safety population excluding patients who had undergone hysterectomy; time frame is any time after
+randomization; no CTC grades collected (yes/no response)
+2 Based on the intent-to-treat population; time frame is any time after randomization; no CTC grades collected
+(yes/no response)
+577
+When considering all grades, a higher incidence of events was seen for Femara regarding
+578
+fractures (5.7% VS. 4%), myocardia infarctions (0.6% VS. 0.4%), and arthralgia (21.2% VS.
+579
+13.5%) (Femara VS. tamoxifen respectively). A higher incidence was seen for tamoxifen
+580
+regarding thromboembolic events (1.2% VS. 2.8%), endometrial cancer (0.2% VS. 0.4%), and
+581
+endometrial proliferative disorders (0.3% VS. 1.8%) (Femara VS. tamoxifen respectively).
+582
+583
+Extended Adjuvant Treatment of Early Breast Cancer in Postmenopausal
+584
+Women who have Received 5 Years of Adjuvant Tamoxifen Therapy.
+585
+The median duration of extended adjuvant treatment was 24 months and the median duration
+586
+of follow-up for safety was 28 months for patients receiving Femara and placebo
+587
+Table 14 describes the adverse events occurring at a frequency of at least 5% in any
+588
+treatment group during treatment. Most adverse events reported were grade 1 and grade 2
+589
+based on the Common Toxicity Criteria Version 2.0. In the extended adjuvant setting, the
+590
+reported drug related adverse events that were significantly different from placebo were hot
+591
+flashes, arthralgia/arthritis, and myalgia.
+592
+Table 14: Percentage of patients with adverse events
+593
+Number (%)of patients with grade
+Number (%)o patients with grade
+1-4 adverse event
+3-4 adverse event
+Femara
+Placebo
+Femara
+Placebo
+N=2563
+N=2573
+N=2563
+N=2573
+Any adverse event
+2232 (87.1)
+2174 (84.5)
+419 (16.3)
+389 (15.1)
+Vascular disorders
+1375 (53.6)
+1230 (47.8)
+59 (2.3)
+74 (2.9)
+Flushing
+1273 (49.7)
+1114 (43.3)
+3 (0.1)
+0
+General disorders
+1154 (45.0)
+1090 (42.4)
+30 (1.2)
+28 (1.1)
+Asthenia
+862 (33.6)
+826 (32.1)
+16 (0.6)
+7 (0.3)
+Page 20
+Edema NOS
+471 (18.4)
+416 (16.2)
+4 (0.2)
+3 (0.1)
+Musculoskeletal disorders
+978 (38.2)
+836 (32.5)
+71 (2.8)
+50 (1.9)
+Arthralgia
+565 (22.0)
+465 (18.1)
+25 (1.0)
+20 (0.8)
+Arthritis NOS
+173 (6.7)
+124 (4.8)
+10 (0.4)
+5 (0.2)
+Myalgia
+171 (6.7)
+122 (4.7)
+8 (0.3)
+6 (0.2)
+Back pain
+129 (5.0)
+112 (4.4)
+8 (0.3)
+7 (0.3)
+Nervous system disorders
+863 (33.7)
+819 (31.8)
+65 (2.5)
+58 (2.3)
+Headache
+516 (20.1)
+508 (19.7)
+18 (0.7)
+17 (0.7)
+Dizziness
+363 (14.2)
+342 (13.3)
+9 (0.4)
+6 (0.2)
+Skin disorders
+830 (32.4)
+787 (30.6)
+17 (0.7)
+16 (0.6)
+Sweating increased
+619 (24.2)
+577 (22.4)
+1 (<0.1)
+O
+Gastrointestinal disorders
+725 (28.3)
+731 (28.4)
+43 (1.7)
+42 (1.6)
+Constipation
+290 (11.3)
+304 (11.8)
+6 (0.2)
+2 (<0.1)
+Nausea
+221 (8.6)
+212 (8.2)
+3 (0.1)
+10 (0.4)
+Diarrhea NOS
+128 (5.0)
+143 (5.6)
+12 (0.5)
+8 (0.3)
+Metabolic disorders
+551 (21.5)
+537 (20.9)
+24 (0.9)
+32 (1.2)
+Hypercholesterolaemia
+401 (15.6)
+398 (15.5)
+2 (<0.1)
+5 (0.2)
+Reproductive disorders
+303 (11.8)
+357 (13.9)
+9 (0.4)
+8 (0.3)
+Vaginal haemorrhage
+123 (4.8)
+171 (6.6)
+2 (<0.1)
+5 (0.2)
+Vulvovaginal dryness
+137 (5.3)
+127 (4.9)
+O
+O
+Psychiatric disorders
+320 (12.5)
+276 (10.7)
+21 (0.8)
+16 (0.6)
+Insomnia
+149 (5.8)
+120 (4.7)
+2 (<0.1)
+2 (<0.1)
+Respiratory disorders
+279 (10.9)
+260 (10.1)
+30 (1.2)
+28 (1.1)
+Dyspnoea
+140 (5.5)
+137 (5.3)
+21 (0.8)
+18 (0.7)
+Investigations
+184 (7.2)
+147 (5.7)
+13 (0.5)
+13 (0.5)
+Infections and infestations
+166 (6.5)
+163 (6.3)
+40 (1.6)
+33 (1.3)
+Renal disorders
+130 (5.1)
+100 (3.9)
+12 (0.5)
+6 (0.2)
+594
+595
+The duration of follow-up for both the main clinical study and the bone study were
+596
+insufficient to assess fracture risk associated with long-term use of Femara. Based on a
+597
+median follow-up of patients for 28 months, the incidence of clinical fractures from the core
+598
+randomized study in patients who received Femara was 5.9% (152) and placebo was 5.5%
+599
+(142). The incidence of self-reported osteoporosis was higher in patients who received
+600
+Femara 6.9% (176) than in patients who received placebo 5.5% (141). Bisphosphonates were
+601
+administered to 21.1% of the patients who received Femara and 18.7% of the patients who
+602
+received placebo.
+603
+Preliminary results (median duration of follow-up was 20 months) from the bone sub-
+604
+study (Calcium 500 mg and Vitamin D 400 IU per day mandatory; bisphosphonates not
+605
+allowed) demonstrated that at 2 years the mean decrease compared to baseline in hip BMD in
+606
+Femara patients was 3% versus 0.4% for placebo. The mean decrease from baseline BMD
+607
+results for the lumbar spine at 2 years were Femara 4.6% decrease and placebo 2.2%.
+608
+The incidence of cardiovascular ischemic events from the core randomized study was
+609
+comparable between patients who received Femara 6.8% (175) and placebo 6.5% (167).
+610
+Preliminary results (median duration of follow-up was 30 months) from the lipid sub-
+611
+study did not show significant differences between the Femara and placebo groups. The
+Page 21
+612
+HDL:LDL ratio decreased after the first 6 months of therapy but the decrease was similar in
+613
+both groups and no statistically significant differences were detected.
+614
+A patient-reported measure that captures treatment impact on important symptoms associated
+615
+with estrogen deficiency demonstrated a difference in favour of placebo for vasomotor and
+616
+sexual symptom domains."
+617
+First-Line Breast Cancer
+618
+A total of 455 patients was treated for a median time of exposure of 11 months. The incidence
+619
+of adverse experiences was similar for Femara and tamoxifen. The most frequently reported
+620
+adverse experiences were bone pain, hot flushes, back pain, nausea, arthralgia and dyspnea.
+621
+Discontinuations for adverse experiences other than progression of tumor occurred in 10/455
+622
+(2%) of patients on Femara and in 15/455 (3%) of patients on tamoxifen.
+623
+Adverse events, regardless of relationship to study drug, that were reported in at least
+624
+5% of the patients treated with Femara 2.5 mg or tamoxifen 20 mg in the first-line treatment
+625
+study are shown in Table 15.
+626
+Table 15
+Percentage (%) of Patients with Adverse Events
+627
+Adverse
+Femara
+tamoxifen
+628
+Experience
+2.5 mg
+20 mg
+629
+(Ne455)
+(Ne455)
+630
+%
+%
+631
+General Disorders
+632
+Fatigue
+13
+13
+633
+Chest pain
+8
+9
+634
+Edema peripheral
+5
+6
+635
+Pain not otherwise specified
+5
+7
+636
+Weakness
+6
+4
+637
+Investigations
+638
+Weight decreased
+7
+5
+639
+Vascular Disorders
+640
+Hot flushes
+19
+16
+641
+Hypertension
+8
+4
+642
+Gastrointestinal Disorders
+643
+Nausea
+17
+17
+644
+Constipation
+10
+11
+645
+Diarrhea
+8
+4
+646
+Vomiting
+7
+8
+647
+Infectionslinfestations
+648
+Influenza
+6
+4
+649
+Urinary tract infection
+650
+Not otherwise specified
+6
+3
+651
+Injury, Poisoning and Procedural Complications
+652
+Post-mastectomy lymphedema
+7
+7
+653
+Metabolism and Nutrition Disorders
+654
+Anorexia
+4
+6
+655
+Musculoskeletal and Connective Tissue Disorders
+656
+Bone pain
+22
+21
+657
+Back pain
+18
+19
+658
+Arthralgia
+16
+15
+659
+Pain in limb
+10
+8
+660
+Nervous System Disorders
+Page 22
+661
+Headache not otherwise specified
+8
+7
+662
+Psychiatric Disorders
+663
+Insomnia
+7
+4
+664
+Reproductive System and Breast Disorders
+665
+Breast Pain
+7
+7
+666
+Respiratory, Thoracic and Mediastinal Disorders
+667
+Dyspnea
+18
+17
+668
+Cough
+13
+13
+669
+Chest wall pain
+6
+6
+670
+Other less frequent (<2%) adverse experiences considered consequential for both
+671
+treatment groups, included peripheral thromboembolic events, cardiovascular events, and
+672
+cerebrovascular events. Peripheral thromboembolic events included venous thrombosis,
+673
+thrombophlebitis, portal vein thrombosis and pulmonary embolism. Cardiovascular events
+674
+included angina, myocardia infarction, myocardia ischemia, and coronary heart disease.
+675
+Cerebrovascular events included transient ischemic attacks, thrombotic or hemorrhagic
+676
+strokes and development of hemiparesis.
+677
+Second-Line Breast Cancer
+678
+Femara was generally well tolerated in two controlled clinical trials
+679
+Study discontinuations in the megestrol acetate comparison study for adverse events
+680
+other than progression of tumor 5/188 (2.7%) on Femara 0.5 mg, in 4/174 (2.3%) on Femara
+681
+2.5 mg, and in 15/190 (7.9%) on megestrol acetate. There were fewer thromboembolic events
+682
+at both Femara doses than on the megestrol acetate arm (0.6% VS. 4.7%). There was also less
+683
+vaginal bleeding (0.3% VS. 3.2%) on Femara than on megestrol acetate. In the
+684
+aminoglutethimide comparison study, discontinuations for reasons other than progression
+685
+occurred in 6/193 (3.1%) on 0.5 mg Femara, 7/185 (3.8%) on 2.5 mg Femara, and 7/178 of
+686
+patients on (3.9%) of patients on aminoglutethimide.
+687
+Comparisons of the incidence of adverse events revealed no significant differences
+688
+between the high and low dose Femara groups in either study. Most of the adverse events
+689
+observed in all treatment groups were mild to moderate in severity and it was generally not
+690
+possible to distinguish adverse reactions due to treatment from the consequences of the
+691
+patient's metastatic breast cancer, the effects of estrogen deprivation, or intercurrent illness.
+692
+Adverse events, regardless of relationship to study drug, that were reported in at least
+693
+5% of the patients treated with Femara 0.5 mg, Femara 2.5 mg, megestrol acetate, or
+694
+aminoglutethimide in the two controlled trials are shown in Table 16.
+695
+696
+Table 16: Percentage (%) of Patients with Adverse Events
+697
+Adverse
+Pooled
+Pooled
+megestrol
+698
+Experience
+Femara
+Femara"
+acetate
+aminoglutethimide
+699
+2.5 mg
+0.5 mg
+160 mg
+500 mg
+700
+(N=359)
+(N=380)
+(N=189)
+(N=178)
+701
+%
+%
+%
+%
+702
+Body as a Whole
+703
+Fatigue
+8
+6
+11
+3
+704
+Chest pain
+6
+3
+7
+3
+705
+Peripheral edemal
+5
+5
+8
+3
+Page 23
+706
+Asthenia
+4
+5
+4
+5
+707
+Weight increase
+2
+2
+9
+3
+708
+Cardiovascular
+709
+Hypertension
+5
+7
+5
+6
+710
+Digestive System
+711
+Nausea
+13
+15
+9
+14
+712
+Vomiting
+7
+7
+5
+9
+713
+Constipation
+6
+7
+9
+7
+714
+Diarrhea
+6
+5
+3
+4
+715
+Pain-abdominal
+6
+5
+9
+8
+716
+Anorexia
+5
+3
+5
+5
+717
+Dyspepsia
+3
+4
+6
+5
+718
+Infectionslinfestations
+719
+Viral infection
+6
+5
+6
+3
+720
+Lab Abnormality
+721
+Hypercholesterolemia
+3
+3
+O
+6
+722
+Musculoskeletal System
+723
+Musculoskeletal
+21
+22
+30
+14
+724
+Arthralgia
+8
+8
+8
+3
+725
+Nervous System
+726
+Headache
+9
+12
+9
+7
+727
+Somnolence
+3
+2
+2
+9
+728
+Dizziness
+3
+5
+7
+3
+729
+Respiratory System
+730
+Dyspnea
+7
+9
+16
+5
+731
+Coughing
+6
+5
+7
+5
+732
+Skin and Appendages
+733
+Hot flushes
+6
+5
+4
+3
+734
+Rash
+5
+4
+3
+12
+735
+Pruritus
+1
+2
+5
+3
+736
+1 Includes peripheral edema, leg edema, dependent edema, edema
+737
+2
+Includes musculoskeletal pain, skeletal pain, back pain, arm pain, leg pain
+738
+3
+Includes rash, erythematous rash, maculopapular rash, psoriasiform rash, vesicular rash
+739
+Other less frequent (<5%) adverse experiences considered consequential and reported
+740
+in at least 3 patients treated with Femara, included hypercalcemia, fracture, depression,
+741
+anxiety, pleural effusion, alopecia, increased sweating and vertigo.
+742
+Post-Marketing Experiences
+743
+Cases of blurred vision and increased hepatic enzyme have been uncommonly (<1%) reported
+744
+since market introduction.
+745
+OVERDOSAGE
+746
+Isolated cases of Femara R (letrozole tablets) overdose have been reported In these instances,
+747
+the highest single dose ingested was 62.5 mg or 25 tablets. While no serious adverse events
+748
+were reported in these cases, because of the limited data available, no firm recommendations
+749
+for treatment can be made. However, emesis could be induced if the patient is alert. In
+750
+general, supportive care and frequent monitoring of vital signs are also appropriate In single
+751
+dose studies the highest dose used was 30 mg, which was well tolerated; in multiple dose
+752
+trials, the largest dose of 10 mg was well tolerated.
+Page 24
+753
+Lethality was observed in mice and rats following single oral doses that were equal to
+754 or greater than 2000 mg/kg (about 4000 to 8000 times the daily maximum recommended
+755
+human dose on a mg/m basis); death was associated with reduced motor activity, ataxia and
+756
+dyspnea. Lethality was observed in cats following single IV doses that were equal to or
+757
+greater than 10 mg/kg (about 50 times the daily maximum recommended human dose on a
+758
+mg/m basis); death was preceded by depressed blood pressure and arrhythmias.
+759
+DOSAGE AND ADMINISTRATION
+760
+Adult and Elderly Patients
+761
+The recommended dose of Femara (letrozole tablets) is one 2.5 mg tablet administered once
+762
+a day, without regard to meals. In patients with advanced disease, treatment with Femara
+763
+should continue until tumor progression is evident.
+764
+In the extended adjuvant setting, the optimal treatment duration with Femara is not known.
+765
+The planned duration of treatment in the study was 5 years. However, at the time of the
+766 analysis, the median treatment duration was 24 months, 25% of patients were treated for at
+767
+least 3 years and less than 1% of patients were treated for the planned duration of 5 years.
+768
+The median duration of follow-up was 28 months. Treatment should be discontinued at tumor
+769
+relapse (see CLINICAL STUDIES).
+770
+771
+In the adjuvant setting, the optimal duration of treatment with letrozole is unknown. The
+772
+planned duration of treatment in the study is 5 years. However, at the time of analysis, the
+773
+median duration of treatment was 24 months, median duration of follow-up was 26 months,
+774
+and 16% of the patients have been treated for 5 years. Treatment should be discontinued at
+775
+relapse. (see CLINICAL STUDIES).
+776
+777
+No dose adjustment is required for elderly patients. Patients treated with Femara do not
+778
+require glucocorticoid or mineralocorticoid replacement therapy.
+779
+Renal Impairment
+780
+(See CLINICAL PHARMACOLOGY.) No dosage adjustment is required for patients with
+781
+renal impairment if creatinine clearance is >10 mL/min.
+782
+Hepatic Impairment
+783
+No dosage adjustment is recommended for patients with mild to moderate hepatic
+784
+impairment, although Femara blood concentrations were modestly increased in subjects with
+785
+moderate hepatic impairment due to cirrhosis. The dose of Femara in patients with cirrhosis
+786
+and severe hepatic dysfunction should be reduced by 50% (see CLINICAL
+787 PHARMACOLOGY). The recommended dose of Femara (letrozole tablets) for such patients
+788
+is 2.5 mg administered every other day. The effect of hepatic impairment on Femara exposure
+789
+in noncirrhotic cancer patients with elevated bilirubin levels has not been determined. (See
+790
+CLINICAL PHARMACOLOGY.)
+Page 25
+791
+HOW SUPPLIED
+792
+2.5 mg tablets - dark yellow, film-coated, round, slightly biconvex, with beveled edges
+793
+(imprinted with the letters FV on one side and CG on the other side).
+794
+Packaged in HDPE bottles with a safety screw cap.
+795
+Bottles of 30 tablets
+NDC 0078-0249-15
+796
+Store at 250C (770F); excursions permitted to 150C-30C (59F-86F). [See USP Controlled
+797
+Room Temperature].
+798
+799 T200X-XX
+800
+REV: XXXX 200X
+Printed in U.S.A.
+XXXXXXXX
+801
+802
+NOVARTIS
+803
+804
+Novartis Pharmaceuticals Corporation
+805
+East Hanover, New Jersey 07936
+806

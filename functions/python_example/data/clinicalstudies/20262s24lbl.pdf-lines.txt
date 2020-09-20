@@ -1,0 +1,343 @@
+CLINICAL STUDIES
+CLINICAL STUDIES
+Ovarian Carcinoma
+First-Line Data: The safety and efficacy of TAXOL (135 mg/m2 over 24 hr) in combination with cisplatin (75 mg/m2) in
+3
+patients with advanced ovarian cancer and no prior chemotherapy were evaluated in a Phase 3 multicenter,
+randomized, controlled (vs cyclophosphamide 750 mg/m2 plus cisplatin 75 mg/m2) clinica trial conducted by the
+Gynecologic Oncology Group (GOG). A total of 410 patients with Stage III or IV disease (>1 cm residual disease after
+staging laparotomy or distant metastases) were randomized. Patients treated with TAXOL in combination with
+cisplatin had significantly longer time to progression (median 16.6 VS. 13.0 months, p=0.0008) and nearly a year
+longer median survival time (p=0.0002) compared with standard therapy
+TABLE 2
+Efficacy in the Phase 3 First-Line Ovarian Carcinoma Study
+TAXOL/Cisplatin
+Cyclophosphamide/Cisplatin
+(n=196)
+(n=214)
+Clinical Response*
+(n=113)
+(n=127)
+---rate (percent)
+62
+48
+---p-value
+0.04
+Pathological Response**
+---rate (percent)
+34
+20
+---p-value
+0.001
+E
+Pathological Complete
+Response:
+---rate (percent)
+21
+16
+---p-value
+0.20
+Time to Progression
+16.6
+13.0
+---median (months)
+0.0008
+---p-value
+Surviva
+35.5
+24.2
+---median (months)
+0.0002
+---p-value
+Among evaluable patients only.
+** Includes patients with pathological complete response plus patients with microscopic residual disease.
+The adverse event profile for patients receiving TAXOL in combination with cisplatin in this study was generally
+consistent with that seen for the pooled analysis performed on data from 812 patients treated with single-agent
+TAXOL in 10 clinical studies. These adverse events and adverse events from the phase 3 first-line ovarian
+TAXOL in 10 clinical studies. These adverse events and adverse events from the phase 3 first-line ovarian
+carcinoma study are described in the ADVERSE REACTIONS section of the label, in tabular (Table 8 & 9) and
+narrative form.
+4
+Second-Line Data: Data from five Phase 1 & 2 clinical studies (189 patients), a multicenter randomized Phase 3 study
+(407 patients) as well as an interim analysis of data from more than 300 patients enrolled in a treatment referral
+center program were used in support of the use of TAXOL in patients who have failed initia or subsequent
+chemotherapy for metastatic carcinoma of the ovary. Two of the Phase 2 studies (92 patients) utilized an initia dose
+of 135 to 170 mg/m2 in most patients (>90%) administered over 24 hours by continuous infusion. Response rates in
+these two studies were 22% (95% Cl: 11% to 37%) and 30% (95% Cl: 18% to 46%) with a total of six complete and
+18 partia responses in 92 patients. The median duration of overall response in these two studies measured from the
+first day of treatment was 7.2 months (range: 3.5-15.8 months) and 7.5 months (range: 5.3-17.4 months)
+respectively. The median survival was 8.1 months (range: 0.2-36.7 months) and 15.9 months (range: 1.8-34.5 +
+months).
+The Phase 3 study had a bifactorial design and compared the efficacy and safety of TAXOL, administered at
+two different doses (135 or 175 mg/m2) and schedules (3- or 24-hour infusion). The overall response rate for the 407
+patients was 16.2% (95% Cl: 12.8% to 20.2%), with 6 complete and 60 partia responses Duration of response,
+measured from the first day of treatment was 8.3 months (range: 3.2-21.6 months). Median time to progression was
+3.7 months (range 0.1+ - 25.1+ months). Median surviva was 11.5 months (range: 0.2-26.3 + months).
+Response rates, median survival and median time to progression for the 4 arms are given in the following
+table.
+TABLE 3
+Efficacy in the Phase 3 Second-Line Ovarian Carcinoma Study
+175/3
+175/24
+135/3
+135/24
+(n=96)
+(n=106)
+(n=99)
+(n=106)
+Response
+---rate (percent)
+14.6
+21.7
+15.2
+13.2
+---95% Confidence Interval
+(8.5-23.6)
+(14.5-31.0)
+(9.0-24.1)
+(7.7-21.5)
+Time to Progression
+---median (months)
+4.4
+4.2
+3.4
+2.8
+---95% Confidence Interval
+(3.0-5.6)
+(3.5-5.1)
+(2.8-4.2)
+(1.9-4.0)
+Survival
+---median (months)
+11.5
+11.8
+13.1
+10.7
+---95% Confidence Interval
+(8.4-14.4)
+(8.9-14.6)
+(9.1-14.6)
+(8.1-13.6)
+5
+Analyses were performed as planned by the bifactorial study design described in the protocol, by comparing
+the two doses (135 or 175 mg/m2) irrespective of the schedule (3 or 24 hours) and the two schedules irrespective of
+dose. Patients receiving the 175 mg/m2 dose had a response rate similar to that for those receiving the 135 mg/m2
+dose: 18% VS. 14% (p=0.28). No difference in response rate was detected when comparing the 3-hour with the 24-
+hour infusion: 15% VS. 17% (p=0.50). Patients receiving the 175 mg/m2 dose of TAXOL had a longer time to
+progression than those receiving the 135 mg/m2 dose: median 4.2 VS. 3.1 months (p=0.03). There was no statistically
+significant difference in time to progression for patients receiving the 3-hour VS. the 24-hour infusion: 4.0 months VS.
+3.7 months (p=0.08). Median survival was 11.6 months in patients receiving the 175 mg/m2 dose of TAXOL and 11.0
+months in patients receiving the 135 mg/m2 dose (p=0.92). Median survival was 11.7 months for patients receiving
+the 3-hour infusion of TAXOL and 11.2 months for patients receiving the 24-hour infusion (p=0.91). These statistical
+analyses should be viewed with caution because of the multiple comparisons made.
+TAXOL remained active in patients who had developed resistance to platinum-containing therapy (defined
+as tumor progression while on, or tumor relapse within 6 months from completion of, a platinum containing regimen)
+with response rates of 14% in the Phase 3 study and 31% in the Phase 1 & 2 clinical studies.
+The adverse event profile in this Phase 3 study was generally consistent with that seen for the pooled
+analysis performed on data from 812 patients treated in ten clinical studies. These adverse events and adverse
+analysis performed on data from 812 patients treated in ten clinical studies. These adverse events and adverse
+events from the phase 3 second-line ovarian carcinoma study are described in the ADVERSE REACTIONS section of
+the label, in tabular (Table 8 & 10) and narrative form.
+The results of this randomized study support the use of TAXOL at doses of 135 to 175 mg/m2 administered
+by a 3-hour intravenous infusion. The same doses administered by 24-hour infusion were more toxic. However, the
+study had insufficient power to determine whether a particular dose and schedule produced superior efficacy.
+Breast Carcinoma: Data from 83 patients accrued in three phase 2 open label studies and from 471 patients
+enrolled in a phase 3 randomized study were available to support the use of TAXOL in patients with metastatic breast
+carcinoma.
+Phase 2 open label studies: Two studies were conducted in 53 patients previously treated with a maximum of one
+prior chemotherapeutic regimen. TAXOL was administered in these 2 trials as a 24-hour infusion at initial doses of
+250 mg/m2 (with G-CSF support) or 200 mg/m2 The response rates were 57% (95% Cl: 37% to 75%) and 52%
+(95% Cl: 32% to 72%), respectively. The third phase 2 study was conducted in extensively pretreated patients who
+had failed anthracycline therapy and who had received a minimum of 2 chemotherapy regimens for the treatment of
+metastatic disease. The dose of TAXOL was 200 mg/m2 as a 24-hour infusion with G-CSF support. Nine of 30
+patients achieved a partia response, for a response rate of 30% (95% Cl: 15% to 50%).
+Phase 3 randomized study: This multicenter trial was conducted in patients previously treated with one or two
+6
+regimens of chemotherapy. Patients were randomized to receive TAXOL (paclitaxel) at a dose of either 175 mg/m2 or
+135 mg/m2 given as a 3-hour infusion. In the 471 patients enrolled, 60% had symptomatic disease with impaired
+performance status at study entry, and 73% had visceral metastases. These patients had failed prior chemotherapy
+either in the adjuvant setting (30%), the metastatic setting (39%), or both (31%). Sixty-seven per cent of the patients
+had been previously exposed to anthracyclines and 23% of them had disease considered resistant to this class of
+agents.
+The overall response rate for the 454 evaluable patients was 26% (95% Cl: 22% to 30%), with 17 complete
+and 99 partial responses. The median duration of response, measured from the first day of treatment, was 8.1
+months (range: 3.4-18.1 + months). Overall for the 471 patients, the median time to progression was 3.5 months
+(range 0.03-17.1 months). Median survival was 11.7 months (range: 0-18.9 months)
+Response rates, median survival and median time to progression for the 2 arms are given in the following
+table.
+TABLE 4
+Efficacy in the Phase 3 Second-Line Breast Carcinoma Study
+175/3
+135/3
+(n=235)
+(n=236)
+Response
+---rate (percent)
+28
+22
+---p-value
+0.135
+Time to Progression
+---median (months)
+4.2
+3.0
+--- p-value
+0.027
+Survival
+---median (months)
+11.7
+10.5
+p-value
+0.321
+The adverse event profile of the patients who received single-agent Taxol in this Phase 3 study was
+generally consistent with that seen for the pooled analysis performed on data from 812 patients treated in 10 clinical
+studies. These adverse events and adverse events for the phase 3 breast carcinoma study are described in the
+ADVERSE REACTIONS section of the label, in tabular (Table 8 & 11) and narrative form.
+Non-Small Cell Lung Carcinoma (NSCLC):
+In a Phase 3 open-label randomized study conducted by the Eastern Cooperative Oncology Group (ECOG), 599
+patients were randomized to either TAXOL (T) 135 mg/m2 as a 24-hour infusion in combination with cisplatin (c) 75
+7
+mg/m2, TAXOL (T) 250 mg/m2 as a 24-hour infusion in combination with cisplatin (c) 75 mg/m2 with G-CSF support, or
+cisplatin (c) 75 mg/m2 on day 1 followed by etoposide (VP) 100 mg/m2 on days 1, 2, and 3 (control)
+Response rates, median time to progression, median survival, and one-year survival rates are given in the
+following table.
+TABLE 5
+Efficacy Parameters in the Phase 3 First-Line NSCLC Study
+T135/24
+T250/24
+VP100a
+c75
+c75
+c75
+(n=198)
+(n=201)
+(n=200)
+Response Rate
+---rate (percent)
+25
+23
+12
+--p-value
+0.001
+<0.001
+Time to Progression
+---median (months)
+4.3
+4.9
+2.7
+--p-value
+0.05
+0.004
+Survival
+---median (months)
+9.3
+10.0
+7.4
+---p-value"
+0.12
+0.08
+One-Year Survival
+---percent of patients
+36
+40
+32
+a Etoposide (VP) 100 mg/m was administered IV on days 1, 2, and 3.
+b Compared to cisplatin/etoposide
+C Statistical significance is questionable due to multiple comparisons.
+Response rate in each of the TAXOL/cisplatin arms was significantly higher than in the control
+arm: TAXOL 135 mg/m/24 hours plus cisplatin 25% VS. cisplatin/etoposide 12% (p=0.001) and TAXOL
+250 mg/m2/24 hours plus cisplatin and G-CSF 23% VS. cisplatin/etoposide 12% (p<0.001). There was a
+trend towards longer time to progression for the TAXOL 135 mg/m2/24 hours plus cisplatin arm (median
+4.3 months) VS. cisplatin/etoposide arm (median 2.7 months) (p=0.05), and a significantly longer time to
+progression for the TAXOL 250 mg/m /24 hour plus cisplatin and G-CSF arm (median 4.9 months) VS.
+cisplatin/etoposide arm (median 2.7 months) (p=0.004).
+The median surviva times in the TAXOL 135 mg/m?/24 hours plus cisplatin arm (median 9.3
+months) and in the TAXOL 250 mg/m2/24 hours plus cisplatin and G-CSF arm (median 10.0 months)
+were numerically superior to the median survival time in the cisplatin/etoposide arm (median 7.4
+months) However these differences were not statistically significant (p=0.12 and p=0.08, respectively.)
+In the ECOG study, the Functional Assessment of Cancer Therapy-Lung (FACT-L) questionnaire
+had 7 subscales which measured subjective assessment of treatment. Of the seven, the Lung Cancer
+Specific Symptoms subscale showed a lesser rate of deterioration for the treatment arm of Taxol 135
+mg/m/24 hours plus cisplatin arm compared to the cisplatin/etoposide arm.
+The adverse event profile for patients who received TAXOL in combination with cisplatin in this
+8
+study was generally consistent with that seen for the pooled analysis performed on data from 812
+patients treated with single-agent TAXOL in 10 clinical studies These adverse events and adverse events
+from the phase 3 first-line NSCLC study are described in the ADVERSE REACTIONS section of the label in tabular
+(Table 8 & 12) and narrative form.
+AIDS-Related Kaposi's Sarcoma: Data from two Phase 2 open label studies support the use of TAXOL as second-
+line therapy in patients with AIDS-related Kaposi's sarcoma. Fifty-nine of the 85 patients enrolled in these studies had
+previously received systemic therapy, including interferon alpha (32%), DaunoXome (31%), DOXIL (2%), and
+doxorubicin containing chemotherapy (42%), with 64% having received prior anthracyclines. Eighty-five percent of
+the pretreated patients had progressed on, or could not tolerate, prior systemic therapy.
+In Study CA139-174 patients received TAXOL at 135 mg/m2 as a 3-hour infusion every 3 weeks (intended
+dose intensity 45 mg/m2/week). If no dose-limiting toxicity was observed, patients were to receive 155 mg/m2 and 175
+mg/m2 in subsequent courses. Hematopoietic growth factors were not to be used initially. In Study CA139-281
+patients received TAXOL at 100 mg/m2 as a 3-hour infusion every 2 weeks (intended dose intensity 50 mg/m2/week)
+In this study patients could be receiving hematopoietic growth factors before the start of TAXOL therapy, or this
+support was to be initiated as indicated; the dose of TAXOL was not increased. The dose intensity of TAXOL used in
+this patient population was lower than the dose intensity recommended for other solid tumors.
+All patients had widespread and poor risk disease. Applying the ACTG staging criteria to patients with prior
+systemic therapy, 93% were poor risk for extent of disease (T1), 88% had a CD4 count <200 cells/mm3 (l1), and 97%
+had poor risk considering their systemic illness (S1)
+All patients in Study CA139-174 had a Karnofsky performance status of 80 or 90 at baseline; in Study
+CA139-281, there were 26 (46%) patients with a Karnofsky performance status of 70 or worse at baseline.
+9
+TABLE 6
+Extent of Disease at Study Entry
+Percent of Patients
+Prior Systemic Therapy
+(n=59)
+Visceral + edema + oral + cutaneous
+42
+Edema or lymph nodes
+ora + cutaneous
+41
+Oral + cutaneous
+10
+Cutaneous Only
+7
+Although the planned dose intensity in the two studies was slightly different (45 mg/m2/week in Study CA139-
+174 and 50 mg/m2/week in Study CA139-281), delivered dose intensity was 38-39 mg/m2/week in both studies, with a
+similar range (20-24 to 51-61).
+DaunoXomee is a registered trademark of NeXstar Pharmaceuticals, Incorporated.
+DOXILE is a registered trademark of Sequus Pharmaceuticals, Incorporated.
+10
+Efficacy: The efficacy of TAXOL was evaluated by assessing cutaneous tumor response according to the amended
+ACTG criteria and by seeking evidence of clinical benefit in patients in six domains of symptoms and/or conditions
+that are commonly related to AIDS-related Kaposi's sarcoma.
+Cutaneous Tumor Response (Amended ACTG Criteria): The objective response rate was 59% (95% Cl: 46% to
+72%) (35 of 59 patients) in patients with prior systemic therapy. Cutaneous responses were primarily defined as
+flattening of more than 50% of previously raised lesions.
+TABLE 7
+Overal Best Response (Amended ACTG Criteria)
+Percent of Patients
+Prior Systemic
+Therapy
+(n=59)
+Complete response
+3
+Partial response
+56
+Stable disease
+29
+Progression
+8
+Early death/toxicity
+3
+The median time to response was 8.1 weeks and the median duration of response measured from the first
+day of treatment was 10.4 months (95% Cl: 7.0 to 11.0 months) for the patients who had previously received systemic
+therapy. The median time to progression was 6.2 months (95% Cl: 4.6 to 8.7 months).
+Additional Clinical Benefit: Most data on patient benefit were assessed retrospectively (plans for such analyses were
+not included in the study protocols). Nonetheless, clinical descriptions and photographs indicated clear benefit in
+some patients, including instances of improved pulmonary function in patients with pulmonary involvement, improved
+ambulation, resolution of ulcers, and decreased analgesic requirements in patients with KS involving the feet and
+resolution of facial lesions and edema in patients with KS involving the face, extremities, and genitalia.
+Safety: The adverse event profile of TAXOL administered to patients with advanced HIV disease and poor-risk AIDS-
+related Kaposi's sarcoma was generally consistent with that seen in the pooled analysis of data from 812 patients
+with solid tumors. These adverse events and adverse events from the phase 2 second-line Kaposi's sarcoma studies
+are described in the ADVERSE REACTIONS section of the label, in tabular (Table 8 & 13) and narrative form. In this
+immunosuppressed patient population, however, a lower dose intensity of TAXOL and supportive therapy including
+hematopoietic growth factors in patients with severe neutropenia are recommended. Patients with AIDS-related
+Kaposi' sarcoma may have more severe hematologic toxicities than patients with solid tumors.
+11

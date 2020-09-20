@@ -1,0 +1,1511 @@
+Mead Johnson
+ONCOLOGY PRODUCTS
+CAUTION: FEDERAL LAW PROHIBITS
+DISPENSING WITHOUT PRESCRIPTION
+TAXOL
+R
+(paclitaxel)
+INJECTION
+WARNING
+TAXOLO (paclitaxel) should be administered under the supervision of a physician experienced in the use of cancer
+chemotherapeutic agents. Appropriate management of complications is possible only when adequate diagnostic and
+treatment facilities are readily available.
+Anaphylaxis and severe hypersensitivity reactions characterized by dyspnea and hypotension requiring treatment,
+angioedema, and generalized urticaria have occurred in 2%-4% of patients receiving TAXOL in clinical trials. Fatal
+reactions have occurred in patients despite premedication. All patients should be pretreated with corticosteroids,
+diphenhydramine, and H2 antagonists. (See DOSAGE AND ADMINISTRATION section.) Patients who experience severe
+hypersensitivity reactions to TAXOL should not be rechallenged with the drug.
+TAXOL therapy should not be given to patients with solid tumors who have baseline neutrophi counts of less than 1500
+cells/mm and should not be given to patients with AIDS-related Kaposi's sarcoma if the baseline neutrophil count is less
+than 1000 cells/mm In order to monitor the occurrence of bone marrow suppression, primarily neutropenia, which may
+be severe and result in infection, it is recommended that frequent peripheral blood cell counts be performed on all
+patients receiving TAXOL.
+DESCRIPTION
+TAXOL (paclitaxel) Injection is a clear colorless to slightly yellow viscous solution. It is supplied as a nonaqueous
+solution intended for dilution with a suitable parenteral fluid prior to intravenous infusion. TAXOL is available in 30 mg
+5 mL), 100 mg (16.7 mL), and 300 mg (50 mL) multidose vials. Each mL of sterile nonpyrogenic solution contains 6
+mg
+paclitaxel, 527 mg of purified Cremophor EL* (polyoxyethylated castor oil) and 49.7% (v/v) dehydrated alcohol,
+USP.
+Paclitaxe is a natural product with antitumor activity. TAXOL (paclitaxel) is obtained via a semi-synthetic
+process from Taxus baccata. The chemical name for paclitaxel s5p,20-Epoxy-1,2a,47B,10p,13a-hexahydroxytax
+11-en-9-one 4, 10-diacetate 2-benzoate 13-ester with (2R,3S)-N-benzoyl-3-phenylisoserine
+*Cremaphore EL is the registered trademark of BASF Aktiengesellschaft.
+Cremaphor EL is further purified by a Bristol-Myers Squibb Company proprietary process before use.
+1
+Paclitaxel has the following structural formula:
+Paclitaxe is a white to off-white crystalline powder with the empirical formula C47H51NO14 and a molecular
+weight of 853.9. It is highly lipophilic, insoluble in water, and melts at around 216-217C
+CLINICAL PHARMACOLOGY
+Paclitaxel is a novel antimicrotubule agent that promotes the assembly of microtubules from tubulin dimers and
+stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic
+reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions. In
+addition, paclitaxe induces abnormal arrays or "bundles" of microtubules throughout the cell cycle and multiple
+asters of microtubules during mitosis.
+Following intravenous administration of TAXOL, paclitaxel plasma concentrations decline in a biphasic
+manner. The initial rapid decline represents distribution to the peripheral compartment and elimination of the drug.
+The later phase is due, in part, to a relatively slow efflux of paclitaxel from the peripheral compartment.
+Pharmacokinetic parameters of paclitaxel following 3- and 24-hour infusions of TAXOL at dose levels of 135
+and 175 mg/m2 were determined in a Phase 3 randomized study in ovarian cancer patients and are summarized in
+the following table:
+TABLE 1
+Summary of Pharmacokinetic Parameters - Mean Values
+Dose
+Infusion
+N
+CMax
+AUC(0-)
+T-HALF
+CLT
+(mg/m?)
+Duration (h)
+(patients)
+(ng/mL)
+(ng:h/mL)
+(h)
+(L/h/m?)
+135
+24
+2
+195
+6300
+52.7
+21.7
+175
+24
+4
+365
+7993
+15.7
+23.8
+135
+3
+7
+2170
+7952
+13.1
+17.7
+175
+3
+5
+3650
+15007
+20.2
+12.2
+CMax=Maximum plasma concentration
+AUC(0-o0) - Area under the plasma concentration-time curve from time 0 to infinity
+CLT E Total body clearance
+It appeared that with the 24-hour infusion of TAXOL, a 30% increase in dose (135 mg/m2 versus 175 mg/m2)
+increased the CMax by 87%, whereas the AUC(0-o) remained proportional However, with a 3-hour infusion, for a
+2
+30% increase in dose, the CMax and AUC(0-o0) were increased by 68% and 89%, respectively The mean apparent
+volume of distribution at steady state, with the 24-hour infusion of TAXOL, ranged from 227 to 688 L/m2, indicating
+extensive extravascular distribution and/or tissue binding of paclitaxel.
+The pharmacokinetics of paclitaxel were also evaluated in adult cancer patients who received single doses
+of 15-135 mg/m2 given by 1-hour infusions (n=15), 30-275 mg/m2 given by 6-hour infusions (n=36), and 200-275
+mg/m2 given by 24-hour infusions (n=54) in Phase 1 & 2 studies. Values for CLT and volume of distribution were
+consistent with the findings in the Phase 3 study. The pharmacokinetics of TAXOL in patients with AIDS-related
+Kaposi's sarcoma have not been studied.
+In vitro studies of binding to human serum proteins, using paclitaxel concentrations ranging from 0.1 to 50
+ug/mL, indicate that between 89-98% of drug is bound; the presence of cimetidine, ranitidine, dexamethasone, or
+diphenhydramine did not affect protein binding of paclitaxel.
+After intravenous administration of 15-275 mg/m2 doses of TAXOL as 1-, 6-, or 24-hour infusions, mean
+values for cumulative urinary recovery of unchanged drug ranged from 1.3% to 12.6% of the dose, indicating
+extensive non-renal clearance In five patients administered a 225 or 250 mg/m2 dose of radiolabeled TAXOL as a 3-
+hour infusion, a mean of 71% of the radioactivity was excreted in the feces in 120 hours, and 14% was recovered in
+the urine. Total recovery of radioactivity ranged from 56% to 101% of the dose. Paclitaxel represented a mean of 5%
+of the administered radioactivity recovered in the feces, while metabolites, primarily 6a-hydroxypaclitaxel, accounted
+for the balance. In vitro studies with human liver microsomes and tissue slices showed that paclitaxe was
+metabolized primarily to 6a-hydroxypaclitaxe by the cytochrome P450 isozyme CYP2C8; and to two minor
+metabolites, 3'-p-hydroxypaclitaxel and 6a,3'-p-dihydroxypaclitaxel, by CYP3A4. In vitro, the metabolism of paclitaxel
+to
+6a-hydroxypaclitaxel was inhibited by a number of agents (ketoconazole, verapamil, diazepam, quinidine,
+dexamethasone, cyclosporin, teniposide, etoposide, and vincristine), but the concentrations used exceeded those
+found in vivo following normal therapeutic doses. Testosterone, 17c-ethiny estradiol, retinoic acid, and quercetin, a
+specific inhibitor of CYP2C8, also inhibited the formation of 6a-hydroxypaclitaxel in vitro. The pharmacokinetics of
+paclitaxel may also be altered in vivo as a result of interactions with compounds that are substrates, inducers, or
+inhibitors of CYP2C8 and/or CYP3A4. (See PRECAUTIONS: Drug Interactions section.) The effect of renal or
+hepatic dysfunction on the disposition of paclitaxel has not been investigated.
+Possible interactions of paclitaxe with concomitantly administered medications have not been formally
+investigated.
+CLINICAL STUDIES
+Ovarian Carcinoma
+First-Line Data: The safety and efficacy of TAXOL (135 mg/m2 over 24 hr) in combination with cisplatin (75 mg/m2) in
+3
+patients with advanced ovarian cancer and no prior chemotherapy were evaluated in a Phase 3 multicenter,
+randomized, controlled (vs cyclophosphamide 750 mg/m2 plus cisplatin 75 mg/m2) clinica trial conducted by the
+Gynecologic Oncology Group (GOG). A total of 410 patients with Stage III or IV disease (>1 cm residual disease after
+staging laparotomy or distant metastases) were randomized. Patients treated with TAXOL in combination with
+cisplatin had significantly longer time to progression (median 16.6 VS. 13.0 months, p=0.0008) and nearly a year
+longer median survival time (p=0.0002) compared with standard therapy
+TABLE 2
+Efficacy in the Phase 3 First-Line Ovarian Carcinoma Study
+TAXOL/Cisplatin
+Cyclophosphamide/Cisplatin
+(n=196)
+(n=214)
+Clinical Response*
+(n=113)
+(n=127)
+---rate (percent)
+62
+48
+---p-value
+0.04
+Pathological Response**
+---rate (percent)
+34
+20
+---p-value
+0.001
+E
+Pathological Complete
+Response:
+---rate (percent)
+21
+16
+---p-value
+0.20
+Time to Progression
+16.6
+13.0
+---median (months)
+0.0008
+---p-value
+Surviva
+35.5
+24.2
+---median (months)
+0.0002
+---p-value
+Among evaluable patients only.
+** Includes patients with pathological complete response plus patients with microscopic residual disease.
+The adverse event profile for patients receiving TAXOL in combination with cisplatin in this study was generally
+consistent with that seen for the pooled analysis performed on data from 812 patients treated with single-agent
+TAXOL in 10 clinical studies. These adverse events and adverse events from the phase 3 first-line ovarian
+carcinoma study are described in the ADVERSE REACTIONS section of the label, in tabular (Table 8 & 9) and
+narrative form.
+4
+Second-Line Data: Data from five Phase 1 & 2 clinical studies (189 patients), a multicenter randomized Phase 3 study
+(407 patients) as well as an interim analysis of data from more than 300 patients enrolled in a treatment referral
+center program were used in support of the use of TAXOL in patients who have failed initia or subsequent
+chemotherapy for metastatic carcinoma of the ovary. Two of the Phase 2 studies (92 patients) utilized an initia dose
+of 135 to 170 mg/m2 in most patients (>90%) administered over 24 hours by continuous infusion. Response rates in
+these two studies were 22% (95% Cl: 11% to 37%) and 30% (95% Cl: 18% to 46%) with a total of six complete and
+18 partia responses in 92 patients. The median duration of overall response in these two studies measured from the
+first day of treatment was 7.2 months (range: 3.5-15.8 months) and 7.5 months (range: 5.3-17.4 months)
+respectively. The median survival was 8.1 months (range: 0.2-36.7 months) and 15.9 months (range: 1.8-34.5 +
+months).
+The Phase 3 study had a bifactorial design and compared the efficacy and safety of TAXOL, administered at
+two different doses (135 or 175 mg/m2) and schedules (3- or 24-hour infusion). The overall response rate for the 407
+patients was 16.2% (95% Cl: 12.8% to 20.2%), with 6 complete and 60 partia responses Duration of response,
+measured from the first day of treatment was 8.3 months (range: 3.2-21.6 months). Median time to progression was
+3.7 months (range 0.1+ - 25.1+ months). Median surviva was 11.5 months (range: 0.2-26.3 + months).
+Response rates, median survival and median time to progression for the 4 arms are given in the following
+table.
+TABLE 3
+Efficacy in the Phase 3 Second-Line Ovarian Carcinoma Study
+175/3
+175/24
+135/3
+135/24
+(n=96)
+(n=106)
+(n=99)
+(n=106)
+Response
+---rate (percent)
+14.6
+21.7
+15.2
+13.2
+---95% Confidence Interval
+(8.5-23.6)
+(14.5-31.0)
+(9.0-24.1)
+(7.7-21.5)
+Time to Progression
+---median (months)
+4.4
+4.2
+3.4
+2.8
+---95% Confidence Interval
+(3.0-5.6)
+(3.5-5.1)
+(2.8-4.2)
+(1.9-4.0)
+Survival
+---median (months)
+11.5
+11.8
+13.1
+10.7
+---95% Confidence Interval
+(8.4-14.4)
+(8.9-14.6)
+(9.1-14.6)
+(8.1-13.6)
+5
+Analyses were performed as planned by the bifactorial study design described in the protocol, by comparing
+the two doses (135 or 175 mg/m2) irrespective of the schedule (3 or 24 hours) and the two schedules irrespective of
+dose. Patients receiving the 175 mg/m2 dose had a response rate similar to that for those receiving the 135 mg/m2
+dose: 18% VS. 14% (p=0.28). No difference in response rate was detected when comparing the 3-hour with the 24-
+hour infusion: 15% VS. 17% (p=0.50). Patients receiving the 175 mg/m2 dose of TAXOL had a longer time to
+progression than those receiving the 135 mg/m2 dose: median 4.2 VS. 3.1 months (p=0.03). There was no statistically
+significant difference in time to progression for patients receiving the 3-hour VS. the 24-hour infusion: 4.0 months VS.
+3.7 months (p=0.08). Median survival was 11.6 months in patients receiving the 175 mg/m2 dose of TAXOL and 11.0
+months in patients receiving the 135 mg/m2 dose (p=0.92). Median survival was 11.7 months for patients receiving
+the 3-hour infusion of TAXOL and 11.2 months for patients receiving the 24-hour infusion (p=0.91). These statistical
+analyses should be viewed with caution because of the multiple comparisons made.
+TAXOL remained active in patients who had developed resistance to platinum-containing therapy (defined
+as tumor progression while on, or tumor relapse within 6 months from completion of, a platinum containing regimen)
+with response rates of 14% in the Phase 3 study and 31% in the Phase 1 & 2 clinical studies.
+The adverse event profile in this Phase 3 study was generally consistent with that seen for the pooled
+analysis performed on data from 812 patients treated in ten clinical studies. These adverse events and adverse
+events from the phase 3 second-line ovarian carcinoma study are described in the ADVERSE REACTIONS section of
+the label, in tabular (Table 8 & 10) and narrative form.
+The results of this randomized study support the use of TAXOL at doses of 135 to 175 mg/m2 administered
+by a 3-hour intravenous infusion. The same doses administered by 24-hour infusion were more toxic. However, the
+study had insufficient power to determine whether a particular dose and schedule produced superior efficacy.
+Breast Carcinoma: Data from 83 patients accrued in three phase 2 open label studies and from 471 patients
+enrolled in a phase 3 randomized study were available to support the use of TAXOL in patients with metastatic breast
+carcinoma.
+Phase 2 open label studies: Two studies were conducted in 53 patients previously treated with a maximum of one
+prior chemotherapeutic regimen. TAXOL was administered in these 2 trials as a 24-hour infusion at initial doses of
+250 mg/m2 (with G-CSF support) or 200 mg/m2 The response rates were 57% (95% Cl: 37% to 75%) and 52%
+(95% Cl: 32% to 72%), respectively. The third phase 2 study was conducted in extensively pretreated patients who
+had failed anthracycline therapy and who had received a minimum of 2 chemotherapy regimens for the treatment of
+metastatic disease. The dose of TAXOL was 200 mg/m2 as a 24-hour infusion with G-CSF support. Nine of 30
+patients achieved a partia response, for a response rate of 30% (95% Cl: 15% to 50%).
+Phase 3 randomized study: This multicenter trial was conducted in patients previously treated with one or two
+6
+regimens of chemotherapy. Patients were randomized to receive TAXOL (paclitaxel) at a dose of either 175 mg/m2 or
+135 mg/m2 given as a 3-hour infusion. In the 471 patients enrolled, 60% had symptomatic disease with impaired
+performance status at study entry, and 73% had visceral metastases. These patients had failed prior chemotherapy
+either in the adjuvant setting (30%), the metastatic setting (39%), or both (31%). Sixty-seven per cent of the patients
+had been previously exposed to anthracyclines and 23% of them had disease considered resistant to this class of
+agents.
+The overall response rate for the 454 evaluable patients was 26% (95% Cl: 22% to 30%), with 17 complete
+and 99 partial responses. The median duration of response, measured from the first day of treatment, was 8.1
+months (range: 3.4-18.1 + months). Overall for the 471 patients, the median time to progression was 3.5 months
+(range 0.03-17.1 months). Median survival was 11.7 months (range: 0-18.9 months)
+Response rates, median survival and median time to progression for the 2 arms are given in the following
+table.
+TABLE 4
+Efficacy in the Phase 3 Second-Line Breast Carcinoma Study
+175/3
+135/3
+(n=235)
+(n=236)
+Response
+---rate (percent)
+28
+22
+---p-value
+0.135
+Time to Progression
+---median (months)
+4.2
+3.0
+--- p-value
+0.027
+Survival
+---median (months)
+11.7
+10.5
+p-value
+0.321
+The adverse event profile of the patients who received single-agent Taxol in this Phase 3 study was
+generally consistent with that seen for the pooled analysis performed on data from 812 patients treated in 10 clinical
+studies. These adverse events and adverse events for the phase 3 breast carcinoma study are described in the
+ADVERSE REACTIONS section of the label, in tabular (Table 8 & 11) and narrative form.
+Non-Small Cell Lung Carcinoma (NSCLC):
+In a Phase 3 open-label randomized study conducted by the Eastern Cooperative Oncology Group (ECOG), 599
+patients were randomized to either TAXOL (T) 135 mg/m2 as a 24-hour infusion in combination with cisplatin (c) 75
+7
+mg/m2, TAXOL (T) 250 mg/m2 as a 24-hour infusion in combination with cisplatin (c) 75 mg/m2 with G-CSF support, or
+cisplatin (c) 75 mg/m2 on day 1 followed by etoposide (VP) 100 mg/m2 on days 1, 2, and 3 (control)
+Response rates, median time to progression, median survival, and one-year survival rates are given in the
+following table.
+TABLE 5
+Efficacy Parameters in the Phase 3 First-Line NSCLC Study
+T135/24
+T250/24
+VP100a
+c75
+c75
+c75
+(n=198)
+(n=201)
+(n=200)
+Response Rate
+---rate (percent)
+25
+23
+12
+--p-value
+0.001
+<0.001
+Time to Progression
+---median (months)
+4.3
+4.9
+2.7
+--p-value
+0.05
+0.004
+Survival
+---median (months)
+9.3
+10.0
+7.4
+---p-value"
+0.12
+0.08
+One-Year Survival
+---percent of patients
+36
+40
+32
+a Etoposide (VP) 100 mg/m was administered IV on days 1, 2, and 3.
+b Compared to cisplatin/etoposide
+C Statistical significance is questionable due to multiple comparisons.
+Response rate in each of the TAXOL/cisplatin arms was significantly higher than in the control
+arm: TAXOL 135 mg/m/24 hours plus cisplatin 25% VS. cisplatin/etoposide 12% (p=0.001) and TAXOL
+250 mg/m2/24 hours plus cisplatin and G-CSF 23% VS. cisplatin/etoposide 12% (p<0.001). There was a
+trend towards longer time to progression for the TAXOL 135 mg/m2/24 hours plus cisplatin arm (median
+4.3 months) VS. cisplatin/etoposide arm (median 2.7 months) (p=0.05), and a significantly longer time to
+progression for the TAXOL 250 mg/m /24 hour plus cisplatin and G-CSF arm (median 4.9 months) VS.
+cisplatin/etoposide arm (median 2.7 months) (p=0.004).
+The median surviva times in the TAXOL 135 mg/m?/24 hours plus cisplatin arm (median 9.3
+months) and in the TAXOL 250 mg/m2/24 hours plus cisplatin and G-CSF arm (median 10.0 months)
+were numerically superior to the median survival time in the cisplatin/etoposide arm (median 7.4
+months) However these differences were not statistically significant (p=0.12 and p=0.08, respectively.)
+In the ECOG study, the Functional Assessment of Cancer Therapy-Lung (FACT-L) questionnaire
+had 7 subscales which measured subjective assessment of treatment. Of the seven, the Lung Cancer
+Specific Symptoms subscale showed a lesser rate of deterioration for the treatment arm of Taxol 135
+mg/m/24 hours plus cisplatin arm compared to the cisplatin/etoposide arm.
+The adverse event profile for patients who received TAXOL in combination with cisplatin in this
+8
+study was generally consistent with that seen for the pooled analysis performed on data from 812
+patients treated with single-agent TAXOL in 10 clinical studies These adverse events and adverse events
+from the phase 3 first-line NSCLC study are described in the ADVERSE REACTIONS section of the label in tabular
+(Table 8 & 12) and narrative form.
+AIDS-Related Kaposi's Sarcoma: Data from two Phase 2 open label studies support the use of TAXOL as second-
+line therapy in patients with AIDS-related Kaposi's sarcoma. Fifty-nine of the 85 patients enrolled in these studies had
+previously received systemic therapy, including interferon alpha (32%), DaunoXome (31%), DOXIL (2%), and
+doxorubicin containing chemotherapy (42%), with 64% having received prior anthracyclines. Eighty-five percent of
+the pretreated patients had progressed on, or could not tolerate, prior systemic therapy.
+In Study CA139-174 patients received TAXOL at 135 mg/m2 as a 3-hour infusion every 3 weeks (intended
+dose intensity 45 mg/m2/week). If no dose-limiting toxicity was observed, patients were to receive 155 mg/m2 and 175
+mg/m2 in subsequent courses. Hematopoietic growth factors were not to be used initially. In Study CA139-281
+patients received TAXOL at 100 mg/m2 as a 3-hour infusion every 2 weeks (intended dose intensity 50 mg/m2/week)
+In this study patients could be receiving hematopoietic growth factors before the start of TAXOL therapy, or this
+support was to be initiated as indicated; the dose of TAXOL was not increased. The dose intensity of TAXOL used in
+this patient population was lower than the dose intensity recommended for other solid tumors.
+All patients had widespread and poor risk disease. Applying the ACTG staging criteria to patients with prior
+systemic therapy, 93% were poor risk for extent of disease (T1), 88% had a CD4 count <200 cells/mm3 (l1), and 97%
+had poor risk considering their systemic illness (S1)
+All patients in Study CA139-174 had a Karnofsky performance status of 80 or 90 at baseline; in Study
+CA139-281, there were 26 (46%) patients with a Karnofsky performance status of 70 or worse at baseline.
+9
+TABLE 6
+Extent of Disease at Study Entry
+Percent of Patients
+Prior Systemic Therapy
+(n=59)
+Visceral + edema + oral + cutaneous
+42
+Edema or lymph nodes
+ora + cutaneous
+41
+Oral + cutaneous
+10
+Cutaneous Only
+7
+Although the planned dose intensity in the two studies was slightly different (45 mg/m2/week in Study CA139-
+174 and 50 mg/m2/week in Study CA139-281), delivered dose intensity was 38-39 mg/m2/week in both studies, with a
+similar range (20-24 to 51-61).
+DaunoXomee is a registered trademark of NeXstar Pharmaceuticals, Incorporated.
+DOXILE is a registered trademark of Sequus Pharmaceuticals, Incorporated.
+10
+Efficacy: The efficacy of TAXOL was evaluated by assessing cutaneous tumor response according to the amended
+ACTG criteria and by seeking evidence of clinical benefit in patients in six domains of symptoms and/or conditions
+that are commonly related to AIDS-related Kaposi's sarcoma.
+Cutaneous Tumor Response (Amended ACTG Criteria): The objective response rate was 59% (95% Cl: 46% to
+72%) (35 of 59 patients) in patients with prior systemic therapy. Cutaneous responses were primarily defined as
+flattening of more than 50% of previously raised lesions.
+TABLE 7
+Overal Best Response (Amended ACTG Criteria)
+Percent of Patients
+Prior Systemic
+Therapy
+(n=59)
+Complete response
+3
+Partial response
+56
+Stable disease
+29
+Progression
+8
+Early death/toxicity
+3
+The median time to response was 8.1 weeks and the median duration of response measured from the first
+day of treatment was 10.4 months (95% Cl: 7.0 to 11.0 months) for the patients who had previously received systemic
+therapy. The median time to progression was 6.2 months (95% Cl: 4.6 to 8.7 months).
+Additional Clinical Benefit: Most data on patient benefit were assessed retrospectively (plans for such analyses were
+not included in the study protocols). Nonetheless, clinical descriptions and photographs indicated clear benefit in
+some patients, including instances of improved pulmonary function in patients with pulmonary involvement, improved
+ambulation, resolution of ulcers, and decreased analgesic requirements in patients with KS involving the feet and
+resolution of facial lesions and edema in patients with KS involving the face, extremities, and genitalia.
+Safety: The adverse event profile of TAXOL administered to patients with advanced HIV disease and poor-risk AIDS-
+related Kaposi's sarcoma was generally consistent with that seen in the pooled analysis of data from 812 patients
+with solid tumors. These adverse events and adverse events from the phase 2 second-line Kaposi's sarcoma studies
+are described in the ADVERSE REACTIONS section of the label, in tabular (Table 8 & 13) and narrative form. In this
+immunosuppressed patient population, however, a lower dose intensity of TAXOL and supportive therapy including
+hematopoietic growth factors in patients with severe neutropenia are recommended. Patients with AIDS-related
+Kaposi' sarcoma may have more severe hematologic toxicities than patients with solid tumors.
+11
+INDICATIONS
+TAXOL is indicated as first-line and subsequent therapy for the treatment of advanced carcinoma of the ovary. As
+first-line therapy, Taxol is indicated in combination with cisplatin.
+TAXOL is indicated for the treatment of breast cancer after failure of combination chemotherapy for
+metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an
+anthracycline unless clinically contraindicated.
+TAXOL, in combination with cisplatin, is indicated for the first-line treatment of non-small cell
+lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy.
+TAXOL is indicated for the second-line treatment of AIDS-related Kaposi's sarcoma.
+CONTRAINDICATIONS
+TAXOL is contraindicated in patients who have a history of hypersensitivity reactions to TAXOL or other drugs
+formulated in Cremophoro EL (polyoxyethylated castor oil).
+TAXOL should not be used in patients with solid tumors who have baseline neutrophil counts of <1500
+cells/mm3 or in patients with AIDS-related Kaposi's sarcoma with baseline neutrophi counts of <1000 cells/mm3.
+WARNINGS
+Anaphylaxis and severe hypersensitivity reactions characterized by dyspnea and hypotension requiring treatment,
+angioedema, and generalized urticaria have occurred in 2-4% of patients receiving TAXOL in clinical trials. Fatal
+reactions have occurred in patients despite premedication. All patients should be pretreated with corticosteroids,
+diphenhydramine, and H2 antagonists. (See DOSAGE AND ADMINISTRATION section.) Patients who experience
+severe hypersensitivity reactions to TAXOL should not be rechallenged with the drug.
+Bone marrow suppression (primarily neutropenia) is dose-dependent and is the dose-limiting toxicity.
+Neutrophil nadirs occurred at a median of 11 days. TAXOL should not be administered to patients with baseline
+neutrophil counts of less than 1500 cells/mm3 (<1000 cells/mm3 for patients with KS). Frequent monitoring of blood
+counts should be instituted during TAXOL treatment. Patients should not be re-treated with subsequent cycles of
+TAXOL until neutrophils recover to a level >1500 cells/mm3 (>1000 cells/mm3 for patients with KS) and platelets
+recover to a leve >100,000 cells/mm3.
+Severe conduction abnormalities have been documented in <1% of patients during TAXOL therapy and in
+some cases required pacemaker placement. If patients develop significant conduction abnormalities during TAXOL
+infusion, appropriate therapy should be administered and continuous cardiac monitoring should be performed during
+subsequent therapy with TAXOL.
+12
+Pregnancy
+TAXOL can cause fetal harm when administered to a pregnant woman. Administration of paclitaxel during the period
+of organogenesis to rabbits at doses of 3.0 mg/kg/day (about 0.2 the daily maximum recommended human dose on a
+mg/m2 basis) caused embryo- and fetotoxicity, as indicated by intrauterine mortality, increased resorptions and
+increased fetal deaths. Materna toxicity was also observed at this dose. No teratogenic effects were observed at 1.0
+mg/kg/day (about 1/15 the daily maximum recommended human dose on a mg/m2 basis); teratogenic potential could
+not be assessed at higher doses due to extensive feta mortality.
+There are no adequate and well-controlled studies in pregnant women. If TAXOL is used during pregnancy,
+or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to
+the fetus. Women of childbearing potential should be advised to avoid becoming pregnant.
+PRECAUTIONS
+Contact of the undiluted concentrate with plasticized polyviny| chloride (PVC) equipment or devices used to prepare
+solutions for infusion is not recommended. In order to minimize patient exposure to the plasticizer DEHP [di-(2-
+thylhexyl)phthalate] which may be leached from PVC infusion bags or sets, diluted TAXOL solutions should
+preferably be stored in bottles (glass, polypropylene) or plastic bags (polypropylene, polyolefin) and administered
+through polyethylene-lined administration sets.
+TAXOL should be administered through an in-line filter with a microporous membrane not greater than 0.22
+microns. Use of filter devices such as IVEX-2 filters which incorporate short inlet and outlet PVC-coated tubing has
+not resulted in significant leaching of DEHP.
+Drug Interactions: In a Phase 1 trial using escalating doses of TAXOL (110-200 mg/m2) and cisplatin (50 or 75
+mg/m2) given as sequential infusions, myelosuppression was more profound when TAXOL was given after cisplatin
+than with the alternate sequence (i.e. TAXOL before cisplatin). Pharmacokinetic data from these patients
+demonstrated a decrease in paclitaxe clearance of approximately 33% when TAXOL was administered following
+cisplatin.
+The metabolism of TAXOL is catalyzed by cytochrome P450 isoenzymes CYP2C8 and CYP3A4. In the
+absence of formal clinical drug interaction studies, caution should be exercised when administering TAXOL
+concomitantly with known substrates or inhibitors of the cytochrome P450 isoenzymes CYP2C8 and CYP3A4. (See
+CLINICAL PHARMACOLOGY section.)
+Potential interactions between paclitaxel, a substrate of CYP3A4 and protease inhibitors (ritonavir,
+saquinavir, indinavir, and nelfinavir), which are substrates and/or inhibitors of CYP3A4 have not been evaluated in
+clinical trials.
+13
+Reports in the literature suggest that plasma levels of doxorubicin (and its active metabolite doxorubicinol)
+may be increased when paclitaxel and doxorubicin are used in combination.
+Hematology: TAXOL therapy should not be administered to patients with baseline neutrophil counts of less than
+1,500 cells/mm3. In order to monitor the occurrence of myelotoxicity, it is recommended that frequent peripheral
+blood cell counts be performed on all patients receiving TAXOL. Patients should not be re-treated with subsequent
+cycles of TAXOL until neutrophils recover to a level >1,500 cells/mm3 and platelets recover to a level >100,000
+cells/mm3. In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during a course of TAXOL
+therapy, a 20% reduction in dose for subsequent courses of therapy is recommended.
+For patients with advanced HIV disease and poor-risk AIDS-related Kaposi's sarcoma TAXOL, at the
+recommended dose for this disease, can be initiated and repeated if the neutrophil count is at least 1000 cells/mm3,
+Hypersensitivity Reactions: Patients with a history of severe hypersensitivity reactions to products containing
+Cremophor@ EL (e.g. cyclosporin for injection concentrate and teniposide for injection concentrate) should not be
+treated with TAXOL. In order to avoid the occurrence of severe hypersensitivity reactions, all patients treated with
+TAXOL should be premedicated with corticosteroids (such as dexamethasone), diphenhydramine and H2
+antagonists (such as cimetidine or ranitidine). Minor symptoms such as flushing, skin reactions, dyspnea,
+hypotension or tachycardia do not require interruption of therapy. However, severe reactions, such as hypotension
+requiring treatment, dyspnea requiring bronchodilators, angioedema or generalized urticaria require immediate
+discontinuation of TAXOL and aggressive symptomatic therapy. Patients who have developed severe
+hypersensitivity reactions should not be rechallenged with TAXOL.
+Cardiovascular: Hypotension, bradycardia, and hypertension have been observed during administration of TAXOL,
+but generally do not require treatment. Occasionally TAXOL infusions must be interrupted or discontinued because
+of initial or recurrent hypertension. Frequent vital sign monitoring, particularly during the first hour of TAXOL infusion,
+is
+recommended. Continuous cardiac monitoring is not required except for patients with serious conduction
+abnormalities. (See WARNINGS section.)
+Nervous System: Although the occurrence of peripheral neuropathy is frequent, the development of severe
+symptomatology is unusual and requires a dose reduction of 20% for all subsequent courses of TAXOL.
+TAXOL contains dehydrated alcohol USP, 396 mg/mL; consideration should be given to possible CNS and
+other effects of alcohol. (See PRECAUTIONS: Pediatric Use section.)
+Hepatic: There is evidence that the toxicity of TAXOL is enhanced in patients with elevated liver enzymes. Caution
+should be exercised when administering TAXOL to patients with moderate to severe hepatic impairment and dose
+adjustments should be considered.
+Injection Site Reaction: Injection site reactions, including reactions secondary to extravasation, were usually mild
+and consisted of erythema, tenderness, skin discoloration or swelling at the injection site. These reactions have
+14
+been observed more frequently with the 24-hour infusion than with the 3-hour infusion. Recurrence of skin reactions
+at a site of previous extravasation following administration of TAXOL at a different site, i.e., "recall", has been
+reported rarely.
+Rare reports of more severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis and
+fibrosis have been received as part of the continuing surveillance of TAXOL safety. In some cases the onset of the
+injection site reaction either occurred during a prolonged infusion or was delayed by a week to ten days.
+A specific treatment for extravasation reactions is unknown at this time. Given the possibility of
+extravasation it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
+Carcinogenesis, Mutagenesis, Impairment of Fertility: The carcinogenic potential of TAXOL (paclitaxel) has not
+been studied.
+Paclitaxe has been shown to be clastogenic in vitro (chromosome aberrations in human lymphocytes) and
+in vivo (micronucleus test in mice). Paclitaxel was not mutagenic in the Ames test or the CHO/HGPRT gene mutation
+assay.
+Administration of paclitaxel prior to and during mating produced impairment of fertility in male and female rats
+at doses equal to or greater than 1 mg/kg/day (about 0.04 the daily maximum recommended human dose on a mg/m2
+basis). At this dose, paclitaxel caused reduced fertility and reproductive indices, and increased embryo- and
+fetotoxicity. (See WARNINGS SECTION.)
+Pregnancy: Pregnancy "Category D." (See WARNINGS section.)
+Nursing Mothers: It is not known whether the drug is excreted in human milk. Following intravenous administration
+of carbon-14 labeled TAXOL to rats on days 9 to 10 postpartum, concentrations of radioactivity in milk were higher
+than in plasma and declined in parallel with the plasma concentrations. Because many drugs are excreted in human
+milk and because of the potential for serious adverse reactions in nursing infants, it is recommended that nursing be
+discontinued when receiving TAXOL therapy.
+Pediatric Use: The safety and effectiveness of TAXOL in pediatric patients have not been established.
+There have been reports of central nervous system (CNS) toxicity (rarely associated with death) in a clinica
+trial in pediatric patients in which TAXOL was infused intravenously over 3 hours at doses ranging from 350 mg/m2 to
+420 mg/m2. The toxicity is most likely attributable to the high dose of the ethanol component of the TAXOL vehicle
+given over a short infusion time. The use of concomitant antihistamines may intensify this effect. Although a direct
+effect of the paclitaxel itself cannot be discounted, the high doses used in this study (over twice the recommended
+adult dosage) must be considered in assessing the safety of TAXOL for use in this population.
+ADVERSE REACTIONS
+Single-Agent
+15
+Data in the following table are based on the experience of 812 patients (493 with ovarian carcinoma and 319 with
+breast carcinoma) enrolled in 10 studies who received single-agent TAXOL. Two hundred and seventy-five patients
+were treated in 8 Phase 2 studies with TAXOL doses ranging from 135 to 300 mg/m2 administered over 24 hours (in 4
+of these studies, G-CSF was administered as hematopoietic support). Three hundred and one patients were treated
+in the randomized Phase 3 ovarian carcinoma study which compared two doses (135 or 175 mg/m2) and two
+schedules (3 or 24 hours) of TAXOL. Two hundred and thirty-six patients with breast carcinoma received TAXOL
+(135 or 175 mg/m2) administered over 3 hours in a controlled study.
+TABLE 8
+Summary* of Adverse Events in 812 Patients With Solid Tumors Receiving Single-Agent TAXOL
+% of Patients (n=812)
+Bone Marrow
+--Neutropenia
+<2000/mm3
+90
+< 500/mm3
+52
+--Leukopenia
+<4000/mm3
+90
+<1000/mm3
+17
+--Thrombocytopenia <100,000/mm3
+20
+< 50,000/mm3
+7
+--Anemia
+<11 g/dL
+78
+< 8 g/dL
+16
+---Infections
+30
+--Bleeding
+14
+--Red Cell Transfusions
+25
+--Platelet Transfusions
+2
+Hypersensitivity Reaction**
+---All
+41
+--Severe
+2
+Cardiovascular
+---Vital Sign Changes**
+--Bradycardia (N=537)
+3
+--Hypotension (N=532)
+12
+--Significant Cardiovascular Events
+1
+Abnorma ECG
+---All Pts
+23
+--Pts with normal baseline (N=559)
+14
+Peripheral Neuropathy
+--Any symptoms
+60
+--Severe symptoms
+3
+MyalgialArthralgia
+---Any symptoms
+60
+--Severe symptoms
+8
+Gastrointestina
+---Nausea and vomiting
+52
+---Diarrhea
+38
+--Mucositis
+31
+Alopecia
+87
+Hepatic (Pts with norma baseline and on study data)
+--Bilirubin elevations (N=765)
+7
+--Alkaline phosphatase elevations (N=575)
+22
+---AST (SGOT) elevations (N=591)
+19
+Injection Site Reaction
+13
+*Based on worst course analysis
+**All patients received premedication
+***During the first 3 hours of infusion
+None of the observed toxicities were clearly influenced by age.
+16
+Disease-Specific Tables of Adverse Events
+First-Line Ovary in Combination
+For the 409 patients who were evaluable for safety in the Phase 3 first-line ovary combination therapy study,
+the following table shows the incidence of important adverse events
+TABLE 9
+Frequency* of Important Adverse Events in the Phase 3 First-Line Ovarian Carcinoma Study
+Percent of Patients
+TAXOL (135/24) **/Cisplatin (75)
+Cyclophosphamide (750)/Cisplatin (75)
+(n=196)
+(n=213)
+Bone Marrow
+--Neutropenia
+<2,000/mm
+96
+92
+<500/mm3
+81***
+58***
+--Thrombocytopenia
+<100,000/mm3
+26
+30
+<50,000/mm
+10
+9
+--Anemia
+<11 g/dL
+88
+86
+<8 g/dL
+13
+9
+--Infections
+21
+15
+--Febrile Neutropenia
+15***
+4***
+Hypersensitivity Reaction**
+---All
+8***
+1***
+--Severe
+3***
+***
+Peripheral Neuropathy
+---Any symptoms
+25
+20
+--Severe symptoms
+3***
+Nausea and Vomiting
+---Any symptoms
+65
+69
+--Severe symptoms
+10
+11
+MyalgialArthralgia
+---Any symptoms
+9***
+2***
+--Severe symptoms
+1
+---
+Diarrhea
+---Any symptoms
+16***
+8***
+--Severe symptoms
+4
+1
+Asthenia
+17
+---Any symptoms
+17***
+10***
+--Severe symptoms
+1
+1
+Alopecia
+---Any symptoms
+55***
+37***
+--Severe symptoms
+6
+8
+*Based on worst course analysis
+**All patients received premedication
+*** py0.05 by Fisher Exact Test
+***Taxol dose in mg/m?/infusion duration in hours
+Second-Line Ovary
+For the 403 patients who received single-agent TAXOL in the Phase 3 second-line ovarian carcinoma study,
+the following table shows the incidence of important adverse events.
+TABLE 10
+Frequency* of Important Adverse Events in the Phase 3 Second-Line Ovarian Carcinoma Study
+Percent of Patients
+175/3**
+175/24**
+135/3***
+135/24**
+(n=95)
+(n=105)
+(n=98)
+(n=105)
+Bone Marrow
+---Neutropenia
+<2,000/mm
+78
+98
+78
+98
+<500/mm3
+27
+75
+14
+67
+--Thrombocytopenia
+<100,000/mm
+4
+18
+8
+6
+<50,000/mm
+1
+7
+2
+1
+--Anemia
+<11 g/dl
+84
+90
+68
+88
+<8 g/dL
+11
+12
+6
+10
+---Infections
+26
+29
+20
+18
+Hypersensitivity Reaction**
+---All
+41
+45
+38
+45
+--Severe
+2
+O
+2
+1
+Peripheral Neuropathy
+---Any symptoms
+63
+60
+55
+42
+--Severe symptoms
+1
+2
+0
+0
+Mucositis
+---Any symptoms
+17
+35
+21
+25
+-Severe symptoms
+0
+3
+0
+2
+*Based on worst course analysis
+**All patients received premedication
+**Taxol dose in mg/m?linfusion duration in hours
+Myelosuppression was dose and schedule related, with the schedule effect being more prominent. The development
+of severe hypersensitivity reactions (HSRs) was rare; 1% of the patients and 0.2% of the courses overall. There was
+no apparent dose or schedule effect seen for the HSRs. Peripheral neuropathy was clearly dose-related, but
+schedule did not appear to affect the incidence.
+Second-Line Breast
+18
+For the 458 patients who received single-agent TAXOL in the Phase 3 second-line breast carcinoma study,
+the following table shows the incidence of important adverse events by treatment arm (each arm was administered by
+a 3-hour infusion).
+TABLE 11
+Frequency* of Important Adverse Events in the Phase 3
+Second-Line Breast Carcinoma Study
+Percent of Patients
+175/3***
+135/3**
+(n=229)
+(n=229)
+Bone Marrow
+--Neutropenia
+<2,000/mm3
+90
+81
+<500/mm3
+28
+19
+--Thrombocytopenia
+<100,000/mm3
+11
+7
+<50,000/mm3
+3
+2
+---Anemia
+<11 g/dL
+55
+47
+<8 g/dL
+4
+2
+---Infections
+23
+15
+---Febrile Neutropenia
+2
+2
+Hypersensitivity Reaction**
+---All
+36
+31
+---Severe
+0
+<1
+Peripheral Neuropathy
+---Any symptoms
+70
+46
+--Severe symptoms
+7
+3
+Mucositis
+---Any symptoms
+23
+17
+--Severe symptoms
+3
+<1
+*Based on worst course analysis
+*All patients received premedication
+***Taxol dose in mg/m/infusion duration in hours
+Myelosuppression and periphera neuropathy were dose related. There was one severe hypersensivity reaction
+(HSR) observed at the dose of 135 mg/m2.
+First-Line NSCLC in Combination
+In the study conducted by the Eastern Cooperative Oncology Group (ECOG), patients were randomized to
+19
+either TAXOL (T) 135 mg/m2 as a 24-hour infusion in combination with cisplatin (c) 75 mg/m2, TAXOL (T) 250 mg/m2
+as a 24-hour infusion in combination with cisplatin (c) 75 mg/m2 with G-CSF support, or cisplatin (c) 75 mg/m2 on day
+1 followed by etoposide (VP) 100 mg/m2 on days 1, 2 and 3 (control).
+The following table shows the incidence of important adverse events, with severe events defined as at least
+Grade III toxicity.
+TABLE 12
+Frequency* of Important Adverse Events in the Phase 3 Study for First-line NSCLC
+Percent of Patients
+T135/24
+T250/24a
+VP100"
+c75
+c75
+c75
+(n=195)
+(n=197)
+(n=196)
+Bone Marrow
+<2,000/mm
+3
+--Neutropenia
+89
+86
+84
+< 500/mm
+74***
+65
+55
+Thrombocytopenia
+< normal
+48
+68
+62
+< 50,000/mm
+6
+12
+16
+-Anemia
+< norma
+94
+96
+95
+< 8 g/dL
+22
+19
+28
+--Infections
+38
+31
+35
+Hypersensitivity Reaction**
+---All
+16
+27
+13
+--Severe
+1
+4***
+1
+Arthralgia/Myalgia
+---Any symptoms
+21***
+42***
+9
+3
+11
+1
+--Severe symptoms
+NausealVomiting
+--Any symptoms
+85
+87
+81
+-Severe symptoms
+27
+29
+22
+Mucositis
+---Any symptoms
+18
+28
+16
+1
+4
+--Severe symptoms
+2
+Peripheral Neuropathy
+N/A
+N/A
+N/A
+---Any symptoms
+N/A
+N/A
+N/A
+-Severe symptoms
+Neuromotor Toxicity
+---Any symptoms
+37
+47
+44
+-Severe symptoms
+6
+23
+7
+Neurosensory Toxicity
+---Any symptoms
+48
+61
+25
+--Severe symptoms
+13
+28***
+8
+Cardiovascular Events
+33
+39
+24
+---Any symptoms
+13
+12
+8
+-Severe symptoms
+Based on worst course analysis
+All patients received premedication
+p<0.05
+a
+Taxol dose in mg/m / infusion duration in hours
+b
+Etoposide (VP) 100 mg/m was administered IV on days 1, 2, and 3.
+N/A
+Not Available
+20
+Toxicity was generally more severe in the high dose Taxol treatment arm (T250/c75) than in the low dose Taxol arm
+(T135/c75). Compared to the cisplatin/etoposide arm, patients in the low dose Taxol arm experienced more severe
+neutropenia and arthralgia/myalgia. The incidence of febrile neutropenia was not reported in this study.
+Kaposi's Sarcoma
+The following table shows the frequency of important adverse events in the 85 patients with KS treated with
+two different single-agent TAXOL regimens
+TABLE 13
+Frequency* of Important Adverse Events in the
+AIDS-Related Kaposi's Sarcoma Studies
+Percent of Patients
+Study CA139-174
+Study CA139-281
+Taxol 135/3 q 3 wk***
+Taxol 100/3 q 2 wk***
+(n=29)
+(n=56)
+Bone Marrow
+--Neutropenia
+<2000/mm3
+100
+95
+< 500/mm3
+76
+35
+--Thrombocytopenia
+<100.000/mm3
+52
+27
+< 50,000/mm3
+17
+5
+--Anemia
+<11 g/dL
+86
+73
+< 8 g/dL
+34
+25
+--Febrile Neutropenia
+55
+9
+Opportunistic Infection
+---Any
+76
+54
+---Cytomegalovirus
+45
+27
+--Herpes Simplex
+38
+11
+---Pneumocystis carinii
+14
+21
+---M. Avium intracellulare
+24
+4
+--Candidiasis, esophagea
+7
+9
+---Cryptosporidiosis
+7
+7
+---Cryptococcal meningitis
+3
+2
+---Leukoencephalopathy
+--
+2
+Hypersensitivity Reaction**
+---All
+14
+9
+Cardiovascular
+--Hypotension
+17
+9
+---Bradycardia
+3
+--
+Periphera Neuropathy
+---Any
+79
+46
+--Severe
+10
+2
+MyalgialArthralgia
+---Any
+93
+48
+--Severe
+14
+16
+Gastrointestinal
+---Nausea and vomiting
+69
+70
+---Diarrhea
+90
+73
+---Mucositis
+45
+20
+Renal (creatinine elevation)
+---Any
+34
+18
+---Severe (grade III/IV)
+7
+5
+Discontinuation for drug toxicity
+7
+16
+21
+*Based on worst course analysis
+**All patients received premedication
+**Taxo dose in mg/m2 / infusion duration in hours
+22
+As demonstrated in this table, toxicity was more pronounced in the study utilizing TAXOL at a dose of 135
+mg/m2 every 3 weeks than in the study utilizing TAXOL at a dose of 100 mg/m2 every 2 weeks. Notably, severe
+neutropenia (76% versus 35%), febrile neutropenia (55% versus 9%) and opportunistic infections (76% versus 54%)
+were more common with the former dose and schedule. The differences between the two studies with respect to
+dose escalation and use of hematopoietic growth factors, as described above, should be taken into account. (See
+CLINICAL STUDIES: AIDS-Related Kaposi's Sarcoma section.) Note also that only 26% of the 85 patients in
+these studies received concomitant treatment with protease inhibitors, whose effect on paclitaxel metabolism has not
+yet been studied.
+Narrative Discussion of Adverse Events
+Unless otherwise noted, the following discussion refers to the overall safety database of 812 patients with
+solid tumors treated with single-agent TAXOL in clinical studies. Toxicities that occurred with greater severity or
+frequency in previously untreated patients with ovarian carcinoma or NSCLC who received TAXOL in combination
+with cisplatin and that occurred with a difference that was clinically significant in this population are also described.
+The frequency and severity of important adverse events for the Phase 3 first- and second-line ovarian, breast
+carcinoma and NSCLC studies are presented above in tabular form by treatment arm. In addition, rare events have
+been reported from the postmarketing experience or from other clinical studies. The frequency and severity of
+adverse events have been generally similar for patients receiving TAXOL for the treatment of ovarian, breast, or lung
+carcinoma or Kaposi's sarcoma, but patients with AIDS-related Kaposi's sarcoma may have more frequent and
+severe hematologic toxicity, infections, and febrile neutropenia. These patients require a lower dose intensity and
+supportive care. (See CLINICAL STUDIES: AIDS-Related Kaposi's Sarcoma section.) Toxicities that were
+observed only in or were noted to have occurred with greater severity in the population with Kaposi's sarcoma and
+that occurred with a difference that was clinically significant in this population are described.
+Hematologic: Bone marrow suppression was the major dose-limiting toxicity of TAXOL. Neutropenia, the most
+important hematologic toxicity, was dose and schedule dependent and was generally rapidly reversible. Among
+patients treated in the Phase 3 second-line ovarian study with a 3-hour infusion, neutrophil counts declined below 500
+cells/mm3 in 13% of the patients treated with a dose of 135 mg/m2 compared to 27% at a dose of 175 mg/m2 (p=0.05).
+In the same study, severe neutropenia (<500 cells/mm3) was more frequent with the 24-hour than with the 3-hour
+infusion; infusion duration had a greater impact on myelosuppression than dose. Neutropenia did not appear to
+increase with cumulative exposure and did not appear to be more frequent nor more severe for patients previously
+treated with radiation therapy.
+In the study where TAXOL was administered to patients with ovarian carcinoma at a dose of 135 mg/m2/24
+23
+hours in combination with cisplatin versus the control arm of cyclophosphamide plus cisplatin, the incidences of grade
+IV neutropenia and of febrile neutropenia were significantly greater in the Taxol plus cisplatin arm than in the control
+arm. Grade IV neutropenia occurred in 81% on the Taxol plus cisplatin arm versus 58% on the cyclophosphamide
+plus cisplatin arm and febrile neutropenia occurred in 15% and 4% respectively. On the Taxol/cisplatin arm, there
+were 35/1074 (3%) courses with fever in which Grade IV neutropenia was reported at some time during the course.
+When TAXOL followed by cisplatin was administered to patients with advanced NSCLC in the ECOG
+study, the incidences of Grade IV neutropenia were 74% (TAXOL 135 mg/m2/24 hours followed by
+cisplatin) and 65% (TAXOL 250 mg/m2/24 hours followed by cisplatin and G-CSF) compared with 55% in
+patients who received cisplatin/etoposide.
+Fever was frequent (12% of all treatment courses). Infectious episodes occurred in 30% of all patients and
+9% of all courses; these episodes were fatal in 1% of all patients, and included sepsis, pneumonia and peritonitis. In
+the Phase 3 second-line ovarian study, infectious episodes were reported in 19% of the patients given either the 135
+or 175 mg/m2 dose by a 3-hour infusion. Urinary tract infections and upper respiratory tract infections were the most
+frequently reported infectious complications. In the immunosuppressed patient population with advanced HIV
+disease and poor-risk AIDS-related Kaposi's sarcoma, 61% of the patients reported at least one opportunistic
+infection. (See CLINICAL STUDIES: AIDS-Related Kaposi's Sarcoma section.) The use of supportive therapy,
+including G-CSF, is recommended for patients who have experienced severe neutropenia. (See DOSAGE AND
+ADMINISTRATION section.)
+Thrombocytopenia was uncommon, and almost never severe (<50,000 cells/mm3). Twenty percent of the
+patients experienced a drop in their platelet count below 100,000 cells/mm3 at least once while on treatment; 7% had
+a platelet count <50,000 cells/mm3 at the time of their worst nadir. Bleeding episodes were reported in 4% of all
+courses and by 14% of all patients but most of the hemorrhagic episodes were localized and the frequency of these
+events was unrelated to the TAXOL dose and schedule. In the Phase 3 second-line ovarian study, bleeding episodes
+were reported in 10% of the patients; no patients treated with the 3-hour infusion received platelet transfusions. In the
+Phase 3 NSCLC study of TAXOL 135 mg/m/24 hours followed by cisplatin, severe thrombocytopenia
+(<50,000/mm3) was experienced by 6% of the patients.
+Anemia (Hb <11 g/dL) was observed in 78% of all patients and was severe (Hb <8 g/dL) in 16% of the
+cases. No consistent relationship between dose or schedule and the frequency of anemia was observed. Among all
+patients with normal baseline hemoglobin, 69% became anemic on study but only 7% had severe anemia. Red cell
+transfusions were required in 25% of all patients and in 12% of those with normal baseline hemoglobin levels.
+Hypersensitivity Reactions (HSRs): All patients received premedication prior to TAXOL (See WARNINGS and
+PRECAUTIONS: Hypersensitivity Reactions sections). The frequency and severity of HSRs were not affected by
+the dose or schedule of TAXOL administration. In the Phase 3 second-line ovarian study, the 3-hour infusion was not
+associated with a greater increase in HSRs when compared to the 24-hour infusion. Hypersensitivity reactions were
+24
+observed in 20% of all courses and in 41% of all patients. These reactions were severe in less than 2% of the
+patients and 1% of the courses. No severe reactions were observed after course 3 and severe symptoms occurred
+generally within the first hour of TAXOL infusion. The most frequent symptoms observed during these severe
+reactions were dyspnea flushing, chest pain and tachycardia.
+The minor hypersensitivity reactions consisted mostly of flushing (28%), rash (12%), hypotension (4%),
+dyspnea (2%), tachycardia (2%) and hypertension (1%). The frequency of hypersensitivity reactions remained
+relatively stable during the entire treatment period.
+Rare reports of chills and reports of back pain in association with hypersensitivity reactions have been
+received as part of the continuing surveillance of TAXOL safety.
+Cardiovascular: Hypotension, during the first 3 hours of infusion, occurred in 12% of all patients and 3% of all
+courses administered. Bradycardia, during the first 3 hours of infusion, occurred in 3% of all patients and 1% of all
+courses. In the Phase 3 second-line ovarian study, neither dose nor schedule had an effect on the frequency of
+hypotension and bradycardia. These vital sign changes most often caused no symptoms and required neither
+specific therapy nor treatment discontinuation. The frequency of hypotension and bradycardia were not influenced by
+prior anthracycline therapy.
+Significant cardiovascular events possibly related to single-agent TAXOL occurred in approximately 1% of
+all patients These events included syncope, rhythm abnormalities hypertension and venous thrombosis. One of the
+patients with syncope treated with TAXOL at 175 mg/m2 over 24 hours had progressive hypotension and died. The
+arrhythmias included asymptomatic ventricular tachycardia bigeminy and complete AV block requiring pacemaker
+placement. Among patients with NSCLC treated with Taxol in combination with cisplatin in the Phase 3 study,
+significant cardiovascular events occurred in 12-13%. The apparent increase in these cardiovascular events is
+possibly due to the difference in cardiovascular risk factors in most patients with NSCLC who were treated with Taxol
+and cisplatin.
+Electrocardiogram (ECG) abnormalities were common among patients at baseline. ECG abnormalities on
+study did not usually result in symptoms, were not dose-limiting, and required no intervention. ECG abnormalities
+were noted in 23% of all patients. Among patients with a normal ECG prior to study entry, 14% of all patients
+developed an abnormal tracing while on study. The most frequently reported ECG modifications were non-specific
+repolarization abnormalities, sinus bradycardia, sinus tachycardia and premature beats. Among patients with normal
+ECGs at baseline, prior therapy with anthracyclines did not influence the frequency of ECG abnormalities.
+Cases of myocardial infarction have been reported rarely. Congestive heart failure has been reported
+typically in patients who have received other chemotherapy, notably anthracyclines. (See PRECAUTIONS: Drug
+Interactions section.)
+Rare reports of atrial fibrillation and supraventricular tachycardia have been received as part of the
+25
+continuing surveillance of TAXOL safety.
+Respiratory: Rare reports of interstitial pneumonia, lung fibrosis and pulmonary embolism, have been received as
+part of the continuing surveillance of TAXOL safety. Rare reports of radiation pneumonitis have been received in
+patients receiving concurrent radiotherapy.
+Neurologic: The frequency and severity of neurologic manifestations were dose-dependent, but were not influenced
+by infusion duration. Peripheral neuropathy was observed in 60% of all patients (3% severe) and in 52% (2%
+severe) of the patients without pre-existing neuropathy.
+The frequency of periphera neuropathy increased with cumulative dose. Neurologic symptoms were
+observed in 27% of the patients after the first course of treatment and in 34-51% from course 2 to 10.
+Peripheral neuropathy was the cause of TAXOL discontinuation in 1% of all patients. Sensory symptoms
+have usually improved or resolved within several months of TAXOL discontinuation. The incidence of neurologic
+symptoms did not increase in the subset of patients previously treated with cisplatin. Pre-existing neuropathies
+resulting from prior therapies are not a contraindication for TAXOL therapy. In patients with NSCLC, administration of
+Taxol followed by cisplatin resulted in a greater incidence of neurotoxicity compared with single-agent Taxol;
+neurosensory symptoms were noted in 48% of patients receiving Taxol 135 mg/m2 by 24 hour infusion followed by
+cisplatin 75 mg/m2.
+Other than peripheral neuropathy, serious neurologic events following TAXOL administration have been rare
+(<1%) and have included grand mal seizures syncope, ataxia and neuroencephalopathy.
+Rare reports of autonomic neuropathy resulting in paralytic ileus have been received as part of the
+continuing surveillance of TAXOL safety. Optic nerve and/or visua disturbances (scintillating scotomata) have also
+been reported, particularly in patients who have received higher doses than those recommended. These effects
+generally have been reversible. However, rare reports in the literature of abnormal visual evoked potentials in
+patients have suggested persistent optic nerve damage.
+ArthralgialMyalgia: There was no consistent relationship between dose or schedule of TAXOL and the frequency or
+severity of arthralgia/myalgia. Sixty percent of all patients treated experienced arthralgia/myalgia; 8% experienced
+severe symptoms. The symptoms were usually transient, occurred two or three days after TAXOL administration
+and resolved within a few days. The frequency and severity of musculoskeletal symptoms remained unchanged
+throughout the treatment period.
+Hepatic: No relationship was observed between liver function abnormalities and either dose or schedule of TAXOL
+administration. Among patients with normal baseline liver function 7%, 22% and 19% had elevations in bilirubin,
+alkaline phosphatase and AST (SGOT), respectively. Prolonged exposure to TAXOL was not associated with
+cumulative hepatic toxicity.
+Rare reports of hepatic necrosis and hepatic encephalopathy leading to death have been received as part of
+26
+the continuing surveillance of TAXOL safety.
+Renal: Among the patients treated for Kaposi's sarcoma with TAXOL, five patients had renal toxicity of grade III or IV
+severity. One patient with suspected HIV nephropathy of grade IV severity had to discontinue therapy. The other
+four patients had renal insufficiency with reversible elevations of serum creatinine.
+Gastrointestinal (GI) Nausealvomiting, diarrhea and mucositis were reported by 52%, 38% and 31% of all patients,
+respectively. These manifestations were usually mild to moderate. Mucositis was schedule dependent and occurred
+more frequently with the 24-hour than with the 3-hour infusion.
+In patients with poor-risk AIDS-related Kaposi's sarcoma, nausealvomiting, diarrhea and mucositis were
+reported by 69%, 79% and 28% of patients, respectively. One-third of patients with Kaposi's sarcoma complained of
+diarrhea prior to study start. (See CLINICAL STUDIES: AIDS-Related Kaposi's Sarcoma section.)
+In the first-line, phase 3 ovarian carcinoma study, the incidence of nausea and vomiting when TAXOL was
+administered in combination with cisplatin appeared to be greater compared with the database for single-agent
+TAXOL in ovarian and breast carcinoma. In the same study, diarrhea of any grade was reported more frequently
+(16%) compared to the control arm (8%) (p=0.008), but there was no difference for severe diarrhea.
+Rare reports of intestinal obstruction, intestinal perforation, pancreatitis, ischemic colitis, and dehydration
+have been received as part of the continuing surveillance of TAXOL safety. Rare reports of neutropenic enterocolitis
+(typhlitis), despite the coadministration of G-CSF, were observed in patients treated with TAXOL alone and in
+combination with other chemotherapeutic agents.
+Injection Site Reaction: Injection site reactions, including reactions secondary to extravasation, were usually mild
+and consisted of erythema, tenderness, skin discoloration, or swelling at the injection site. These reactions have
+been observed more frequently with the 24-hour infusion than with the 3-hour infusion. Recurrence of skin reactions
+at a site of previous extravasation following administration of TAXOL at a different site, i.e., "recall", has been
+reported rarely.
+Rare reports of more severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis and
+fibrosis have been received as part of the continuing surveillance of TAXOL safety. In some cases the onset of the
+injection site reaction either occurred during a prolonged infusion or was delayed by a week to ten days.
+A specific treatment for extravasation reactions is unknown at this time. Given the possibility of
+extravasation it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
+Other Clinical Events: Alopecia was observed in almost all (87%) of the patients Transient skin changes due to
+TAXOL related hypersensitivity reactions have been observed, but no other skin toxicities were significantly
+associated with TAXOL administration. Nail changes (changes in pigmentation or discoloration of nail bed) were
+uncommon (2%). Edema was reported in 21% of all patients (17% of those without baseline edema); only 1% had
+severe edema and none of these patients required treatment discontinuation. Edema was most commonly focal and
+27
+disease-related. Edema was observed in 5% of all courses for patients with normal baseline and did not increase
+with time on study.
+Rare reports of skin abnormalities related to radiation recal as well as reports of maculopapular rash and
+pruritus have been received as part of the continuing surveillance of TAXOL safety.
+Reports of asthenia and malaise have been received as part of the continuing surveillance of TAXOL safety.
+In the phase 3 trial of Taxol 135 mg/m2 over 24 hours in combination with cisplatin as first-line therapy of ovarian
+cancer, asthenia was reported in 17% of patients, significantly greater than the 10% incidence observed in the
+control arm of cyclophosphamide/cisplatin
+Accidental Exposure: Upon inhalation, dyspnea chest pain, burning eyes, sore throat and nausea have been
+reported. Following topical exposure, events have included tingling, burning and redness.
+OVERDOSAGE
+There is no known antidote to TAXOL overdosage. The primary anticipated complications of overdosage would
+consist of bone marrow suppression, peripheral neurotoxicity and mucositis. Overdoses in pediatric patients may be
+associated with acute ethanol toxicity (see PRECAUTIONS: Pediatric Use section).
+DOSAGE AND ADMINISTRATION
+Note: Contact of the undiluted concentrate with plasticized PVC equipment or devices used to prepare solutions for
+infusion is not recommended. In order to minimize patient exposure to the plasticizer DEHP [di-(2-
+ethylhexyl)phthalate], which may be leached from PVC infusion bags or sets, diluted TAXOL solutions should be
+stored in bottles (glass, polypropylene) or plastic bags (polypropylene, polyolefin) and administered through
+polyethylene-lined administration sets.
+All patients should be premedicated prior to TAXOL administration in order to prevent severe
+hypersensitivity reactions. Such premedication may consist of dexamethasone 20 mg PO administered
+approximately 12 and 6 hours before TAXOL, diphenhydramine (or its equivalent) 50 mg I.V. 30 to 60 minutes prior to
+TAXOL, and cimetidine (300 mg) or ranitidine (50 mg) I.V. 30 to 60 minutes before TAXOL.
+For patients with carcinoma of the ovary, the following regimens are recommended:
+(1)
+For previously untreated patients with carcinoma of the ovary, the recommended regimen, given
+every 3 weeks, is TAXOL administered intravenously over 24 hours at a dose of 135 mg/m2
+followed by cisplatin at a dose of 75 mg/m2.
+(2)
+In patients previously treated with chemotherapy for carcinoma of the ovary, TAXOL has been used
+at several doses and schedules; however, the optimal regimen is not yet clear (see CLINICAL
+STUDIES: Ovarian Carcinoma section) The recommended regimen is TAXOL 135 mg/m2 or 175
+28
+mg/m2 administered intravenously over 3 hours every 3 weeks.
+For patients with carcinoma of the breast, TAXOL at a dose of 175 mg/m2 administered intravenously over
+3 hours every 3 weeks has been shown to be effective after failure of chemotherapy for metastatic disease or relapse
+within 6 months of adjuvant chemotherapy. (See CLINICAL STUDIES: Breast Carcinoma section.)
+For patients with non-small cell lung carcinoma, the recommended regimen, given every 3
+weeks, is TAXOL administered intravenously over 24 hours at a dose of 135 mg/m? followed by cisplatin,
+75 mg/m?.
+For patients with AIDS-related Kaposi's sarcoma, TAXOL administered at a dose of 135 mg/m2 given
+intravenously over 3 hours every 3 weeks or at a dose of 100 mg/m2 given intravenously over 3 hours every 2 weeks
+is recommended (dose intensity 45-50 mg/m2/week). In the two clinical trials evaluating these schedules (see
+CLINICAL STUDIES: AIDS-related Kaposi's Sarcoma section), the former schedule (135 mg/m2 every 3 weeks)
+was more toxic than the latter. In addition, all patients with low performance status were treated with the latter
+schedule (100 mg/m2 every 2 weeks).
+Based upon the immunosuppression in patients with advanced HIV disease, the following modifications are
+recommended in these patients:
+1) Reduce the dose of dexamethasone as one of the three premedication drugs to 10 mg PO (instead of 20
+mg PO);
+2) Initiate or repeat treatment with TAXOL only if the neutrophil count is at least 1000 cells/mm3;
+3) Reduce the dose of subsequent courses of TAXOL by 20% for patients who experience severe
+neutropenia (neutrophil <500 cells/mm3 for a week or longer); and
+4) Initiate concomitant hematopoietic growth factor (G-CSF) as clinically indicated.
+For the therapy of patients with solid tumors (ovary, breast, and NSCLC), courses of TAXOL should not be
+repeated unti the neutrophil count is at least 1500 cells/mm3 and the platelet count is at least 100,000 cells/mm3.
+TAXOL should not be given to patients with AIDS-related Kaposi's sarcoma if the baseline or subsequent neutrophil
+count is less than 1000 cells/mm3, Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for
+a
+week or longer) or severe periphera neuropathy during TAXOL therapy should have dosage reduced by 20% for
+subsequent courses of TAXOL. The incidence of neurotoxicity and the severity of neutropenia increase with dose.
+Preparation and Administration Precautions: TAXOL is a cytotoxic anticancer drug and, as with other potentially
+toxic compounds, caution should be exercised in handling TAXOL. The use of gloves is recommended. If TAXOL
+solution contacts the skin, wash the skin immediately and thoroughly with soap and water. Following topical
+exposure, events have included tingling, burning and redness. If TAXOL contacts mucous membranes, the
+membranes should be flushed thoroughly with water. Upon inhalation, dyspnea, chest pain, burning eyes, sore throat
+and nausea have been reported.
+29
+Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration
+during drug administration (see PRECAUTIONS: Injection Site Reaction section).
+Preparation for Intravenous Administration: TAXOL (paclitaxel) Injection must be diluted prior to infusion. TAXOL
+should be diluted in 0.9% Sodium Chloride Injection USP, 5% Dextrose injection, USP, 5% Dextrose and 0.9%
+Sodium Chloride Injection, USP or 5% Dextrose in Ringer's Injection to a final concentration of 0.3 to 1.2 mg/mL. The
+solutions are physically and chemically stable for up to 27 hours at ambient temperature (approximately 25 C) and
+room lighting conditions. Parenteral drug products should be inspected visually for particulate matter and
+discoloration prior to administration whenever solution and container permit.
+Upon preparation, solutions may show haziness, which is attributed to the formulation vehicle. No significant
+losses in potency have been noted following simulated delivery of the solution through I.V. tubing containing an in-line
+(0.22 micron) filter.
+Data collected for the presence of the extractable plasticizer DEHP di-(2-ethylhexyl)phthalate show that
+levels increase with time and concentration when dilutions are prepared in PVC containers. Consequently, the use of
+plasticized PVC containers and administration sets is not recommended. TAXOL solutions should be prepared and
+stored in glass, polypropylene, or polyolefin containers. Non-PVC containing administration sets, such as those
+which are polyethylene-lined, should be used.
+TAXOL should be administered through an in-line filter with a microporous membrane not greater than 0.22
+microns. Use of filter devices such as IVEX-2 filters which incorporate short inlet and outlet PVC-coated tubing has
+not resulted in significant leaching of DEHP.
+The
+Chemo Dispensing Pin device or similar devices with spikes should not be used with vials of TAXOL
+since they can cause the stopper to collapse resulting in loss of sterile integrity of the TAXOL solution.
+Stability: Unopened vials of TAXOL (paclitaxel) Injection are stable until the date indicated on the package when
+stored between 20 -25 C (68 -77 F), in the origina package. Neither freezing nor refrigeration adversely affects
+the stability of the product. Upon refrigeration components in the TAXOL vial may precipitate, but will redissolve upon
+reaching room temperature with little or no agitation There is no impact on product quality under these
+circumstances. If the solution remains cloudy or if an insoluble precipitate is noted, the vial should be discarded.
+Solutions for infusion prepared as recommended are stable at ambient temperature (approximately 25 C) and
+lighting conditions for up to 27 hours.
+HOW SUPPLIED
+NDC 0015-3475-30
+30 mg/5 mL multidose via individually packaged in a carton.
+NDC 0015-3476-30
+100 mg/16.7 mL multidose vial individually packaged in a carton.
+NDC 0015-3479-11
+300 mg/50 mL multidose vial individually package in a carton.
+Storage: Store the vials in origina cartons between 20 -25 C (68 -77 F). Retain in the original package to protect
+30
+from light
+Handling and Disposal: Procedures for proper handling and disposal of anticancer drugs should be considered.
+Several guidelines on this subject have been published1-7. There is no general agreement that all of the procedures
+recommended in the guidelines are necessary or appropriate.
+IVEX-2 is the registered trademark of the Millipore Corporation.
+Chemo Dispensing Pin is a trademark of B. Braun Medical Incorporated.
+31
+References:
+1
+Recommendations for the safe handling of parenteral antineoplastic drugs. NIH Publication No. 83-2621.
+For sale by the Superintendent of Documents, US Government Printing Office, Washington, DC 20402.
+2
+AMA Council Report. Guidelines for handling parenteral antineoplastics. JAMA 1985; 253 (11): 1590-1592.
+3
+National Study Commission on Cytotoxic Exposure--Recommendations for handling cytotoxic agents
+Available from Louis P. Jeffrey, Chairman, National Study Commission on Cytotoxic Exposure.
+Massachusetts College of Pharmacy and Allied Health Sciences, 179 Longwood Avenue, Boston,
+Massachusetts, 02115.
+4
+Clinical Oncological Society of Australia. Guidelines and recommendations for safe handling of
+antineoplastic agents. Med J Australia 1983; 1:426-428.
+5
+Jones RB, et al: Safe handling of chemotherapeutic agents: a report from the Mount Sinai Medical Center.
+CA-A Cancer Journal for Clinicians 1983; Sept./Oct. 258-263.
+6
+American Society of Hospital Pharmacists Technical Assistance Bulletin on Handling Cytotoxic and
+Hazardous Drugs. Am J Hosp Pharm 1990; 47:1033-1049.
+7
+Controlling occupational exposure to hazardous drugs (OSHA WORK-PRACTICE GUIDELINES). Am J
+Health-Syst Pharm 1996; 53:1669-1685.
+Mead Johnson
+ONCOLOGY PRODUCTS
+A Bristol-Myers Squibb Co.
+Princeton, New Jersey 08543
+U.S.A.
+Issued
+347630DIM-03
+51-006186-02
+32

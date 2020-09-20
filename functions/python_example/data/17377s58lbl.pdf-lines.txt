@@ -1,0 +1,1068 @@
+R only
+c. This quality control range applicable only to Haemophilus influenzae ATCC 49247 tested by broth microdilution
+procedure using Haemophilus Test Medium (HTM)4
+BACTRIMTM
+d. This quality contro range applicable to tests performed by the broth microdilution method only using
+brand of sulfamethoxazole and trimethoprim DS
+cation. adjusted Mueller Hinton broth with 2% to 5% lysed horse blood4.
+(double strength) TABLETS and TABLETS, USP
+Diffusion Techniques:
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the sus-
+DESCRIPTION
+ceptibility of bacteria to antimicrobial compounds One such standardized procedure5 requires the use of stan of
+BACTRIM (sulfamethoxazole and trimethoprim) is a syn-
+dardized inoculum concentrations. This procedure uses paper disks impregnated with .25/23. ug
+thetic antibacterial combination product available DS
+sulfamethoxazole/trimethoprim
+test
+the
+susceptibility
+of
+microorganisms
+sulfamethoxazole/trimethoprim.
+(double strength) tablets, each containing 800 mg sul-
+Reports from the laboratory providing results of the standard single-disk susceptibility test with 1.25/23.75
+famethoxazole and 160 mg trimethoprim; tablets, each
+ug of ulfamethoxazole/trimethoprim disk should be interpreted according the following criteria:
+containing 400 mg sulfamethoxazole and 80 mg trimetho-
+For testing either Enterobacteriaceae or Haemophilus influenzaee
+prim for ora administration.
+Sulfamethoxazole sulfanil-
+Zone Diameter (mm)
+Interpretation
+amide; molecular formula almost
+216
+Susceptible (S)
+white, odorless tasteless compound with molecular
+11 - 15
+weight of 253.28 and the following structural formula:
+(I)
+<10
+Resistant (R)
+These zone diameter standards are applicable only for disk diffusion testing with Haemophilus influenzae
+and Haemophilus Test Medium (HTM)5
+When testing Streptococcus pneumoniaef
+Zone Diameter (mm)
+Interpretation
+219
+(S)
+Trimethoprim is diamino- trimethoxybenzyl)pyrimidine the molecular formula is 14H18N4O3 It
+Intermediate (I)
+a
+white to light yellow, odorless, bitter compound with a molecular weight of 290.3. has the following struc
+s15
+Resistant (R)
+tural formula:
+f.
+These zone diameter interpretative standards are applicable only to tests performed using Mueller-Hinton
+agar
+supplemented
+with
+5%
+defibrinated
+sheep
+blood
+when
+incubated
+in
+5%
+Interpretation should be as stated above for results using dilution techniques. Interpretation involves correlation
+of the diameter obtained the disk test with the MIC for sulfamethoxazole/trimethoprim
+Quality Control
+with standardized dilution techniques, diffusion methods require the use laboratory control microorganisms
+that
+are
+used
+to
+control
+the
+technical
+aspects
+of
+the
+laboratory
+procedures
+For
+the
+diffusion
+technique,
+the
+1.25/23.75 ug sulfamethoxazole/trimethoprim disk* should provide the following zone diameters in these labora-
+tory test quality control strains:
+CH3C
+Microorganism
+Zone Diameter Ranges (mm)
+OCH3
+Escherichia
+ATCC 25922
+24-32
+Inactive ingredients: Docusate sodium 85%, sodium benzoate 15%, sodium starch glycolate, magnesium
+Haemophilus influenzaeg
+ATCC 49247
+24-32
+stearate and pregelatinized starch.
+Streptococcus pneumoniaeh
+ATCC 49619
+20-28
+CLINICAL PHARMACOLOGY
+*Mueller Hinton agar should be checked for excessive levels of thymidine or thymine. To determine whether
+BACTRIM is rapidly absorbed following oral administration. Both sulfamethoxazole and trimethoprim exist the
+medium has sufficiently low levels of thymidine and thymine, an faecalis (ATCC
+blood unbound, protein-bound and metabolized forms; sulfamethoxazole also exists the conjugated form.
+29212 or ATCC 33186) may be tested with sulfamethoxazole/trimethoprim disks zone inhibition 220 mm
+The metabolism of sulfamethoxazole occurs predominately N4-acetylation, although the glucuronide conjugate
+that
+is
+essentially
+free
+of
+fine
+colonies
+indicates
+sufficiently
+low
+level
+of
+thymidine
+and
+thymine.
+has been identified. principal metabolites of trimethoprin are the 1- and 3-oxides and the 3' and '-hydroxy
+g.
+This quality control range applicable only to Haemophilus influenzae ATCC 49247 tested by a disk diffusion
+derivatives. The free forms and are considered be the therapeutically active
+procedure using Haemophilus Test Medium (HTM)5.
+forms.
+Approximately
+70%
+of
+sulfamethoxazole
+and
+44%
+of
+trimethoprim
+are
+bound
+to
+plasma
+proteins
+The
+h. This quality control range applicable only to tests performed by disk diffusion using Mueller-Hinton agar
+presence of 10 mg percent sulfamethoxazole in plasma decreases the protein binding of trimethoprim by an
+supplemented with 5% defibrinated sheep blood when incubated in 5% CO25
+insignificant degree; trimethoprim does not influence the protein binding sulfamethoxazole
+INDICATIONS AND USAGE
+Peak
+blood
+levels
+for
+the
+individual
+components
+occur
+to
+hours
+after
+oral
+administration.
+mean
+serum
+half-
+lives
+of
+Urinary Tract Infections: For the treatment of urinary tract infections due to susceptible strains of the following
+and trimethoprim are 10 and to 10 hours, respectively. However, patients with severely impaired
+organisms Escherichia coli, Klebsiella species, Enterobacter species, Morganella morganii, Proteus mirabilis and
+exhibit an increase in the of both components, requiring dosage regimen adjustment (see DOSAGE AND
+Proteus vulgaris It is recommended that initial episodes uncomplicated urinary tract infections be treated with
+ADMINISTRATION section) Detectable amounts of sulfamethoxazole and trimethoprim are present in the blood 24 hours
+a single effective antibacterial agent rather than the combination.
+after
+drug
+administration.
+During
+administration
+800
+sulfamethoxazole
+and
+160
+mg
+trimethoprim
+b.i.d.
+the
+mean
+steady-
+state concentration of trimethoprim was 1.72 The steady-state mean levels of free and total
+plasma ug/mL. plasma sul-
+Acute Otitis Media: For the treatment of acute otitis media pediatric patients due susceptible strains
+of
+famethoxazole were ug/mt and 68.0 ug/mL, respectively. These levels were achieved after three days
+Streptococcus pneumoniae or Haemophilus influenzae when in the judgment of the physician sulfamethoxa.
+drug
+Excretion
+of
+sulfamethoxazole
+and
+trimethoprim
+primarily
+by
+the
+kidneys
+through
+both
+glomerula
+zole and trimethoprim offers some advantage over the use of other antimicrobia agents. To date, there are
+tration tubular secretion Urine both and trimethoprim considerably higher than
+limited data the safety of repeated use of BACTRIM pediatric patients under two years of age. BACTRIM
+are the concentrations in the blood average percentage of the dose recovered urine from O to 72 hours after single
+is
+not
+indicated
+for
+prophylactic
+or
+prolonged
+administratio
+in
+otitis
+media
+any
+age
+oral dose of sulfamethoxazole and trimethoprim is 84.5% for total sulfonamide and 66.8% for free trimethoprim. Thirty per-
+Acute Exacerbations Chronic Bronchitis Adults: For treatment acute exacerbations chronic bronchitis due
+cent of the tota sulfonamide excreted as free sulfamethoxazole, with the remaining as I4-acetylated metabolite.2 When
+to susceptible strains of Streptococcus pneumoniae or Haemophilus influenzae when in the judgment of the physician
+administered together sulfamethoxazole and trimethoprim, neither sulfamethoxazole nor trimethoprim affects the urinary
+BACTRIM offers some advantage over the use of single antimicrobial agent.
+excretion pattern of the other.
+Shigellosis: For the treatment of enteritis caused by susceptible strains of Shigella flexneri and Shigella sonnei
+Both
+sulfamethoxazole
+and
+trimethoprim
+distribute
+to
+sputum
+vaginal
+fluid
+and
+middle
+ear
+fluid;
+trimethoprim
+when antibacterial therapy is indicated.
+also distributes to bronchial secretion, and both pass the placental barrier and are excreted in human milk.
+Pneumocystis Carinii Pneumonia: For the treatment of documented Pneumocystis carinii pneumonia and for
+Geriatric Pharmacokinetics: The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were
+prophylaxis against Pneumocystis carinii pneumonia individuals who are immunosuppressed and considered
+studied
+in
+6
+geriatric
+subjects
+(mean
+age:
+78.6
+years)
+and
+6
+young
+healthy
+subjects
+(mean
+age:
+29.3
+years)
+to
+be
+at
+an
+increased
+risk
+of
+developing
+Pneumocystis
+carinii
+pneumonia.
+using non-Us approved formulation. Pharmacokinetic values for sulfamethoxazole geriatric subjects were
+Traveler's Diarrhea Adults: For the treatment of traveler's diarrhea due to susceptible strains of enterotoxi-
+similar to those observed in young adult subjects. The mean renal clearance of trimethoprim was significantly
+genic
+coli
+lower
+in
+geriatric
+subjects
+compared
+with
+young
+adul
+subjects
+(19
+mL/h/kg
+vs
+55
+mL/h/kg).
+However,
+after
+CONTRAINDICATIONS
+normalizing by body weight the apparen total body clearance of trimethoprim was on average 19% lower
+BACTRIM is contraindicated in patients with a known hypersensitivity trimethoprim or sulfonamides and in
+geriatric subjects compared with young adult subjects.
+patients with documented megaloblastic anemia due to folate deficiency BACTRIM is also contraindicated in preg:
+Microbiology
+nant patients and nursing mothers, because sulfonamides pass the placenta and are excreted in the milk and may
+Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing with para-aminobenzoic acid (PABA)
+cause kernicterus BACTRIM contraindicated pediatric patients less than months of age BACTRIM also
+Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting
+contraindicated in patients with marked hepatic damage or with severe renal insufficiency when renal function
+the required enzyme dihydrofolate reductase Thus, sulfamethoxazole and trimethoprim blocks two consecutive steps
+status cannot be monitored.
+the biosynthesis of nucleic acids and proteins essential to many bacteria.
+WARNINGS
+In vitro studies have shown that bacterial resistance develops more slowly with both sulfamethoxazole and
+FATALITIES ASSOCIATED WITH THE ADMINISTRATION OF SULFONAMIDES, ALTHOUGH RARE HAVE
+trimethoprim combination than with either sulfamethoxazole trimethoprim alone
+OCCURRED DUE TO SEVERE REACTIONS. INCLUDING STEVENS-JOHNSON SYNDROME, TOXIC EPI-
+Sulfamethoxazole
+and
+trimethoprim
+have
+been
+shown
+to
+be
+active
+against
+most
+strains
+the
+following
+microor-
+DERMAL NECROLYSIS, FULMINANT HEPATIC NECROSIS, AGRANULOCYTOSIS, APLASTIC ANEMIA AND
+ganisms, vitro and clinical infections as described in the INDICATIONS AND USAGE section.
+OTHER BLOOD DYSCRASIAS.
+Aerobic gram-positive microorganisms:
+SULFONAMIDES, INCLUDING SULFONAMIDE- CONTAINING PRODUCTS SUCH AS SULFAMETHOXA-
+ZOLE/TRIMETHOPRIM, SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR ANY
+Streptococcus pneumoniae
+SIGN OF ADVERSE REACTION. In rare instances, skin rash may be followed by more severe reaction, such
+Aerobic gram-negative microorganisms:
+-Johnsor syndrome, toxic epidermal necrolysis, hepatic necrosis, and serious blood disorders (see
+Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea)
+PRECAUTIONS). Clinical signs, such rash, sore throat, fever, arthralgia, pallor, purpura jaundice may be
+Klebsiella species
+early
+indications
+of
+serious
+reactions.
+Enterobacter species
+Cough, shortness breath, and pulmonary infiltrates are hypersensitivity reactions of the respiratory tract
+Haemophilus influenzae
+that have been reported in association with sulfonamide treatment.
+Morganella morganii
+The
+sulfonamides
+should
+not
+be
+used
+for
+treatment
+of
+group
+A
+B-hemolytic
+streptococcal
+infections.
+In
+an
+Proteus
+mirabilis
+established infection, they wil not eradicate the streptococcus and, therefore, will not prevent sequelae such
+Proteus vulgaris
+as rheumatic fever.
+Shigella flexneri
+Shigella sonnei3
+Pseudomembranous colitis has been reported with nearly all antibacterial agents, including sul-
+famethoxazole/trimethoprim, and may range in severity from mild life-threatening. Therefore, it is
+Other Organisms:
+important to consider this diagnosis in patients who present with diarrhea subsequent to the adminis-
+Pneumocystis carinii
+tration of antibacterial agents.
+Susceptibility Testing Methods:
+Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia
+Dilution Techniques:
+Studies indicate that toxin produced by Clostridium difficile is one primary cause of "antibiotic-associated
+Quantitative methods are used to determine antimicrobia minimum inhibitory concentrations (MICs). These
+colitis.
+MICs provide estimates of the susceptibility bacteria to antimicrobial compounds The MICs should be deter-
+After the diagnosis of pseudomembranous colitis has been established therapeutic measures should be initiated
+mined using standardized procedure. Standardized procedures are based on dilution method4 (broth or
+Mild cases nembranous colitis usually respond drug discontinuation alone moderate to severe cases,
+agar) with standardized inoculum and standardized concentrations of sul-
+consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment
+famethoxazole/trimethoprim powder. The MIC values should be interpreted according to the following criteria:
+with an ti-bacteria drug effective against difficile.
+For testing Enterobacteriaceae:
+PRECAUTIONS
+MIC (ug/mL)
+Interpretation
+General: BACTRIM should be given with caution to patients with impaired rena or hepatic function, to those with
+<2/38
+Susceptible (S)
+folate
+deficiency
+the
+elderly,
+chronic
+alcoholics,
+patients
+receiving
+anticonvulsant
+therapy
+patients
+24/76
+Resistant (R)
+When testing either Haemophilus influenzaea Streptococcus pneumoniaeb:
+asthma. with malabsorption In glucose- syndrome, -phosphate and patients deficient individuals, states) and hemolysis to those with severe occur. allergies This reaction or bronchial is fre-
+MIC (ug/mL)
+Interpretationb
+quently dose -related. (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION)
+s0.5/9.5
+Susceptible (S)
+Cases of hypoglycemia non-diabetic patients treated with BACTRIM are seen rarely, usually occurring after
+1/19-2/38
+Intermediate (I)
+a few days therapy. Patients with rena dysfunction, liver disease, malnutrition those receiving high doses
+24/76
+Resistant (R)
+BACTRIM are particularly at risk.
+These interpretative standards are applicable only to broth microdilution susceptibility tests with Haemophilus
+Hematological changes indicative of folic acid deficiency may occur elderly patients patients with preexisting
+influenzae
+using
+Haemophilus
+Test
+Medium
+(HTM)4
+folic acid deficiency or kidney failure. These effects are reversible by folinic acid therapy.
+b These interpretative standards are applicable only to broth microdilution susceptibility tests using cation adjusted
+Trimethoprim has been noted to impair phenylalanine metabolism but this significance phenyike-
+Mueller Hinton broth with 2% to 5% lysed horse blood4
+tonuric
+patients
+on
+appropriate
+dietary
+restriction.
+A report of "Susceptible" indicated that the pathogen is likely to be inhibited if the antimicrobial compound in
+As with all drugs containing sulfonamides, caution advisable in patients with porphyria or thyroid dysfunction.
+the blood reaches the concentrations usually achievable report of indicates that the result should
+Use in the Treatment of and Prophylaxis for Pneumocystis Carinii Pneumonia in Patients with Acquired
+be
+considered
+equivocal,
+and
+if
+the
+microorganism
+is
+not
+frilly
+susceptible
+to
+alternative,
+clinically
+feasible
+drugs,
+the vides physiologically test buffer should concentrated be repeated. which prevents This or in category situations small uncontrolled implies where possible high technical dosage clinical factors of applicability drug from can be in used. body major This sites discrepancies category where the also in drug inter. pro is
+Immunodeficiency manner AIDS Syndrome patients. The (AIDS): incidence AIDS patients side effects may not particularly tolerate or rash respond fever to leukopenia BACTRIM and in the elevated same
+aminotransferase (transaminase) values, with BACTRIM therapy AIDS patients who are being treated for
+zone
+causing
+Pneumocystis
+carinii
+pneumonia
+reported
+to
+be
+greatly
+increased
+compared
+with
+the
+incidence
+nor-
+pretation A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial
+mally associated with the use of BACTRIM patients. The incidence of hyperkalemia appears
+compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
+be increased patients receiving BACTRIM. Adverse effects are generally severe patients receiving
+Quality Control
+BACTRIM for prophylaxis. history of mild intolerance BACTRIM in AIDS patients does not appear to pre-
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the
+dic
+intolerance of subsequent secondary prophylaxis. However, if a patient develops skin rash or any sign
+technical aspects of the laboratory procedures. Standard sulfamethoxazole/trimethoprim powder should pro-
+of adverse reaction, therapy with BACTRIM should be reevaluated (see WARNINGS).
+vide the following range values:
+High dosage of trimethoprim, as used in patients with Pneumocystis carinii pneumonia, induces progressive
+Microorganism
+MIC (ug/mL)
+but
+reversible
+increase
+serum
+potassium
+concentrations
+substantia
+number
+of
+patients.
+Even
+treat-
+Escherichia coli
+ATCC 25922
+s0 5/9.
+ment with recommended doses may cause hyperkalemia when trimethoprim administered to patients with
+Haemophilus influenzaec
+ATCC 49247
+0.03/0.59 0.25/4.75
+underlying disorders of potassium metabolism, with renal insufficiency, or if drugs known to induce hyper-
+Streptococcus pneumoniaed
+ATCC 49619
+0.12/2.4
+kalemia are given concomitantly. Close monitoring of serum potassium warranted in these patients.
+During treatment, adequate fluid intake and urinary output should be ensured to prevent crystalluria. Patients who
+are "slow acetylators' may be more prone to idiosyncratic reactions to sulfonamides.
+priate blood chemistries, including electrolytes. If a significant blood dyscrasia or jaundice occurs, specific
+Information for Patients: Patients should be instructed to maintain an adequate fluid intake in order to pre-
+therapy should instituted for these complications Peritoneal dialysis not effective and hemodialysis
+vent crystalluria and stone formation
+only
+moderately
+effective
+in
+eliminating
+sulfamethoxazole
+and
+trimethoprim.
+Laboratory Tests: Complete blood counts should be done frequently patients receiving BACTRIM; if sig-
+Chronic: Use of BACTRIM at high doses and/or for extended periods of time may cause bone marrow depres-
+nificant reduction in the count of any formed blood element is noted, BACTRIM should be discontinued. Uri-
+manifested as thrombocytopenia, leukopenia and/or megaloblastic anemia. signs of bone marrow depres-
+nalyses with careful microscopic examination and renal function tests should be performed during therapy,
+sion occur, the patient should be given leucovorin to mg daily until norma hematopoiesis restored.
+particularly for those patients with impaired renal function.
+DOSAGE AND ADMINISTRATION
+Drug Interactions: In elderly patients concurrently receiving certain diuretics, primarily thiazides, an increased
+Not recommended for use in pediatric patients less than 2 months of age.
+incidence
+thrombocytopenia
+with
+purpura
+has
+reported.
+Urinary
+Tract
+Infections
+and
+Shigellosis
+in
+Adults
+and
+Pediatric
+Patients,
+and
+Acute
+Otitis
+Media
+in
+Children:
+It
+has been reported that BACTRIM may prolong the prothrombin time patients who are receiving the anti-
+Adults: The usual adult dosage the treatment of urinary tract infections is BACTRIM DS (double strength)
+coagulant warfarin. This interaction should kept mind when BACTRIM given patients already anti-
+tablet, BACTRIM tablets every 12 hours for 10 to 14 days An identica daily dosage is used for 5 days in
+coagulant
+therapy,
+and
+the
+coagulation
+time
+should
+be
+reassessed.
+the
+treatment
+of
+shigellosis
+BACTRIM may inhibit the hepatic metabolism phenytoin. BACTRIM, given at a common clinical dosage increased
+Children: The recommended dose for children with urinary tract infections or acute otitis media 40 mg/kg
+the phenytoin by 39% and decreased the phenytoin metabolic clearance rate by 27%. When administering
+sulfamethoxazole and mg/kg trimethoprim per 24 hours, given in two divided doses every 12 hours for 10
+these drugs concurrently, one should be alert for possible excessive phenytoin effect.
+days
+identical
+daily
+dosage
+used
+for
+days
+the
+treatment
+of
+shigellosis.
+The
+following
+table
+is
+guide-
+Sulfonamides can also displace methotrexate from plasma protein binding sites and can compete with the renal
+line for the attainment of this dosage
+transport methotrexate, thus increasing free methotrexate concentrations.
+Children 2 months of age or older:
+There have been reports of marked but reversible nephrotoxicity with coadministration of BACTRIM and
+Weight
+Dose--every 12 hours
+cyclosporine rena transplant recipients
+kg
+Tablets
+Increased digoxin blood levels can occur with concomitant BACTRIM therapy, especially in elderly patients.
+Serum digoxin levels should be monitored
+Increased sulfamethoxazole blood levels may occur in patients who are receiving indomethacin.
+66
+1/2
+Occasiona reports suggest that patients receiving pyrimethamine as malaria prophylaxis in doses exceeding 25
+88
+40
+2 or DS tablet
+mg weekly may develop megaloblastic anemia BACTRIM prescribed.
+The efficacy of tricyclic antidepressants can decrease when coadministered with BACTRIM.
+For Patients with Impaired Renal Function: When renal function is impaired, a reduced dosage should be
+employed using the following table:
+Like other sulfonamide-containing drugs, BACTRIM potentiates the effect of oral hypoglycemics.
+In the literature single case toxic delirium has been reported after concomitant intake of trimethoprim/sul-
+Creatinine
+Recommended
+famethoxazole and amantadine.
+Clearance (mL/min)
+Dosage Regimen
+Drug/Laboratory Test Interactions: BACTRIM, specifically the trimethoprim component can interfere with serum
+Above 30
+Usual standard regimen
+methotrexate assay as determined by the competiti binding protein technique (CBPA) when a bacterial dihy-
+15-30
+1/2 the usual regimen
+drofolate reductase used as the binding protein. No interference occurs, however, if methotrexate is measured
+Below 15
+Use not recommended
+by radioimmunoassay (RIA).
+The presence of sulfamethoxazole and trimethoprim may also interfere with the Jaffe alkaline picrate reaction
+Acute Exacerbations of Chronic Bronchitis in Adults:
+assay for creatinine, resulting overestimations of about 10% the range of normal values.
+The usual adult dosage the treatment of acute exacerbations of chronic bronchitis is BACTRIM DS (double
+Carcinogenesis, Mutagenesis, Impairment of Fertility:
+strength) tablet, 2 BACTRIM tablets every 12 hours for 14 days.
+Carcinogenesis: Long-term studies in animals to evaluate carcinogenic potential have not been conducted with
+Pneumocystis Carinii Pneumonia:
+BACTRIM.
+Treatment: Adults and Children:
+Mutagenesis: Bacterial mutagenic studies have not been performed with sulfamethoxazole and trimethoprim
+The recommended dosage for patients with documented Pneumocystis carinii pneumonia is 75 to 100 mg/kg sul-
+combination. Trimethoprim was demonstrated to be nonmutagenic the Ames No chromosomal damage
+famethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14
+was
+observed
+in
+human
+leukocytes
+vitro
+with
+sulfamethoxazole
+and
+trimethoprim
+alone
+in
+combination
+the
+to 21 days.8 The following table is guideline for the upper limit of this dosage
+concentrations used exceeded blood levels of these compounds following therapy with sulfamethoxazole and
+leukocytes obtained from patients treated with sulfamethoxazole and trimethoprim
+Weight
+Dose- every 6 hours
+revealed no chromosomal abnormalities.
+ib
+kg
+Tablets
+Impairment of Fertility No adverse effects fertility or general reproductive performance were observed in rats given
+18
+8
+oral dosages as high as 350 mg/kg/day sulfamethoxazol plus mg/kg/day trimethoprim.
+35
+16
+53
+24
+1/2
+Pregnancy: Teratogenic Effects: Pregnancy Category rats, oral doses of 533 mg/kg or 200 mg/kg pro-
+70
+or DS tablet
+duced teratologic effects manifested mainly as cleft palates
+88
+40
+1/2
+The highest dose which did not cause cleft palates rats was 512 mg/kg or 192 mg/kg trimethoprim when admin-
+106
+48
+3 1/2 DS tablets
+istered separately. In two studies in rats no teratology was observed when 512 mg/kg of sulfamethoxazole was
+141
+64
+or tablets
+used
+combination
+with
+128
+mg/kg
+of
+one
+study,
+however,
+cleft
+palates
+were
+observed
+in
+one
+176
+80
+tablets
+litter out of 9 when 355 mg/kg of sulfamethoxazole was used in combination with 88 mg/kg of trimethoprim.
+rabbit studies, overall increase fetal loss (dead and resorbed and malformed conceptuses) was asso-
+For the lower limit dose (75 mg/kg sulfamethoxazole and 15 mg/kg trimethoprim per 24 hours) administer 75%
+ciated
+with
+doses
+of
+trimethoprim
+6
+times
+the
+human
+therapeutic
+dose.
+of the dose in the above table.
+While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant
+Prophylaxis:
+women,
+Brumfitt
+and
+Pursell,7
+in
+retrospective
+study,
+reported
+the
+outcome
+of
+186
+pregnancies
+during
+which
+Adults:
+the mother received either placebo or sulfamethoxazole and trimethoprim. The incidence of congenital abnor-
+The recommended dosage for prophylaxis in adults is BACTRIM DS (double strength) tablet daily.
+malities was .5% (3 66) those who received placebo and 3.3% of 120) in those receiving sulfamethox.
+Children:
+azole and trimethoprim. There were no abnormalities the 10 children whose mothers received the drug during
+the first trimester In separate survey Brumfitt and Pursell also found no congenital abnormalities in 35 chil-
+For children, the recommended dose is 750 mg/m2 /day sulfamethoxazole with 150 mg/m2/day trimethoprim
+dren whose mothers had received oral sulfamethoxazole and trimethoprim at the time of conception or shortly
+given orally equally divided doses twice day on consecutive week. The tota daily dose should
+thereafter.
+not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim. The following table is a guideline for
+the
+Because sulfamethoxazole and trimethoprim may interfere with folic acid metabolism, BACTRIM should be used
+attainment of this dosage children:
+during
+pregnancy
+only
+the
+potential
+benefit
+justifies
+the
+potentia
+risk
+to
+the
+fetus.
+Body Surface Area
+-every 12 hours
+Nonteratogenic Effects: See CONTRAINDICATIONS section.
+(m2)
+Tablets
+Nursing Mothers: See CONTRAINDICATIONS section.
+Pediatric Use: BACTRIM not recommended for infants younger than 2 months of age (see INDICATIONS
+0.53
+1/2
+and CONTRAINDICATIONS sections).
+1.06
+Geriatric Use: Clinical studies of BACTRIM did not include sufficient numbers of subjects aged 65 and over
+to
+determine
+whether
+they
+respond
+differently
+from
+younger
+subjects.
+Traveler's Diarrhea in Adults:
+There may be an increased risk severe adverse reactions in elderly patients particularly when complicating
+For the treatment of traveler's diarrhea, the usual adult dosage is BACTRIM DS (double strength) tablet; 2
+conditions
+exist.
+impaired
+kidney
+and/or
+liver
+function,
+possible
+folate
+deficiency
+concomitant
+use
+BACTRIM tablets every 12 hours for days.
+other drugs. Severe skin reactions, generalized marrow suppression (see WARNINGS and ADVERSE
+HOW SUPPLIED
+REACTIONS sections), or a specific decrease in platelets (with or without purpura) are the most frequently
+BACTRIMT TABLETS are supplied as follows:
+reported severe adverse reactions in elderly patients. In those concurrently receiving certain diuretics, primarily
+BACTRIMTI DS (double strength) (white. oval shaped, scored) containing 160 trimethoprim and
+thiazides, an ncreased incidence of with purpura reported Increased digoxin blood
+800 mg sulfamethoxazole bottles of 100 (NDC 64248-117-10) and 500 (NDC 64248-117-50) Imprint on tablets
+levels
+can
+occur
+with
+concomitant
+BACTRIM
+therapy
+especially
+elderly
+patients
+Serum
+digoxin
+levels
+should
+(debossed): (front) BACTRIM DS; (back) WFHC.
+be effects monitored are reversible Hematological by folinic changes acid therapy indicative Appropriate of folic dosage acid deficiency adjustments may should occur in be elderly made for patients. patients These with
+BACTRIMTM TABLETS (white, round, scored) containing 80 mg trimethoprim and 400 mg sulfamethoxazole
+impaired kidney function and duration should short as possible to minimize risks undesired
+bottles of 100 (NDC 64248-004-10) Imprint on tablets (debossed) (front) BACTRIM; (back) WFHC.
+reactions (see DOSAGE AND ADMINISTRATION section). The trimethoprim component of BACTRIM may cause
+Store at controlled room temperature 159-30C (599-86%F).
+hyperkalemia when administered to patients with underlying disorders of potassium metabolism, with renal
+DISPENSE IN TIGHT, LIGHT-RESISTANT CONTAINER.
+or when given with drugs known induce monitoring of serum
+potassium
+these
+of
+REFERENCES
+warranted
+patients
+Discontinuation
+BACTRIM
+treatment
+is
+recommended
+to
+help
+lower
+potassium serum levels. Bactrim Tablets contain 1.8 mg sodium mEq) of sodium per tablet. Bactrim DS
+Kremers Duvivier Heusghem Pharmacokinetic Studies of Co-Trimoxazole in Man after Single and
+Repeated
+Doses
+Clin
+Pharmacol.
+Feb-Mar
+14:112-117
+Tablets contain mg (0.16 mEq) of sodium per tablet.
+2.
+Kaplan SA al Pharmacokinetic Profile of Trimethoprim-Sulfamethoxazole in Man. Infect Dis. Nov 1973;
+Pharmacokinetics parameters for sulfamethoxazole were similar for geriatric subjects and younger adult sub-
+128
+(Suppl):
+jects The mean maximum serum trimethoprim was higher and clearance trimetho.
+Varoquaux O, et al Pharmacokinetics of the methoprim-sulfamethoxazole combination in the elderly Br
+prim was lower geriatric subjects compared with younger subjects (see CLINICAL PHARMACOLOGY:
+Clin
+Pharmacol
+1985;20;575-581
+Geriatric Pharmacokinetics).
+Rudoy RC, Nelson JD, Haltalin KC. Antimicrobial Agents Chemother. May 1974;5:439-443
+ADVERSE REACTIONS
+National Committee Clinical Laboratory Standards Methods Dilution Antimicrobial Susceptibility Tests
+The most common adverse effects are gastrointestinal disturbances (nausea vomiting, anorexia) and allergic
+for Bacteria that Grow Aerobically; Approved Standard Fourth Edition. NCCLS document M7-A4, Vol.17 No.
+skin reactions (such rash RARE. and urticaria) HAVE FATALITIES ASSOCIATED SEVERE WITH ADMINISTRATION STEVENS. OF SUL-
+NCCLS, Wayne, PA, January, 1997
+FONAMIDES,
+ALTHOUGH
+OCCURRED
+REACTIONS,
+INCLUDING
+Nationa
+Committee
+for
+Clinical
+_aboratory
+Standards.
+Performance
+Standards
+for
+Antimicrobial
+Disk
+Sus-
+JOHNSON
+SYNDROME,
+TOXIC
+EPIDERMAL
+NECROLYSIS,
+FULMINANT
+HEPATIC
+NECROSIS,
+ceptibility Tests Approved Standard Sixth Edition. NCCLS Document M2-A6, Vol.17, No.1, NCCLS, Wayne,
+AGRANULOCYTOSIS, APLASTIC ANEMIA AND OTHER BLOOD DYSCRASIAS (SEE WARNINGS SECTION).
+PA January 1997
+Hardy DW, et al controlled trial of trimethoprim-sulfamethoxazole or aerosolized pentamidine for sec-
+Hematologic: Agranulocytosis aplastic anemia thrombocytopenia, leukopenia, neutropenia, hemolytic anemia,
+megaloblastic anemia hypoprothrombinemia, methemoglobinemia, eosinophilia.
+ondary prophy Pneumocystis carinii pneumonia patients with the acquired immunodeficiency syn-
+drome
+Engl
+Med.
+327:1842-1848
+Allergic Reactions: Stevens Johnson syndrome, toxic epidermal necrolysis, anaphylaxis, allergic myocarditis
+8 Brumfitt W, Pursell R frimethoprim/Sulfamethoxazole in the Treatment of Bacteriuria in Women J Infect
+erythema
+multiforme,
+exfoliative
+dermatitis,
+angioedema,
+drug
+fever
+chills,
+purpura,
+serum
+Dis
+Nov
+1973:
+sickness-like syndrome, generalized allergic reactions, generalized skin eruptions, photosensitivity conjunc-
+Masur H. Prevention and treatment of Pneumocystis pneumonia. N Engl Med. 1992; 327:1853-1880.
+tival and scleral injection, pruritus, urticaria and rash. addition, periarteritis nodosa and systemic lupus ery-
+10. Recommendations for prophylaxis against Pneumocystis carinii pneumonia for adults and adolescents
+thematosus have been reported.
+infected
+with
+human
+immunodeficiency
+virus
+MMWR.
+1992;
+41(RR-4):1-11
+Gastrointestinal: Hepatitis (including cholestatic jaundice and hepatic necrosis), elevation of serum transami-
+11. CDC Guidelines for prophylaxis against Pneumocystis carinii pneumonia for children infected with human
+and bilirubin, pseudomembranous enterocolitis, pancreatitis, stomatitis glossitis, nausea, emesis, abdom-
+immunodeficiency virus. MMWR. 1991; 40(RR-2):1-13.
+inal pain, diarrhea, anorexia.
+Genitourinary: Renal failure, interstitial nephritis BUN and serum creatinine elevation, toxic nephrosis with olig
+uria
+and
+anuria,
+crystalluria
+and
+nephrotoxicity
+association
+with
+cyclosporine
+Manufactured for
+Metabolic and Nutritional: Hyperkalemia (see PRECAUTIONS Use the Treatment of and Prophylaxis
+WOMEN FIRST HEALTHCARE, INC.
+for
+Pneumocystis
+Carinii
+Pneumonia
+in
+Patients
+with
+Acquired
+Immunodeficiency
+Syndrome
+(AIDS).
+San Diego, CA 92130
+Neurologic: Aseptic meningitis, convulsions, peripheral neuritis, ataxia, vertigo, tinnitus, headache.
+www.womenfirst.com
+Psychiatric: Hallucinations, depression, apathy, nervousness.
+MUTUAL PHARMACEUTICAL COMPANY, INC.
+Endocrine: The sulfonamides bear certain chemical similarities some goitrogens, diuretics (acetazolamide
+Philadelphia, PA 19124
+and the thiazides) and oral hypoglycemic agents ross-sensitivity may exist with these agents. Diuresis and
+hypoglycemia have occurred rarely in patients receiving sulfonamides.
+Musculoskeletal Arthralgia and myalgia. Isolated cases of rhabdomyolysis have been reported with BACTRIM,
+mainly
+AIDS
+patients
+Respiratory: Cough, shortness of breath and pulmonary infiltrates (see WARNINGS).
+BA-02-04-1
+WOMENFIRST
+Miscellaneous: Weakness, fatigue, insomnia.
+Revised: July 2002Ch
+OVERDOSAGE
+Acute: The amount of a single dose of BACTRIM that is either associated with symptoms of overdosage or is
+likely
+to
+be
+life-threatening
+has
+not
+been
+reported.
+Signs
+and
+symptoms
+of
+overdosage
+reported
+with
+sulfonamides
+include anorexia, colic, nausea, vomiting dizziness, headache, drowsiness and unconsciousness. Pyrexia, hema-
+turia and crystalluria may be noted. Blood dyscrasias and jaundice are potentia late manifestations overdosage
+Signs of acute overdosage with trimethoprim include nausea, vomiting, dizziness, headache, mental depression,
+confusion and bone marrow depression.
+Genera principles of treatment include the institution of gastric lavage emesis, forcing oral fluids and admin-
+istration
+of
+intravenous
+fluids
+urine
+output
+is
+low
+and
+renal
+function
+is
+normal
+Acidification
+of
+the
+urine
+will
+increase rena elimination of trimethoprim. The patient should be monitored with blood counts and appro-
+This is a representation of an electronic record that was signed electronically and
+this page is the manifestation of the electronic signature.
+/s/
+Janice Soreth
+10/17/02 04:30:19 PM

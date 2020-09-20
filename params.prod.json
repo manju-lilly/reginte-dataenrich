@@ -1,0 +1,25 @@
+{
+  "Parameters": {
+    "DeployEnvironment": "prod",
+    "AppName": "regintel-fdaenrich",
+    "CostCenter": "Cost Center ID",
+    "CostCenterApprover": "Cost Center Approver User ID",
+    "SystemOwner": "System Owner User ID",
+    "SystemCustodian": "System Custodian User ID",
+    "PrimaryItContact": "Primary IT Contact User ID",
+    "Level1BusinessArea": "Business Area ex. Global Services",
+    "DataClassification": "Green",
+    "Hipaa": "Yes"
+  },
+  "Tags": {
+    "CostCenter": "Cost Center ID",
+    "CostCenterApprover": "Cost Center Approver User ID",
+    "SystemOwner": "System Owner User ID",
+    "SystemCustodian": "System Custodian User ID",
+    "PrimaryItContact": "Primary IT Contact User ID",
+    "Level1BusinessArea": "Business Area ex. Global Services",
+    "DataClassification": "Green",
+    "Hipaa": "Yes"
+  },
+  "StackPolicy": {}
+}

@@ -1,0 +1,1096 @@
+CLINICAL STUDIES
+CLINICAL STUDIES
+131
+Adjuvant Treatment of Early Breast Cancer in Postmenopausal Women
+132
+A multicenter, double-blind study randomized over 8000 postmenopausal women with
+133
+resected, receptor-positive early breast cancer to one of the following arms:
+134
+A. tamoxifen for 5 years
+135
+B. Femara for 5 years
+136
+C. tamoxifen for 2 years followed by Femara for 3 years
+137
+D. Femara for 2 years followed by tamoxifen for 3 years
+138
+139
+Median treatment duration was 24 months, median follow-up duration was 26 months, 76% of
+140
+the patients have been followed for more than 2 years, and 16% of patients for 5 years or
+141
+longer.
+142
+143
+Page 5
+144
+Data in Table 2 reflect results from non-switching arms (arms A and B) together with
+145
+data truncated 30 days after the switch in the two switching arms (arms C and D) The
+146
+analysis of monotherapy VS. sequencing of endocrine treatments will be conducted when the
+147
+necessary number of events has been achieved.
+Selected baseline characteristics for the
+148
+study population are shown in Table 1.
+149
+150
+Table 1: Selected Study Population Demographics for Adjuvant Study (ITT population)
+151
+Baseline Status
+Femara
+tamoxifen
+152
+N=4003
+Ne4007
+153
+Age (median, years)
+61
+61
+154
+Age range (years)
+38-89
+39-90
+155
+Hormone receptor status (%)
+156
+ER+ and/or PgR+
+99.7
+99.7
+157
+Both unknown
+0.3
+0.3
+158
+Nodal status (%)
+159
+Node negative
+52
+52
+160
+Node positive
+41
+41
+161
+Nodal status unknown
+7
+7
+162
+Prior adjuvant chemotherapy (%)
+25
+25
+163
+164
+165
+Table 2 : Adjuvant Study Results
+166
+Femara
+tamoxifen
+Hazard Ratio
+P-Value
+N=4003
+N=4007
+(95 % CI)
+Disease-free survivall
+296
+369
+0.79 (0.68, 0.92)
+0.002
+O
+Node positive
+0.71 (0.59, 0.86)
+0.0005
+O
+Node negative
+0.92 (0.70, 1.22)
+0.572
+O
+Prior adjuvant chemotherapy
+0.70 (0.53, 0.93)
+0.013
+O
+No chemotherapy
+0.83 (0.69, 1.00)
+0.046
+Systemic disease-free survival2
+268
+321
+0.83 (0.70, 0.97)
+0.022
+Time to distant metastasis 3
+184
+249
+0.73 (0.60, 0.88)
+0.001
+O
+Node positive
+0.67; (0.54, 0.84)
+0.0005
+O
+Node negative
+0.90; (0.60, 1.34)
+0.597
+O
+Prior adjuvant chemotherapy
+0.69; (0.50, 0.95)
+0.024
+O
+No chemotherapy
+0.75; (0.60, 0.95)
+0.018
+Contralatera breast cancer
+19
+31
+0.61 (0.35, 1.08)
+0.091
+Page 6
+Overall survival
+166
+192
+0.86 (0.70, 1.06)
+0.155
+O
+Node positive
+0.81 (0.63, 1.05)
+0.113
+O
+Node negative
+0.88 (0.59, 1.30)
+0.507
+O
+Prior adjuvant chemotherapy
+0.76 (0.51, 1.14)
+0.185
+O
+No chemotherapy
+0.90 (0.71, 1.15)
+0.395
+*Definition of
+1 Disease free survival: Time from randomization to the earliest occurrence of invasive loco-regional recurrence,
+distant metastases, invasive contralateral breast cancer, or death from any cause.
+2 Systemic disease free survival: Time from randomization to invasive regional recurrence, distant metastases, or
+death from any cause
+3 Time to distant metastasis: Time from randomization to distant metastases.
+167
+Figure 1 shows the Kaplan-Meier curves for DFS.
+168
+Figure Disease-free survival (ITT population)
+169
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+Start
+12
+24
+36
+48
+60
+=4003
+3912
+2989
+1280
+907
+575 let
+=4007
+3914
+2961
+1258
+881
+549 tam
+Months
+170
+Tamoxifen
+Letrozole
+171
+172
+173
+Extended Adjuvant Treatment of Early Breast Cancer in Postmenopausal Women After
+174
+Completion of 5 Years of Adjuvant Tamoxifen Therapy.
+175
+A double-blind, randomized, placebo-controlled trial of Femara was performed in over 5100
+176
+postmenopausal women with receptor-positive or unknown primary breast cancer who were
+177
+disease-free after 5 years of adjuvant treatment with tamoxifen. Patients had to be within 3
+178
+months of completing the 5 years of tamoxifen.
+179
+The planned duration of treatment for patients in the study was 5 years, but the trial
+180
+was terminated early because of an interim analysis showing a favorable Femara effect on
+181
+time without recurrence or contralateral breast cancer. At the time of unblinding, women had
+Page 7
+182
+been followed for a median of 28 months, 30% of patients had completed 3 or more years of
+183
+follow-up and less than 1% of patients had completed 5 years of follow-up.
+184
+185
+Selected baseline characteristics for the study population are shown in Table 3.
+186
+Table 3: Selected Study Population Demographics (Modified ITT population)
+187
+Baseline Status
+Femara
+Placebo
+188
+N=2582
+N=2586
+189
+Hormone receptor status (%)
+190
+ER- and/or PgR+
+98
+98
+191
+Both unknown
+2
+2
+192
+Nodal status (%)
+193
+Node negative
+50
+50
+194
+Node positive
+46
+46
+195
+Nodal status unknown
+4
+4
+196
+Chemotherapy
+46
+46
+197
+198
+Table 4 shows the study results. Disease-free survival was measured as the time from
+199
+randomization to the earliest event of loco-regional or distant recurrence of the primary
+200
+disease or development of contralateral breast cancer or death. Data were premature for an
+201
+analysis of survival.
+202
+Table 4: Extended Adjuvant Study Results
+Femara
+Placebo
+Hazard Ratio
+P-Value
+N = 2582
+N - 2586
+(95% CI)
+-
+Disease Free Survival (DFS)
+122 (4.7%)
+193 (7.5%)
+0.62 (0.49, 0.49, 0.78) 0.78)
+0.00003
+(First event of loco-regiona recurrence,
+distant relapse, contralateral breast cancer
+or death from any cause)
+Local breast recurrence
+9
+22
+Local chest wall recurrence
+2
+8
+Regional recurrence
+7
+4
+Distant recurrence
+55
+92
+0.61 (0.44 0.84)
+0.003
+Contralateral breast cancer
+19
+29
+Deaths without recurrence or contralateral
+30
+38
+breast cancer
+DFS by stratification
+Receptor status
+- positive
+117/2527(4.6%)
+190/2530(7.5%)
+0.60(0.48,0.76)
+- unknown
+5/55(9.1%)
+3/56(5.4%)
+1.78(0.43,7.5)
+nodal status
+- positive
+77/1184(6.5%)
+123/1187(10.4%)
+0.61(0.46,0.81)
+- negative
+39/1298(3.0%)
+63/1301(4.8%)
+0.61(0.41,0.91)
+- unknown
+6/100(6.0%)
+7/98(7.1%)
+.81(0.27,2.4)
+adjuvant chemotherapy
+- yes
+58/1197(4.8%)
+88/1199(7.3%)
+0.64(0.46,0.90)
+-
+no
+64/1385(4.6%)
+105/1387(7.6%)
+0.60(0.44,0.81)
+Page 8
+Femara
+Placebo
+Hazard Ratio
+P-Value
+N - 2582
+N = 2586
+(95% CI)
+CI - confidence interval for hazard ratio. Hazard ratio of less than 1.0 indicates difference in favor of Femara (lesser
+risk of recurrence); hazard ratio greater than 1.0 indicates difference in favor of placebo (higher risk of recurrence with
+Femara)
+1 Analysis stratified by receptor status, noda status and prior adjuvant chemotherapy (stratification factors as at
+randomization) P-value based on stratified logrank test.
+203
+204
+First-Line Breast Cancer
+205
+A randomized, double-blinded, multinational trial compared Femara 2.5 mg with tamoxifen
+206
+20 mg in 916 postmenopausal patients with locally advanced (Stage IIIB or locoregiona
+207
+recurrence not amenable to treatment with surgery or radiation) or metastatic breast cancer.
+208
+Time to progression (TTP) was the primary endpoint of the trial. Selected baseline
+209
+characteristics for this study are shown in Table 5.
+210
+Table 5: Selected Study Population Demographics
+211
+Baseline Status
+Femara
+tamoxifen
+212
+Ne458
+N=458
+213
+Stage of Disease
+214
+IIIB
+6%
+7%
+215
+IV
+93%
+92%
+216
+Receptor Status
+217
+ER and PgR Positive
+38%
+41%
+218
+ER or PgR Positive
+26%
+26%
+219
+Both Unknown
+34%
+33%
+220
+ER or PgR / Other Unknown
+<1%
+O
+221
+Previous Antiestrogen Therapy
+222
+Adjuvant
+19%
+18%
+223
+None
+81%
+82%
+224
+Dominant Site of Disease
+225
+Soft Tissue
+25%
+25%
+226
+Bone
+32%
+29%
+227
+Viscera
+43%
+46%
+228
+Femara was superior to tamoxifen in TTP and rate of objective tumor response (see Table 6).
+229
+Table 6 summarizes the results of the trial, with a total median follow-up of approximately 32
+230
+months (All analyses are unadjusted and use 2-sided P-values.)
+231
+Table 6: Results
+232
+Femara
+tamoxifen
+Hazard or Odds
+233
+2.5 mg
+20 mg
+Ratio (95% CI)
+234
+N=453
+N=454
+P-value (2-sided)
+235
+Median Time
+236
+to Progression
+9.4 months
+6.0 months
+0.72 (0.62, 0.83)1
+237
+P<0.0001
+238
+Objective Response
+239
+Rate
+240
+(CR + PR)
+145 (32%)
+95 (21%)
+1.77 (1.31, 2.39)2
+Page 9
+241
+P=0.0002
+242
+(CR)
+42 (9%)
+15 (3%)
+2.99 (1.63, 5.47)2
+243
+P=0.0004
+244
+Duration of Objective
+245
+Response
+246
+Median
+18 months
+16 months
+247
+(N=145)
+(N=95)
+248
+Overall Survival
+35 months
+32 months
+249
+(N=458)
+(N=458)
+P=0.5136
+250
+1 Hazard ratio
+251
+2
+Odds ratio
+252
+3
+Overall logrank test
+253
+254
+Figure 2 shows the Kaplan-Meier curves for TTP.
+255
+Figure 2: Kaplan-Meier Estimates of Time to Progression
+256
+(Tamoxifen Study)
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+6
+12
+18
+24
+30
+36
+42
+48
+54
+60
+Months
+Femara 2.5 mg
+tamoxifen 20 mg
+257
+258
+Table 7 shows results in the subgroup of women who had received prior antiestrogen
+259
+adjuvant therapy, Table 8, results by disease site and Table 9, the results by receptor status.
+260
+261
+Table 7: Efficacy in Patients Who Received Prior
+262
+Antiestrogen Therapy
+263
+Variable
+Femara
+tamoxifen
+264
+2.5 mg
+20 mg
+265
+N=84
+N=83
+266
+Median Time to
+267
+Progression (95% CI)
+8.9 months (6.2, 12.5)
+5.9 months (3.2, 6.2)
+268
+Hazard Ratio
+269
+for TTP (95% CI)
+0.60 (0.43, 0.84)
+270
+Objective Response Rate
+271
+(CR + PR)
+22 (26%)
+7 (8%)
+Page 10
+272
+Odds Ratio for
+273
+Response (95% CI)
+3.85 (1.50, 9. 9.60)
+274
+Hazard ratio less than 1 or odds ratio greater than 1 favors Femara; hazard ratio greater than 1 or odds ratio less
+275
+than 1 favors tamoxifen.
+276
+Table 8: Efficacy by Disease Site
+277
+Femara
+tamoxifen
+278
+2.5 mg
+20 mg
+279
+Dominant Disease Site
+280
+Soft Tissue:
+N=113
+N=115
+281
+Median TTP
+12.1 months
+6.4 months
+282
+Objective Response
+283
+Rate
+50%
+34%
+284
+Bone:
+N=145
+N=131
+285
+Median TTP
+9.5 months
+6.3 months
+286
+Objective Response
+287
+Rate
+23%
+15%
+288
+Viscera:
+N=195
+N=208
+289
+Median TTP
+8.3 months
+4.6 months
+290
+Objective Response
+291
+Rate
+28%
+17%
+292
+293
+Table 9: Efficacy by Receptor Status
+294
+Variable
+Femara
+tamoxifen
+295
+2.5 mg
+20 mg
+296
+Receptor Positive
+N=294
+N=305
+297
+Median Time to
+298
+Progression (95% CI)
+9.4 months (8.9, 11.8)
+6.0 months (5.1, 8.5)
+299
+Hazard Ratio for
+300
+TTP (95% CI)
+0.69 (0.58, 0.83)
+301
+Objective Response
+302
+Rate (CR+PR)
+97 (33%)
+66 (22%)
+303
+Odds Ratio for Response
+304
+(95% CI)
+1.78 (1.20,2 2.60)
+305
+Receptor Unknown
+N=159
+N=149
+306
+Median Time to
+307
+Progression (95% CI)
+9.2 months (6.1, 12.3)
+6.0 months (4.1, 6.4)
+308
+Hazard Ratio for
+309
+TTP (95% CI)
+0.77 (0.60, 0.99)
+310
+Objective Response
+311
+Rate (CR+PR)
+48 (30%)
+29 (20%)
+312
+Odds Ratio for Response
+313
+(95% CI)
+1.79 (1.10, 3.00)
+314
+Hazard ratio less than 1 or odds ratio greater than 1 favors Femara; hazard ratio greater than 1 or odds ratio less
+315
+than 1 favors tamoxifen
+316
+Figure 3 shows the Kaplan-Meier curves for survival.
+Page 11
+317
+Figure 3: Survival by Randomized Treatment Arm
+1.0
+1.0
+0.9
+0.9
+0.8
+0.8
+0.7
+0.7
+0.6
+0.6
+0.5
+0.5
+0.4
+0.4
+0.3
+0.3
+0.2
+0.2
+0.1
+0.1
+0.0
+0.0
+0
+6
+12
+18
+24
+30
+36
+42
+48
+54
+60
+Months
+letrozole 1st
+tamoxifen 1st
+318
+319
+Legend: Randomized Femara: n=458 events 57%, median overall survival 35 months (95% CI 32 to
+320
+38 months)
+321
+Randomized tamoxifen: n=458, events 57%, median overall survival 32 months (95% CI 28 to 37
+322
+months)
+323
+Overall logrank P=0.5136 (i.e., there was no significant difference between treatment arms in overall
+324
+survival).
+325
+The median overall survival was 35 months for the Femara group and 32 months for
+326
+the tamoxifen group, with a P value 0.5136.
+327
+Study design allowed patients to crossover upon progression to the other therapy.
+328
+Approximately 50% of patients crossed over to the opposite treatment arm and almost all
+329
+patients who crossed over had done SO by 36 months. The median time to crossover was 17
+330
+months (Femara to tamoxifen) and 13 months (tamoxifen to Femara). In patients who did not
+331
+crossover to the opposite treatment arm, median survival was 35 months with Femara (n-219,
+332
+95% Cl 29 to 43 months) VS. 20 months with tamoxifen (n-229, 95% Cl 16 to 26 months).
+333
+Second-Line Breast Cancer
+334
+Femara was initially studied at doses of 0.1 mg to 5.0 mg daily in six non-comparative Phase
+335
+I/II trials in 181 postmenopausal estrogen/progesterone receptor positive or unknown
+336
+advanced breast cancer patients previously treated with at least anti-estrogen therapy Patients
+337
+had received other hormonal therapies and also may have received cytotoxic therapy. Eight
+338
+(20%) of forty patients treated with Femara 2.5 mg daily in Phase I/II trials achieved an
+339
+objective tumor response (complete or partial response).
+340
+Two large randomized controlled multinational (predominantly European) trials were
+341
+conducted in patients with advanced breast cancer who had progressed despite antiestrogen
+342
+therapy Patients were randomized to Femara 0.5 mg daily, Femara 2.5 mg daily, or a
+343
+comparator (megestrol acetate 160 mg daily in one study; and aminoglutethimide 250 mg
+Page 12
+344
+b.i.d. with corticosteroid supplementation in the other study). In each study over 60% of the
+345
+patients had received therapeutic antiestrogens, and about one-fifth of these patients had had
+346
+an objective response. The megestrol acetate controlled study was double-blind; the other
+347
+study was open label. Selected baseline characteristics for each study are shown in Table 10.
+348
+Table 10: Selected Study Population Demographics
+349
+Parameter
+megestrol acetate
+aminoglutethimide
+350
+study
+study
+351
+No. of Participants
+552
+557
+352
+Receptor Status
+353
+ER/PR Positive
+57%
+56%
+354
+ER/PR Unknown
+43%
+44%
+355
+Previous Therapy
+356
+Adjuvant Only
+33%
+38%
+357
+Therapeutic +/- Adj.
+66%
+62%
+358
+Sites of Disease
+359
+Soft Tissue
+56%
+50%
+360
+Bone
+50%
+55%
+361
+Viscera
+40%
+44%
+362
+Confirmed objective tumor response (complete response plus partial response) was the
+363
+primary endpoint of the trials. Responses were measured according to the Union
+364
+Internationale Contre le Cancer (UICC) criteria and verified by independent, blinded review.
+365
+All responses were confirmed by a second evaluation 4-12 weeks after the documentation of
+366
+the initial response.
+367
+Table 11 shows the results for the first trial, with a minimum follow-up of 15 months,
+368
+that compared Femara 0.5 mg, Femara 2.5 mg, and megestrol acetate 160 mg daily. (All
+369
+analyses are unadjusted.)
+370
+Table 11: Megestrol Acetate Study Results
+371
+Femara
+Femara
+megestrol
+372
+0.5 mg
+2.5 mg
+acetate
+373
+N=188
+N=174
+N=190
+374
+Objective
+375
+Response
+376
+(CR + PR)
+22 (11.7%)
+41 (23.6%)
+31 (16.3%)
+377
+Median Duration
+378
+of Response
+552 days
+(Not reached)
+561 days
+379
+Median Time
+380
+to Progression
+154 days
+170 days
+168 days
+381
+Median
+382
+Survival
+633 days
+730 days
+659 days
+383
+Odds Ratio
+384
+for Response
+Femara 2.5: Femara 0.5 - 2.33
+Femara 2.5: megestrol - 1.58
+385
+(95% Cl: 1.32, 4.17); P=0.004*
+(95% Cl: 0.94, 2.66); P=0.08*
+386
+Relative Risk
+387
+of Progression
+Femara 2.5: Femara 0.5 - 0.81
+Femara 2.5: megestrol - 0.77
+Page 13
+388
+(95% Cl: 0.63, 1.03); P=0.09*
+(95% Cl: 0.60, 0.98), P=0.03*
+389
+* two-sided P-value
+390
+The Kaplan-Meier Curve for progression for the megestrol acetate study is shown in
+391
+Figure 4.
+392
+Figure 4: Kaplan-Meier Estimates of Time to Progression (Megestrol Acetate Study)
+1.0
+0.9
+0.s
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+100
+200
+880
+400
+500
+$00
+700
+800
+900
+1000
+TIME TO PROGRESSION (INDAYS)
+Treatmont Group:
+Femarae
+0.5
+mg
+Femnara 2.5 mg
+MA
+393
+394
+The results for the study comparing Femara to aminoglutethimide, with a minimum
+395
+follow-up of nine months, are shown in Table 12. (Unadjusted analyses are used.)
+396
+Table 12: Aminoglutethimide Study Results
+397
+Femara
+Femara
+398
+0.5 mg
+2.5 mg
+aminoglutethimide
+399
+N=193
+N=185
+N=179
+400
+Objective
+401
+Response
+402
+(CR + PR)
+34 (17.6%)
+34 (18.4%)
+22 (12.3%)
+403
+Median
+404
+Duration of
+405
+Response
+619 days
+706 days
+450 days
+406
+Median
+407
+Time To
+408
+Progression
+103 days
+123 days
+112 days
+409
+Median
+410
+Survival
+636 days
+792 days
+592 days
+411
+Odds Ratio
+412
+for Response
+Femara 2.5:
+Femara 2.5:
+413
+Femara 0.5=1.05
+aminoglutethimide=1.6
+414
+(95% Cl: 0.62, 1.79); P=0.85*
+(95% CI: 0.90, 2.87); P=0.11*
+415
+Relative Risk
+416
+of Progression
+Femara 2.5:
+Femara 2.5:
+Page 14
+417
+Femara 0.5-0.86
+aminoglutethimide=0.74
+418
+(95% Cl: 0.68, 1.11); P=0.25*
+(95% Cl: 0.57, 0.94), P=0.02*
+419
+*two-sided P-value
+420
+The Kaplan-Meier Curve for progression for the aminoglutethimide study is shown in
+421
+Figure 5.
+422
+Figure 5 Kaplan-Meier Estimates of Time to Progression (Aminoglutethimide Study)
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+TIME TO PROGRESSION (IN DAYS)
+Treatment Group:
+Femara 0.5 mg
+Femara E 2.5 mg
+AG
+423
+424
